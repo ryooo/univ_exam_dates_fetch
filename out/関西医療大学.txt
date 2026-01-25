@@ -1,0 +1,38 @@
+[
+  {
+    "univ_name": "関西医療大学",
+    "test_venue_name": "関西医療大学 本学キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府泉南郡熊取町若葉2-11-1",
+    "dates": "2026/1/26,2026/1/27,2026/3/1",
+    "remarks": "一般選抜 前期A/B・後期",
+    "source_url": "https://www.kansai.ac.jp/info/access/"
+  },
+  {
+    "univ_name": "関西医療大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/1/26",
+    "remarks": "一般選抜 前期A日程のみ",
+    "source_url": "https://www.kansai.ac.jp/start/admission/category/general/"
+  },
+  {
+    "univ_name": "関西医療大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2026/1/26",
+    "remarks": "一般選抜 前期A日程のみ",
+    "source_url": "https://www.kansai.ac.jp/start/admission/category/general/"
+  },
+  {
+    "univ_name": "関西医療大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/1/26",
+    "remarks": "一般選抜 前期A日程のみ",
+    "source_url": "https://www.kansai.ac.jp/start/admission/category/general/"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "univ_name": "ノースアジア大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市下北手桜守沢46-1",
+    "dates": "2025/10/11,2025/11/1,2025/11/22,2025/12/13,2026/2/7,2026/3/12",
+    "remarks": "総合型Ⅰ～Ⅳ、推薦Ⅰ・Ⅱ、一般A・B",
+    "source_url": "https://www.nau.ac.jp/examination/entrance"
+  },
+  {
+    "univ_name": "ノースアジア大学",
+    "test_venue_name": "仙台会場（ベルエア会館）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区一番町1丁目4番3号",
+    "dates": "2025/10/11,2025/11/1,2026/2/7",
+    "remarks": "総合型Ⅰ・Ⅱ、一般A方式",
+    "source_url": "https://www.nau.ac.jp/examination/entrance"
+  },
+  {
+    "univ_name": "ノースアジア大学",
+    "test_venue_name": "大館会場（秋田看護福祉大学）",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県大館市清水２丁目３−４",
+    "dates": "2026/2/7",
+    "remarks": "一般A方式",
+    "source_url": "https://www.nau.ac.jp/examination/entrance"
+  }
+]

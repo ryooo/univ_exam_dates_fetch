@@ -1,0 +1,200 @@
+[
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "追手門学院大学 茨木総持寺キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府茨木市太田東芝町1-1",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6,2026/3/3,2026/3/20",
+    "remarks": "本学会場。全日程",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "ビィーゴ",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "難波御堂筋ホール",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区難波4-2-1 難波御堂筋ビルディング6・7・9F",
+    "dates": "2025/11/19,2025/11/20,2025/12/13",
+    "remarks": "公募推薦のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM心斎橋",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区南船場4丁目3-2 ゼント心斎橋ビル3階・4階",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "一般前期のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "I-siteなんば",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市浪速区敷津東2丁目1-41 南海なんば第1ビル2階・3階",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "一般前期のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "東洋ビル貸し会議室",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府堺市堺区北花田口町3丁1-15",
+    "dates": "2025/11/19,2025/11/20,2025/12/13",
+    "remarks": "公募推薦のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "ウインクあいち",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4丁目4-38",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "草津商工会議所",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "京都烏丸コンベンションホール",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市中京区烏丸通六角下る七観音町634 ONEST京都烏丸スクエア8F",
+    "dates": "2025/11/19,2025/11/20,2025/12/13",
+    "remarks": "公募推薦のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "TKP京都四条カンファレンスセンター",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区立売中之町99 四条SETビル6階",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "一般前期のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "三宮研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "神戸駅前研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区中町通2丁目3-1",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "一般前期のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "明石商工会議所",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県明石市大明石町1-2-1",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "奈良県コンベンションセンター",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県奈良市三条大路一丁目691-1",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "ホテルリガーレ春日野",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県奈良市法蓮町757-2",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "一般前期のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "和歌山英数学館 本館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市太田2-13-12",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "和歌山県民文化会館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山市小松原通り一丁目1番地 和歌山県庁正門前",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "一般前期のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "高松商工会議所",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市番町二丁目2番2号",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "ピギー貸会議室",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "リファレンス広島小町ビル貸会議室",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区小町3-19 リファレンス広島小町ビル",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "リファレンス駅東ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F",
+    "dates": "2025/11/19,2025/11/20,2025/12/13,2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "公募推薦・一般前期",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  },
+  {
+    "univ_name": "追手門学院大学",
+    "test_venue_name": "リファレンス大博多ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前2丁目20-1 大博多ビル11F",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/5,2026/2/6",
+    "remarks": "一般前期のみ",
+    "source_url": "https://nyushi.otemon.ac.jp/admission/place.html"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "univ_name": "フェリス女学院大学",
+    "test_venue_name": "緑園キャンパス会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市泉区緑園4-5-3",
+    "dates": "2026/1/27,2026/2/14,2026/3/1",
+    "remarks": "一般入試A・B・C日程",
+    "source_url": "https://www.ferris.ac.jp/admission/examination/general/"
+  },
+  {
+    "univ_name": "フェリス女学院大学",
+    "test_venue_name": "東京駅会場（AP東京八重洲）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区京橋1-10-7 KPP八重洲ビル7階",
+    "dates": "2026/1/27",
+    "remarks": "一般入試A日程 東京駅会場",
+    "source_url": "https://www.ferris.ac.jp/admission/news/2025/11/2126.html"
+  },
+  {
+    "univ_name": "フェリス女学院大学",
+    "test_venue_name": "静岡市会場（秀英予備校 静岡校1号館）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区鷹匠2-7-1",
+    "dates": "2026/1/27",
+    "remarks": "一般入試A日程 静岡市会場",
+    "source_url": "https://www.ferris.ac.jp/admission/news/2025/11/2126.html"
+  }
+]

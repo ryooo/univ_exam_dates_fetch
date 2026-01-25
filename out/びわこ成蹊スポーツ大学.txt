@@ -1,0 +1,65 @@
+[
+  {
+    "univ_name": "びわこ成蹊スポーツ大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "滋賀県大津市北比良1204",
+    "dates": "2025/9/18,2025/10/11,2025/11/12,2025/11/22,2025/11/23,2025/12/13,2026/2/5,2026/2/20,2026/3/9",
+    "remarks": "総合型A-D・推薦(公募B/指定校)・一般B/C/D",
+    "source_url": "https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf"
+  },
+  {
+    "univ_name": "びわこ成蹊スポーツ大学",
+    "test_venue_name": "TKP名古屋駅前カンファレンスセンター",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅2-41-5 CK20名駅前ビル",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://bss-nyushi.jp/exam/sports/ippan_ab.php"
+  },
+  {
+    "univ_name": "びわこ成蹊スポーツ大学",
+    "test_venue_name": "TKPガーデンシティ京都タワーホテル",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区烏丸通七条下ル東塩小路町721-1",
+    "dates": "2025/11/11,2026/2/4",
+    "remarks": "一般A・推薦(公募)A",
+    "source_url": "https://bss-nyushi.jp/exam/sports/ippan_ab.php"
+  },
+  {
+    "univ_name": "びわこ成蹊スポーツ大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM大阪駅前",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区曽根崎新地2-3-21 AXビル",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://bss-nyushi.jp/exam/sports/ippan_ab.php"
+  },
+  {
+    "univ_name": "びわこ成蹊スポーツ大学",
+    "test_venue_name": "米子商工会議所",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県米子市加茂町2-204",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://bss-nyushi.jp/exam/sports/ippan_ab.php"
+  },
+  {
+    "univ_name": "びわこ成蹊スポーツ大学",
+    "test_venue_name": "TKP品川カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区高輪3-25-23 京急第2ビル6階・7階・9階・10階",
+    "dates": "2025/11/11",
+    "remarks": "推薦(公募)A日程",
+    "source_url": "https://bss-nyushi.jp/exam/sports/koubo.php"
+  },
+  {
+    "univ_name": "びわこ成蹊スポーツ大学",
+    "test_venue_name": "TKP高松カンファレンスセンター",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市浜ノ町1-20 TAKAMATSU ORNE 南館 3階",
+    "dates": "2025/11/11",
+    "remarks": "推薦(公募)A日程",
+    "source_url": "https://bss-nyushi.jp/exam/sports/koubo.php"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "神田一橋キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区一ツ橋2-2-1",
+    "dates": "2026/1/26,2026/2/1,2026/2/5,2026/2/26",
+    "remarks": "全学統一/2月前期A・B/後期",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "横浜会場（岩崎学園横浜西口２号館）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "横浜市神奈川区鶴屋町２-１７",
+    "dates": "2026/2/1",
+    "remarks": "2月前期A・共通テ併用",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "大宮会場（JA共済埼玉ビル）",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "さいたま市大宮区土手町１-２",
+    "dates": "2026/2/1",
+    "remarks": "2月前期A・共通テ併用",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "高崎会場（ビエント高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "高崎市問屋町２-７",
+    "dates": "2026/1/26",
+    "remarks": "全学統一方式",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "水戸会場（茨城県労働福祉会館）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "水戸市梅香２-１-３９",
+    "dates": "2026/1/26",
+    "remarks": "全学統一方式",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "宇都宮会場（ライトキューブ宇都宮）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "宇都宮市宮みらい１-２０",
+    "dates": "2026/1/26",
+    "remarks": "全学統一方式",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "千葉会場（千葉中央ホール）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉市中央区中央３-１８-３",
+    "dates": "2026/1/26",
+    "remarks": "全学統一方式",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "新潟会場（日本こども福祉専門学校）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟市中央区花園１-４-８",
+    "dates": "2026/1/26",
+    "remarks": "全学統一方式",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  },
+  {
+    "univ_name": "共立女子大学",
+    "test_venue_name": "静岡会場（静岡学園なごみ高等学校）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡市駿河区八幡１-１-１",
+    "dates": "2026/1/26",
+    "remarks": "全学統一方式",
+    "source_url": "https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/"
+  }
+]

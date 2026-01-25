@@ -1,0 +1,10 @@
+[
+  {
+    "univ_name": "ＳＢＣ東京医療大学",
+    "test_venue_name": "SBC東京医療大学 本館棟",
+    "test_venue_address": "千葉県浦安市明海5丁目8-1",
+    "dates": "2025/9/20,2025/9/21,2025/10/19,2025/11/16,2025/12/14,2026/1/25,2026/2/19,2026/3/11",
+    "remarks": "全区分共通。一般A/B/C・総合型I〜III等",
+    "source_url": "https://www.sbctmu.ac.jp/admissions/overview/"
+  }
+]

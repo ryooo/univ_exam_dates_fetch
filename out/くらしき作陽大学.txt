@@ -1,0 +1,58 @@
+[
+  {
+    "univ_name": "くらしき作陽大学",
+    "test_venue_name": "本学（くらしき作陽大学・作陽短期大学）",
+    "test_venue_address": "岡山県倉敷市玉島長尾3515",
+    "dates": "2025/11/22,2025/11/23,2025/12/13,2026/2/3,2026/2/4,2026/3/11",
+    "remarks": "全学部: 推薦ⅠA/B・Ⅱ, 一般ⅠA/B・Ⅱ",
+    "source_url": "https://www.ksu.ac.jp/admissions/info/admissions_music"
+  },
+  {
+    "univ_name": "くらしき作陽大学",
+    "test_venue_name": "松江会場（島根県民会館）",
+    "test_venue_address": "島根県松江市殿町158",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "食・子・健スポ: 推薦ⅠA/一般ⅠA",
+    "source_url": "https://www.ksu.ac.jp/admissions/info/admissions_food_culture"
+  },
+  {
+    "univ_name": "くらしき作陽大学",
+    "test_venue_name": "高松会場（マリンパレスさぬき）",
+    "test_venue_address": "香川県高松市福岡町二丁目3番4号",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "食・子・健スポ: 推薦ⅠA/一般ⅠA",
+    "source_url": "https://www.ksu.ac.jp/admissions/info/admissions_food_culture"
+  },
+  {
+    "univ_name": "くらしき作陽大学",
+    "test_venue_name": "松山会場（ホテルアイスル松山）",
+    "test_venue_address": "愛媛県松山市宮田町391-8",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "食・子・健スポ: 推薦ⅠA/一般ⅠA",
+    "source_url": "https://www.ksu.ac.jp/admissions/info/admissions_food_culture"
+  },
+  {
+    "univ_name": "くらしき作陽大学",
+    "test_venue_name": "高知会場（高知会館）",
+    "test_venue_address": "高知県高知市本町5-6-42",
+    "dates": "2025/11/22",
+    "remarks": "食・子・健スポ: 推薦ⅠA",
+    "source_url": "https://www.ksu.ac.jp/admissions/info/admissions_food_culture"
+  },
+  {
+    "univ_name": "くらしき作陽大学",
+    "test_venue_name": "鳥取会場（白兎会館）",
+    "test_venue_address": "鳥取県鳥取市末広温泉町556",
+    "dates": "2026/2/3",
+    "remarks": "食・子・健スポ: 一般ⅠA",
+    "source_url": "https://www.ksu.ac.jp/admissions/info/admissions_food_culture"
+  },
+  {
+    "univ_name": "くらしき作陽大学",
+    "test_venue_name": "広島会場（広島YMCA国際文化センター）",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2026/2/3",
+    "remarks": "食・子・健スポ: 一般ⅠA",
+    "source_url": "https://www.ksu.ac.jp/admissions/info/admissions_food_culture"
+  }
+]

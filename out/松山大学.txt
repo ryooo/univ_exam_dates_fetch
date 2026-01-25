@@ -1,0 +1,164 @@
+[
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "松山大学 本学キャンパス",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市文京町4-2",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index39.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "新居浜商工会館",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県新居浜市一宮町二丁目4番8号",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "JAえひめ南",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県宇和島市栄町港3-303",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "松山大学東京オフィス（ニッタビル）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区銀座8-2-1 ニッタビル6階",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "ハートンホテル北梅田",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区豊崎3-12-10",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "松江テルサ",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市朝日町478-18",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "岡山進研学院",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2-10-27",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "広島経済大学立町キャンパス（IG石田学園ビル）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区立町2-25 IG石田学園ビル",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "TKP福山ちゅうぎんビル会議室",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市紅葉町1-1 福山ちゅうぎんビル7F",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "KDDI維新ホール",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡令和1-1-1",
+    "dates": "2026/1/26",
+    "remarks": "一般選抜I期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "山口グランドホテル",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡黄金町1-1",
+    "dates": "2026/2/10",
+    "remarks": "一般選抜II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "あわぎんホール",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市藍場町2丁目14番地",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "高松商工会議所",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市番町2-2-2",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "土佐塾予備校",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市はりまや町3-7-8",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "TKP博多駅筑紫口ビジネスセンター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街4-8 ユーコウビル",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "大分県労働福祉会館「ソレイユ」",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市中央町4-2-5",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "鹿児島県医師会館",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市中央町8-1",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html"
+  },
+  {
+    "univ_name": "松山大学",
+    "test_venue_name": "那覇尚学院別館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泊2-17-4",
+    "dates": "2026/1/26,2026/2/10",
+    "remarks": "一般選抜I・II期",
+    "source_url": "https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html"
+  }
+]

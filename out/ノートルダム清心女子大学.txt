@@ -1,0 +1,65 @@
+[
+  {
+    "univ_name": "ノートルダム清心女子大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2-16-9",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜3教科/2教科",
+    "source_url": "https://www.ndsu.ac.jp/request/"
+  },
+  {
+    "univ_name": "ノートルダム清心女子大学",
+    "test_venue_name": "米子会場（米子市公会堂）",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県米子市角盤町２丁目６１番地",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜3教科/2教科",
+    "source_url": "https://my.ebook5.net/ndsu-ebook/BlrvO1/#"
+  },
+  {
+    "univ_name": "ノートルダム清心女子大学",
+    "test_venue_name": "広島会場（TKPガーデンシティpremium広島駅北口）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県東区二葉の里３丁目５−７ GRANODE広島 3階",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜3教科/2教科",
+    "source_url": "https://my.ebook5.net/ndsu-ebook/BlrvO1/#"
+  },
+  {
+    "univ_name": "ノートルダム清心女子大学",
+    "test_venue_name": "福山会場（TKP福山ちゅうぎんビル会議室）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市紅葉町１−１ 福山ちゅうぎんビル 7階",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜3教科/2教科",
+    "source_url": "https://my.ebook5.net/ndsu-ebook/BlrvO1/#"
+  },
+  {
+    "univ_name": "ノートルダム清心女子大学",
+    "test_venue_name": "高松会場（高松センタービル）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜3教科/2教科",
+    "source_url": "https://my.ebook5.net/ndsu-ebook/BlrvO1/#"
+  },
+  {
+    "univ_name": "ノートルダム清心女子大学",
+    "test_venue_name": "松山会場（TKP松山市駅前カンファレンスセンター）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市千舟町４丁目３−７ 青野ビル 2階",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜3教科/2教科",
+    "source_url": "https://my.ebook5.net/ndsu-ebook/BlrvO1/#"
+  },
+  {
+    "univ_name": "ノートルダム清心女子大学",
+    "test_venue_name": "小倉会場（西日本総合展示場AIM）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉北区浅野３丁目７−１",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜3教科/2教科",
+    "source_url": "https://my.ebook5.net/ndsu-ebook/BlrvO1/#"
+  }
+]
