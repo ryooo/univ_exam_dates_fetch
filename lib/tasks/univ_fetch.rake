@@ -92,6 +92,19 @@ namespace :univ do
         next
       end
 
+      # 空ファイルを作成してロックとして使用（並列実行対応）
+      file_created = false
+      begin
+        # 排他制御：ファイルが存在しない場合のみ作成
+        file = File.open(output_path, File::WRONLY | File::CREAT | File::EXCL)
+        file.close
+        file_created = true
+      rescue Errno::EEXIST
+        # 他のプロセスが既に処理中
+        puts "#{Time.current}  -> Skipped (being processed by another instance)"
+        next
+      end
+
       begin
         # リクエストボディの作成
         request_body = {
@@ -151,12 +164,16 @@ namespace :univ do
         puts "#{Time.current}  -> Saved to: #{output_path}"
 
       rescue => e
-        puts "  -> Error: #{e.message}"
-        # エラーの場合もファイルを作成（エラー内容を記録）
+        puts "#{Time.current}  -> Error: #{e.message}"
+        # エラーの場合はファイルを削除（並列実行時に再処理可能にする）
+        if file_created && File.exist?(output_path)
+          File.delete(output_path)
+          puts "#{Time.current}  -> Deleted incomplete file: #{output_path}"
+        end
+        # エラー内容を標準出力に表示
         puts response_data if defined?(response_data)
-        error_output = "Error occurred: #{e.message}\n#{e.backtrace.join("\n")}"
-        error_output += "\n\n\nResponse Data:\n#{response_data}" if defined?(response_data)
-        File.write(output_path, error_output)
+        puts "Error details: #{e.message}"
+        puts e.backtrace.first(5).join("\n") if e.backtrace
       end
 
       # API rate limitを考慮して少し待機

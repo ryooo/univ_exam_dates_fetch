@@ -84,7 +84,7 @@ namespace :univ do
     # CSVに出力（BOM付きUTF-8でExcelの文字化けを防ぐ）
     CSV.open(csv_output_path, 'w', encoding: 'BOM|UTF-8') do |csv|
       # ヘッダー行
-      csv << ['date', 'univ_name', 'test_venue_name', 'test_venue_pref', 'test_venue_address', 'remarks', 'source_url']
+      csv << ['date', 'univ_name', 'test_venue_name', 'test_venue_pref', 'test_venue_address', 'remarks', 'source_url', 'requirements_url']
 
       # データ行
       expanded_data.each do |record|
