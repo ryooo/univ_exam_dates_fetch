@@ -1,0 +1,47 @@
+[
+  {
+    "univ_name": "愛知医科大学",
+    "test_venue_name": "名古屋コンベンションホール",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区平池町4-60-12 グローバルゲート",
+    "dates": "2026/1/20",
+    "remarks": "一般選抜第1次試験",
+    "source_url": "https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html"
+  },
+  {
+    "univ_name": "愛知医科大学",
+    "test_venue_name": "ベルサール高田馬場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区大久保3-8-2 住友不動産新宿ガーデンタワーB2・1F",
+    "dates": "2026/1/20",
+    "remarks": "一般選抜第1次試験",
+    "source_url": "https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html"
+  },
+  {
+    "univ_name": "愛知医科大学",
+    "test_venue_name": "ナレッジキャピタルコングレコンベンションセンター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区大深町3-1 グランフロント大阪 北館B2F",
+    "dates": "2026/1/20",
+    "remarks": "一般選抜第1次試験",
+    "source_url": "https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html"
+  },
+  {
+    "univ_name": "愛知医科大学",
+    "test_venue_name": "福岡ファッションビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前2-10-19 福岡ファッションビル",
+    "dates": "2026/1/20",
+    "remarks": "一般選抜第1次試験",
+    "source_url": "https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html"
+  },
+  {
+    "univ_name": "愛知医科大学",
+    "test_venue_name": "本学（愛知医科大学）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県長久手市岩作雁又1-1",
+    "dates": "2026/1/25,2026/2/5,2026/2/6,2026/2/19",
+    "remarks": "一般選抜第2次,共通テスト利用第2次",
+    "source_url": "https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/04.html"
+  }
+]

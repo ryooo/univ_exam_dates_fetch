@@ -1,0 +1,209 @@
+[
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "関キャンパス",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県関市市平賀字長峰795-1",
+    "dates": "2026/1/30,2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "可児キャンパス",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県可児市虹ヶ丘4-3-3",
+    "dates": "2026/1/30,2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKP東京駅カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区八重洲1-8-16 新槇町ビル1～3階・8階・10～12階",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "ボルファートとやま",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市奥田新町8-1",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "オークスカナルパークホテル富山",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市牛島町11-1",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM金沢駅西口",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市広岡二丁目13番33号 JR金沢駅西第三NKビル2F-3F",
+    "dates": "2026/1/30,2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "福井フェニックスホテル",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市大手2-4-18",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "ザ・グランユアーズフクイ",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市大手3-12-20",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "アルピコプラザホテル",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市深志1-3-21",
+    "dates": "2026/1/30,2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "クラウンヒルズ岡谷インター",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県岡谷市中央町1-7-13",
+    "dates": "2026/1/30,2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "松本ホテル花月",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市大手4-8-9",
+    "dates": "2026/1/30,2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "サンパレスホテル",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区南町11-29",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "えんてつ浜松駅前貸会議室",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区旭町12-1 遠鉄百貨店新館13階",
+    "dates": "2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "秀英予備校 浜松本部校",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区連尺町309番地の11",
+    "dates": "2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM名古屋ルーセントタワー",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市西区牛島町6-1 名古屋ルーセントタワー16階",
+    "dates": "2026/1/30,2026/1/31,2026/2/5,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM名駅西口",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区則武1-6-3 ベルヴュオフィス名古屋1～3階",
+    "dates": "2026/1/30,2026/1/31,2026/2/5,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKP名鉄名古屋駅カンファレンスセンター",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅1-2-4 名鉄バスターミナルビル9階",
+    "dates": "2026/1/30,2026/1/31,2026/2/5,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM名古屋新幹線口",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区椿町1-1 井門名古屋ビル2～9階",
+    "dates": "2026/1/30,2026/1/31,2026/2/5,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "岐阜キャッスルイン",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県岐阜市県町2丁目8番地",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜前期（2/5のみ）",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKPガーデンシティ大阪梅田",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島5-4-21 TKPゲートタワービルB1〜4階・8〜16階",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "TKP博多駅筑紫口ビジネスセンター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多駅中央街4-8 ユーコウビル3階・7-9階",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "沖縄県市町村自治会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市旭町116-37",
+    "dates": "2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  },
+  {
+    "univ_name": "岐阜医療科学大学",
+    "test_venue_name": "沖縄県青年会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市久米2丁目15-23",
+    "dates": "2026/1/31,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.u-gifu-ms.ac.jp/admissions/test_center/"
+  }
+]

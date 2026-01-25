@@ -1,0 +1,47 @@
+[
+  {
+    "univ_name": "関西国際大学",
+    "test_venue_name": "神戸山手キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区諏訪山町3-1",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A/B（本学会場）",
+    "source_url": "https://telemail.jp/shingaku/university/10001575/examination/general"
+  },
+  {
+    "univ_name": "関西国際大学",
+    "test_venue_name": "尼崎キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県尼崎市潮江1丁目3-23",
+    "dates": "2025/8/19,2025/9/7,2025/10/5",
+    "remarks": "総合型選抜 前期A/B/C 面接",
+    "source_url": "https://www.kuins.ac.jp/admission/assets/6d2f0b8fb654bb00e584a9ff2a98ca52deb6d897.pdf"
+  },
+  {
+    "univ_name": "関西国際大学",
+    "test_venue_name": "三木キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県三木市志染町青山1丁目18",
+    "dates": "2025/8/19,2025/9/7,2025/10/5",
+    "remarks": "総合型選抜 前期A/B/C 適性検査",
+    "source_url": "https://www.kuins.ac.jp/admission/assets/6d2f0b8fb654bb00e584a9ff2a98ca52deb6d897.pdf"
+  },
+  {
+    "univ_name": "関西国際大学",
+    "test_venue_name": "広島試験地（サテライト）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A",
+    "source_url": "https://telemail.jp/shingaku/university/10001575/examination/general"
+  },
+  {
+    "univ_name": "関西国際大学",
+    "test_venue_name": "高松試験地（サテライト）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A",
+    "source_url": "https://telemail.jp/shingaku/university/10001575/examination/general"
+  }
+]

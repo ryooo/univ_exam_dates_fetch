@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "岡山医療専門職大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区大供3-2-18",
+    "dates": "2025/10/4,2025/11/15,2025/11/22,2025/12/13,2026/2/2,2026/2/24,2026/3/17",
+    "remarks": "総合型・学校推薦型・一般選抜",
+    "source_url": "https://opu.ac.jp/admission/"
+  }
+]

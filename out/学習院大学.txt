@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "学習院大学",
+    "test_venue_name": "学習院大学 目白キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区目白1-5-1",
+    "dates": "2026/1/17,2026/1/18,2026/2/5,2026/2/6,2026/2/7,2026/2/9,2026/2/10,2026/2/11",
+    "remarks": "一般選抜（コア・プラス）、共通テスト",
+    "source_url": "https://www.univ.gakushuin.ac.jp/admissions/faculty-exam/"
+  }
+]

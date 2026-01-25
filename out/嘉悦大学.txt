@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "嘉悦大学",
+    "test_venue_name": "嘉悦大学（本学キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都小平市花小金井南町2-8-4",
+    "dates": "2026/2/3,2026/2/4,2026/2/27,2026/3/13",
+    "remarks": "一般選抜（独自試験型）",
+    "source_url": "https://www.kaetsu.ac.jp/kaetsu-info/wp-content/uploads/2025/06/2026ippan_requirements.pdf"
+  }
+]

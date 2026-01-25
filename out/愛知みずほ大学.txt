@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "愛知みずほ大学",
+    "test_venue_name": "愛知みずほ大学",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市瑞穂区春敲町2-13",
+    "dates": "2026/2/14,2026/3/6",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://juken.mizuho-c.ac.jp/manage/wp-content/uploads/2025/05/c_ippan.pdf"
+  }
+]

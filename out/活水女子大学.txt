@@ -1,0 +1,38 @@
+[
+  {
+    "univ_name": "活水女子大学",
+    "test_venue_name": "東山手キャンパス",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市東山手町1-50",
+    "dates": "2026/2/7,2026/2/21,2026/3/3",
+    "remarks": "一般A・B、共テA/B",
+    "source_url": "https://www.kwassui.ac.jp/university/access.html"
+  },
+  {
+    "univ_name": "活水女子大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/7",
+    "remarks": "一般Aのみ",
+    "source_url": "https://search.keinet.ne.jp/2739/general/schedule"
+  },
+  {
+    "univ_name": "活水女子大学",
+    "test_venue_name": "熊本会場",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2026/2/7",
+    "remarks": "一般Aのみ",
+    "source_url": "https://search.keinet.ne.jp/2739/general/schedule"
+  },
+  {
+    "univ_name": "活水女子大学",
+    "test_venue_name": "大分会場",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "",
+    "dates": "2026/2/7",
+    "remarks": "一般Aのみ",
+    "source_url": "https://search.keinet.ne.jp/2739/general/schedule"
+  }
+]

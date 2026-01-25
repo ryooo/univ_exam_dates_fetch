@@ -1,0 +1,56 @@
+[
+  {
+    "univ_name": "医療創生大学",
+    "test_venue_name": "医療創生大学 いわきキャンパス",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県いわき市中央台飯野5-5-1",
+    "dates": "2025/9/27,2025/11/15,2025/11/16,2025/12/13,2026/2/3,2026/2/14,2026/3/13,2026/3/14",
+    "remarks": "総合型・学校推薦・一般の会場",
+    "source_url": "https://www.isu.ac.jp/exam/summary/ippan.html"
+  },
+  {
+    "univ_name": "医療創生大学",
+    "test_venue_name": "医療創生大学 柏キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県柏市小青田1-3-4",
+    "dates": "2025/11/29,2025/12/20,2026/2/3,2026/2/4,2026/2/21,2026/3/13",
+    "remarks": "国際看護 一般・推薦・社会人特別",
+    "source_url": "https://kn.isu.ac.jp/document/exam/2026/2026_ippan-kyoutu_yoko.pdf"
+  },
+  {
+    "univ_name": "医療創生大学",
+    "test_venue_name": "ホテルメトロポリタン山形",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市香澄町1-1-1",
+    "dates": "2026/2/3",
+    "remarks": "国際看護 一般（前期）",
+    "source_url": "https://kn.isu.ac.jp/document/exam/2026/2026_ippan-kyoutu_yoko.pdf"
+  },
+  {
+    "univ_name": "医療創生大学",
+    "test_venue_name": "仙台ガーデンパレス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡4-1-5",
+    "dates": "2026/2/3",
+    "remarks": "国際看護 一般（前期）",
+    "source_url": "https://kn.isu.ac.jp/document/exam/2026/2026_ippan-kyoutu_yoko.pdf"
+  },
+  {
+    "univ_name": "医療創生大学",
+    "test_venue_name": "駿優予備学校 郡山校",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市駅前1-12-6",
+    "dates": "2026/2/3",
+    "remarks": "国際看護 一般（前期）",
+    "source_url": "https://kn.isu.ac.jp/document/exam/2026/2026_ippan-kyoutu_yoko.pdf"
+  },
+  {
+    "univ_name": "医療創生大学",
+    "test_venue_name": "駿優教育会館",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2026/2/3",
+    "remarks": "国際看護 一般（前期）",
+    "source_url": "https://kn.isu.ac.jp/document/exam/2026/2026_ippan-kyoutu_yoko.pdf"
+  }
+]

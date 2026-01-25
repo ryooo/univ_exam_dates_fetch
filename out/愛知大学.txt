@@ -1,0 +1,155 @@
+[
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "名古屋キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区平池町4-60-6",
+    "dates": "2026/2/1,2026/2/2,2026/2/5,2026/2/6",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://edu.chunichi.co.jp/calendar/detail/ex/1856/u00092"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "豊橋キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県豊橋市町畑町1-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/5,2026/2/6",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://edu.chunichi.co.jp/calendar/detail/ex/1856/u00092"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "東北学院大学 土樋キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区土樋一丁目3-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "オフィス東京",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区京橋一丁目6番8号",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "富山県民会館",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4-18",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "金沢医療技術専門学校",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市堀川新町7-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "松本商工会館",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市中央1-23-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "飯田短期大学",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県飯田市松尾代田610",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "岐阜商工会議所",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県岐阜市神田町2丁目2番地",
+    "dates": "2026/2/1,2026/2/2,2026/2/5,2026/2/6",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "ソフトピアジャパンセンター センタービル",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県大垣市加賀野4-1-7",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "レイアップ御幸町ビル",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区御幸町11-8",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "浜松労政会館（浜松商工会議所会館7階）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区東伊場2-7-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/5,2026/2/6",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "浜松商工会議所会館",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区東伊場2-7-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/5,2026/2/6",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "秀英予備校四日市校",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県四日市市鵜の森1丁目4番1号",
+    "dates": "2026/2/1,2026/2/2,2026/2/5,2026/2/6",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "三重県教育文化会館",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市桜橋2-142",
+    "dates": "2026/2/1,2026/2/2,2026/2/5,2026/2/6",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "広島国際会議場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区中島町1-5",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  },
+  {
+    "univ_name": "愛知大学",
+    "test_venue_name": "パピヨン24",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区千代1-17-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期・各方式）",
+    "source_url": "https://adm.aichi-u.ac.jp/ippan_senbatsu_2026/pdf/q3_2026.pdf"
+  }
+]

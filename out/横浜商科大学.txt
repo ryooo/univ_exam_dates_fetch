@@ -1,0 +1,20 @@
+[
+  {
+    "univ_name": "横浜商科大学",
+    "test_venue_name": "つるみキャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市鶴見区東寺尾4-11-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/27",
+    "remarks": "一般選抜A・B・C日程",
+    "source_url": "https://search.keinet.ne.jp/2321/general/schedule"
+  },
+  {
+    "univ_name": "横浜商科大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://search.keinet.ne.jp/2321/general/schedule"
+  }
+]

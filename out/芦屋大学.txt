@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "芦屋大学",
+    "test_venue_name": "六麓荘キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県芦屋市六麓荘町13-22",
+    "dates": "2026/2/3,2026/2/18,2026/3/12",
+    "remarks": "一般選抜A/B/C日程［1教科型］",
+    "source_url": "https://www.ashiya-u.ac.jp/wp/wp-content/themes/ashiya-uni/assets/pdf/exam/g-exam.pdf"
+  }
+]

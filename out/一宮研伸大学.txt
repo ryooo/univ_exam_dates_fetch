@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "一宮研伸大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県一宮市常願通5丁目4番1",
+    "dates": "2025/9/27,2025/11/15,2025/12/13,2025/12/21,2026/2/1,2026/3/7",
+    "remarks": "総合型・推薦・一般・共テプラス・社特",
+    "source_url": "https://www.ikc.ac.jp/exam/calendar/"
+  }
+]

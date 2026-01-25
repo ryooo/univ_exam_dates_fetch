@@ -1,0 +1,56 @@
+[
+  {
+    "univ_name": "岐阜保健大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県岐阜市東鶉2丁目92",
+    "dates": "2025/10/11,2025/10/12,2025/11/9,2025/12/7,2026/2/1,2026/2/5,2026/2/21,2026/3/8,2026/3/20",
+    "remarks": "総合型・推薦・特別奨学生・一般",
+    "source_url": "https://www.gifuhoken.ac.jp/admissions/"
+  },
+  {
+    "univ_name": "岐阜保健大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2025/12/7,2026/2/1",
+    "remarks": "特別奨学生・一般Ⅰ期",
+    "source_url": "https://www.gifuhoken.ac.jp/admissions/"
+  },
+  {
+    "univ_name": "岐阜保健大学",
+    "test_venue_name": "高山会場",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "",
+    "dates": "2025/12/7",
+    "remarks": "特別奨学生",
+    "source_url": "https://www.gifuhoken.ac.jp/admissions/"
+  },
+  {
+    "univ_name": "岐阜保健大学",
+    "test_venue_name": "富山会場",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "",
+    "dates": "2025/12/7",
+    "remarks": "特別奨学生",
+    "source_url": "https://www.gifuhoken.ac.jp/admissions/"
+  },
+  {
+    "univ_name": "岐阜保健大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2025/12/7",
+    "remarks": "特別奨学生",
+    "source_url": "https://www.gifuhoken.ac.jp/admissions/"
+  },
+  {
+    "univ_name": "岐阜保健大学",
+    "test_venue_name": "松本会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2025/12/7",
+    "remarks": "特別奨学生",
+    "source_url": "https://www.gifuhoken.ac.jp/admissions/"
+  }
+]

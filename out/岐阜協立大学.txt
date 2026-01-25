@@ -1,0 +1,56 @@
+[
+  {
+    "univ_name": "岐阜協立大学",
+    "test_venue_name": "岐阜協立大学 北方キャンパス",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県大垣市北方町5-50",
+    "dates": "2026/1/27,2026/1/28,2026/2/26,2026/3/13",
+    "remarks": "一般選抜Ⅰ期～Ⅲ期",
+    "source_url": "https://www.gku.ac.jp/admission/guidelines/doc/2026/2026_guidelines.pdf"
+  },
+  {
+    "univ_name": "岐阜協立大学",
+    "test_venue_name": "飛騨地域地場産業振興センター",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県高山市天満町5丁目1番地25",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜Ⅰ期（1日目のみ）",
+    "source_url": "https://www.gku.ac.jp/admission/guidelines/doc/2026/2026_guidelines.pdf"
+  },
+  {
+    "univ_name": "岐阜協立大学",
+    "test_venue_name": "イオンコンパス名古屋駅前会議室",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区椿町18-22 ロータスビル5階",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜Ⅰ期（1日目のみ）",
+    "source_url": "https://www.gku.ac.jp/admission/guidelines/doc/2026/2026_guidelines.pdf"
+  },
+  {
+    "univ_name": "岐阜協立大学",
+    "test_venue_name": "彦根勤労福祉会館",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "滋賀県彦根市大東町4-28",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜Ⅰ期（1日目のみ）",
+    "source_url": "https://www.gku.ac.jp/admission/guidelines/doc/2026/2026_guidelines.pdf"
+  },
+  {
+    "univ_name": "岐阜協立大学",
+    "test_venue_name": "福井県繊協ビル",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市大手3丁目7番1号",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜Ⅰ期（1日目のみ）",
+    "source_url": "https://www.gku.ac.jp/admission/guidelines/doc/2026/2026_guidelines.pdf"
+  },
+  {
+    "univ_name": "岐阜協立大学",
+    "test_venue_name": "富山県農協会館",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪2番21号",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜Ⅰ期（1日目のみ）",
+    "source_url": "https://www.gku.ac.jp/admission/guidelines/doc/2026/2026_guidelines.pdf"
+  }
+]

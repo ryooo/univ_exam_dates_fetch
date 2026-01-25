@@ -1,0 +1,47 @@
+[
+  {
+    "univ_name": "関西医科大学",
+    "test_venue_name": "インテックス大阪6号館",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市住之江区南港北1-5-102",
+    "dates": "2026/1/31",
+    "remarks": "医学部 前期(一般/地域/併用)1次",
+    "source_url": "https://www.kmu.ac.jp/juk/news/2026fongeneral3.html"
+  },
+  {
+    "univ_name": "関西医科大学",
+    "test_venue_name": "ベルサール新宿グランドコンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区西新宿8-17-1 住友不動産新宿グランドタワー5F",
+    "dates": "2026/1/31",
+    "remarks": "医学部 前期(一般/地域/併用)1次",
+    "source_url": "https://www.kmu.ac.jp/juk/news/2026fongeneral3.html"
+  },
+  {
+    "univ_name": "関西医科大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM名古屋ルーセントタワー",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市西区牛島町6-1 名古屋ルーセントタワー16階",
+    "dates": "2026/1/31",
+    "remarks": "医学部 前期(一般/地域/併用)1次",
+    "source_url": "https://www.kmu.ac.jp/juk/news/2026fongeneral3.html"
+  },
+  {
+    "univ_name": "関西医科大学",
+    "test_venue_name": "南近代ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅南4-2-10",
+    "dates": "2026/1/31",
+    "remarks": "医学部 前期(一般/地域/併用)1次",
+    "source_url": "https://www.kmu.ac.jp/juk/news/2026fongeneral3.html"
+  },
+  {
+    "univ_name": "関西医科大学",
+    "test_venue_name": "関西医科大学 枚方キャンパス（リハビリテーション学部棟）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府枚方市新町2-5-1",
+    "dates": "2026/2/6,2026/2/14,2026/2/21,2026/3/7,2026/3/17",
+    "remarks": "医学部2次/後期/共テ2次・リハ一般",
+    "source_url": "https://www.kmu.ac.jp/juk/for/r8notice.html"
+  }
+]

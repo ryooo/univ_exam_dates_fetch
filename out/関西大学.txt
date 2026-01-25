@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "関西大学",
+    "test_venue_name": "関西大学 千里山キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府吹田市山手町3-3-35",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/5,2026/2/6,2026/2/7",
+    "remarks": "一般選抜（全学1・独自・全学2）",
+    "source_url": "https://www.nyusi.kansai-u.ac.jp/admission/recruitment/"
+  }
+]

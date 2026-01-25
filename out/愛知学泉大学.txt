@@ -1,0 +1,29 @@
+[
+  {
+    "univ_name": "愛知学泉大学",
+    "test_venue_name": "愛知学泉大学 岡崎キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県岡崎市舳越町上川成28",
+    "dates": "2026/1/27,2026/1/28,2026/3/8",
+    "remarks": "一般選抜（前期・後期）",
+    "source_url": "https://www.gakusen.ac.jp/u/exam/place.html"
+  },
+  {
+    "univ_name": "愛知学泉大学",
+    "test_venue_name": "ウインクあいち",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4-4-38",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.gakusen.ac.jp/u/exam/place.html"
+  },
+  {
+    "univ_name": "愛知学泉大学",
+    "test_venue_name": "遠鉄百貨店13階 会議室",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区旭町12-1",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.gakusen.ac.jp/u/exam/place.html"
+  }
+]

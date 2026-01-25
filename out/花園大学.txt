@@ -1,0 +1,74 @@
+[
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "花園大学（本学キャンパス）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市中京区西ノ京壺ノ内町8-1",
+    "dates": "2026/1/31,2026/2/1,2026/2/23,2026/3/5",
+    "remarks": "一般選抜A/B/C/D日程",
+    "source_url": "https://www.hanazono.ac.jp/about/access.html"
+  },
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1,2026/2/23,2026/3/5",
+    "remarks": "一般選抜A/B/C/D日程",
+    "source_url": "https://search.keinet.ne.jp/2502/general/schedule"
+  },
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://search.keinet.ne.jp/2502/general/schedule"
+  },
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "草津会場",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://search.keinet.ne.jp/2502/general/schedule"
+  },
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "福知山会場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://search.keinet.ne.jp/2502/general/schedule"
+  },
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://search.keinet.ne.jp/2502/general/schedule"
+  },
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://search.keinet.ne.jp/2502/general/schedule"
+  },
+  {
+    "univ_name": "花園大学",
+    "test_venue_name": "福井会場",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://search.keinet.ne.jp/2502/general/schedule"
+  }
+]

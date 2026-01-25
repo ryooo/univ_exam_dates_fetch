@@ -1,0 +1,56 @@
+[
+  {
+    "univ_name": "開志専門職大学",
+    "test_venue_name": "開志専門職大学 紫竹山キャンパス",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区紫竹山6丁目3番5号",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜",
+    "source_url": "https://kaishi-pu.ac.jp/admissions/examination/"
+  },
+  {
+    "univ_name": "開志専門職大学",
+    "test_venue_name": "TKP池袋カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区南池袋2-22-1 第3高村ビル5～6階",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜",
+    "source_url": "https://kaishi-pu.ac.jp/admissions/examination/"
+  },
+  {
+    "univ_name": "開志専門職大学",
+    "test_venue_name": "長野県教育会館",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市旭町1098",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜",
+    "source_url": "https://kaishi-pu.ac.jp/admissions/examination/"
+  },
+  {
+    "univ_name": "開志専門職大学",
+    "test_venue_name": "国際医療看護福祉大学校 ANNEX校舎",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市方八町2丁目4番10号",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜",
+    "source_url": "https://kaishi-pu.ac.jp/admissions/examination/"
+  },
+  {
+    "univ_name": "開志専門職大学",
+    "test_venue_name": "東京第一ホテル鶴岡",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県鶴岡市錦町2-10",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜",
+    "source_url": "https://kaishi-pu.ac.jp/admissions/examination/"
+  },
+  {
+    "univ_name": "開志専門職大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM仙台西口",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区花京院1-2-15 ソララプラザ4～8階",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜",
+    "source_url": "https://kaishi-pu.ac.jp/admissions/examination/"
+  }
+]

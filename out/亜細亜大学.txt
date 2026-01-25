@@ -1,63 +1,63 @@
 [
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "札幌会場",
+    "test_venue_name": "札幌会場（ACU-A）",
     "test_venue_pref": "北海道",
-    "test_venue_address": "",
+    "test_venue_address": "北海道札幌市中央区北四条西5丁目 アスティ45",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "仙台会場",
+    "test_venue_name": "仙台会場（東北福祉大学仙台駅東口キャンパス）",
     "test_venue_pref": "宮城県",
-    "test_venue_address": "",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡２丁目５−２６",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "水戸会場",
+    "test_venue_name": "水戸会場（中央ビル（水戸駅北口））",
     "test_venue_pref": "茨城県",
-    "test_venue_address": "",
+    "test_venue_address": "茨城県水戸市泉町2丁目3番2号",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "宇都宮会場",
+    "test_venue_name": "宇都宮会場（TKPガーデンシティ宇都宮）",
     "test_venue_pref": "栃木県",
-    "test_venue_address": "",
+    "test_venue_address": "栃木県宇都宮市東宿郷２丁目４−４",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "高崎会場",
+    "test_venue_name": "高崎会場（ビエント高崎）",
     "test_venue_pref": "群馬県",
-    "test_venue_address": "",
+    "test_venue_address": "群馬県高崎市問屋町２丁目７",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "さいたま会場",
+    "test_venue_name": "さいたま会場（TKP大宮駅西口カンファレンスセンター）",
     "test_venue_pref": "埼玉県",
-    "test_venue_address": "",
+    "test_venue_address": " 埼玉県さいたま市大宮区桜木町１丁目8−１ ベルヴュオフィス大宮 ",
     "dates": "2026/2/2,2026/2/18",
     "remarks": "全学統一入試 前期・中期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_02.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "千葉会場",
+    "test_venue_name": "千葉会場（TKP千葉駅東口ビジネスセンター）",
     "test_venue_pref": "千葉県",
-    "test_venue_address": "",
+    "test_venue_address": "千葉県千葉市中央区新町１−２０ 江澤ビル",
     "dates": "2026/2/2,2026/2/18",
     "remarks": "全学統一入試 前期・中期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_02.html"
@@ -73,90 +73,90 @@
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "横浜会場",
+    "test_venue_name": "横浜会場（MEET SPACE AP横浜）",
     "test_venue_pref": "神奈川県",
-    "test_venue_address": "",
+    "test_venue_address": "神奈川県横浜市西区北幸２丁目６−１ Onest 横浜西口ビル",
     "dates": "2026/2/2,2026/2/18",
     "remarks": "全学統一入試 前期・中期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_02.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "新潟会場",
+    "test_venue_name": "新潟会場（朱鷺メッセ）",
     "test_venue_pref": "新潟県",
-    "test_venue_address": "",
+    "test_venue_address": "新潟県新潟市中央区万代島6番1号",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "富山会場",
+    "test_venue_name": "富山会場（ボルファートとやま）",
     "test_venue_pref": "富山県",
-    "test_venue_address": "",
+    "test_venue_address": "富山県富山市奥田新町８−１",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "長野会場",
+    "test_venue_name": "長野会場（JA長野県ビル）",
     "test_venue_pref": "長野県",
-    "test_venue_address": "",
+    "test_venue_address": "長野県長野市大字南長野北石堂町1177-3",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "静岡会場",
+    "test_venue_name": "静岡会場（静岡学園 なごみ高等学校）",
     "test_venue_pref": "静岡県",
-    "test_venue_address": "",
+    "test_venue_address": "静岡県静岡市駿河区八幡１丁目１−１",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "名古屋会場",
+    "test_venue_name": "名古屋会場（タイムオフィス名古屋）",
     "test_venue_pref": "愛知県",
-    "test_venue_address": "",
+    "test_venue_address": "愛知県名古屋市中村区名駅２丁目４１−１０",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "大阪会場",
+    "test_venue_name": "大阪会場（天満研修センター）",
     "test_venue_pref": "大阪府",
-    "test_venue_address": "",
+    "test_venue_address": "大阪府大阪市北区錦町２−２１",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "広島会場",
+    "test_venue_name": "広島会場（広島YMCA3号館）",
     "test_venue_pref": "広島県",
-    "test_venue_address": "",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "福岡会場",
+    "test_venue_name": "福岡会場（アクア博多）",
     "test_venue_pref": "福岡県",
-    "test_venue_address": "",
+    "test_venue_address": "福岡市博多区中洲5丁目3-8",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"
   },
   {
     "univ_name": "亜細亜大学",
-    "test_venue_name": "那覇会場",
+    "test_venue_name": "那覇会場（那覇尚学院別館）",
     "test_venue_pref": "沖縄県",
-    "test_venue_address": "",
+    "test_venue_address": "沖縄県那覇市泊２丁目１６−３",
     "dates": "2026/2/2",
     "remarks": "全学統一入試 前期",
     "source_url": "https://www.asia-u.ac.jp/admissions/exam/general/general_01.html"

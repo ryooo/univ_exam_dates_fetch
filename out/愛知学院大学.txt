@@ -1,0 +1,74 @@
+[
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "名城公園キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市北区名城3-1-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/21,2026/3/7",
+    "remarks": "一般選抜（本学会場）",
+    "source_url": "https://navi.agu.ac.jp/access/"
+  },
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "日進キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県日進市岩崎町阿良池12",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/21,2026/3/7",
+    "remarks": "一般選抜（本学会場）",
+    "source_url": "https://navi.agu.ac.jp/access/"
+  },
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "東京会場（リロの会議室 コンフォート水道橋）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田三崎町2-7-10 帝都三崎町ビル",
+    "dates": "2026/3/7",
+    "remarks": "一般選抜 後期",
+    "source_url": "https://www.agu.ac.jp/news/file/release/2025_%E6%9D%B1%E4%BA%AC_late.pdf"
+  },
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "浜松会場（サーラシティ浜松）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区砂山町1107",
+    "dates": "2026/3/7",
+    "remarks": "一般選抜 後期",
+    "source_url": "https://www.agu.ac.jp/news/file/release/2025_%E6%B5%9C%E6%9D%BE_late.pdf"
+  },
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "金沢会場（金沢勤労者プラザ）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市北安江3-2-20",
+    "dates": "2026/3/7",
+    "remarks": "一般選抜 後期",
+    "source_url": "https://www.agu.ac.jp/news/file/release/2025_%E9%87%91%E6%B2%A2_late.pdf"
+  },
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "松本会場（松本商工会議所）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市中央1-23-1",
+    "dates": "2026/3/7",
+    "remarks": "一般選抜 後期",
+    "source_url": "https://www.agu.ac.jp/news/file/release/2025_%E6%9D%BE%E6%9C%AC_late.pdf"
+  },
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "津会場（第一ビル）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市羽所町345",
+    "dates": "2026/3/7",
+    "remarks": "一般選抜 後期",
+    "source_url": "https://www.agu.ac.jp/news/file/release/2025_%E6%B4%A5_late.pdf"
+  },
+  {
+    "univ_name": "愛知学院大学",
+    "test_venue_name": "大阪会場（新梅田研修センター）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島6-22-20",
+    "dates": "2026/3/7",
+    "remarks": "一般選抜 後期",
+    "source_url": "https://www.agu.ac.jp/news/file/release/2025_%E5%A4%A7%E9%98%AA_late.pdf"
+  }
+]

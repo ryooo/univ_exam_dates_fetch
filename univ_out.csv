@@ -1,0 +1,538 @@
+date,univ_name,test_venue_name,test_venue_pref,test_venue_address,remarks,source_url
+2025/11/22,くらしき作陽大学,本学（くらしき作陽大学・作陽短期大学）,岡山県,岡山県倉敷市玉島長尾3515,"全学部: 推薦ⅠA/B・Ⅱ, 一般ⅠA/B・Ⅱ",https://www.ksu.ac.jp/admissions/info/admissions_music
+2025/11/23,くらしき作陽大学,本学（くらしき作陽大学・作陽短期大学）,岡山県,岡山県倉敷市玉島長尾3515,"全学部: 推薦ⅠA/B・Ⅱ, 一般ⅠA/B・Ⅱ",https://www.ksu.ac.jp/admissions/info/admissions_music
+2025/12/13,くらしき作陽大学,本学（くらしき作陽大学・作陽短期大学）,岡山県,岡山県倉敷市玉島長尾3515,"全学部: 推薦ⅠA/B・Ⅱ, 一般ⅠA/B・Ⅱ",https://www.ksu.ac.jp/admissions/info/admissions_music
+2026/2/3,くらしき作陽大学,本学（くらしき作陽大学・作陽短期大学）,岡山県,岡山県倉敷市玉島長尾3515,"全学部: 推薦ⅠA/B・Ⅱ, 一般ⅠA/B・Ⅱ",https://www.ksu.ac.jp/admissions/info/admissions_music
+2026/2/4,くらしき作陽大学,本学（くらしき作陽大学・作陽短期大学）,岡山県,岡山県倉敷市玉島長尾3515,"全学部: 推薦ⅠA/B・Ⅱ, 一般ⅠA/B・Ⅱ",https://www.ksu.ac.jp/admissions/info/admissions_music
+2026/3/11,くらしき作陽大学,本学（くらしき作陽大学・作陽短期大学）,岡山県,岡山県倉敷市玉島長尾3515,"全学部: 推薦ⅠA/B・Ⅱ, 一般ⅠA/B・Ⅱ",https://www.ksu.ac.jp/admissions/info/admissions_music
+2025/11/22,くらしき作陽大学,松江会場（島根県民会館）,島根県,島根県松江市殿町158,食・子・健スポ: 推薦ⅠA/一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2026/2/3,くらしき作陽大学,松江会場（島根県民会館）,島根県,島根県松江市殿町158,食・子・健スポ: 推薦ⅠA/一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2025/11/22,くらしき作陽大学,高松会場（マリンパレスさぬき）,香川県,香川県高松市福岡町二丁目3番4号,食・子・健スポ: 推薦ⅠA/一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2026/2/3,くらしき作陽大学,高松会場（マリンパレスさぬき）,香川県,香川県高松市福岡町二丁目3番4号,食・子・健スポ: 推薦ⅠA/一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2025/11/22,くらしき作陽大学,松山会場（ホテルアイスル松山）,愛媛県,愛媛県松山市宮田町391-8,食・子・健スポ: 推薦ⅠA/一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2026/2/3,くらしき作陽大学,松山会場（ホテルアイスル松山）,愛媛県,愛媛県松山市宮田町391-8,食・子・健スポ: 推薦ⅠA/一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2025/11/22,くらしき作陽大学,高知会場（高知会館）,高知県,高知県高知市本町5-6-42,食・子・健スポ: 推薦ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2026/2/3,くらしき作陽大学,鳥取会場（白兎会館）,鳥取県,鳥取県鳥取市末広温泉町556,食・子・健スポ: 一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2026/2/3,くらしき作陽大学,広島会場（広島YMCA国際文化センター）,広島県,広島県広島市中区八丁堀7-11,食・子・健スポ: 一般ⅠA,https://www.ksu.ac.jp/admissions/info/admissions_food_culture
+2026/2/4,ぐんま未来大学,本学キャンパス,群馬県,群馬県みどり市笠懸町阿左美606-7,一般選抜Ⅰ〜Ⅲ期,https://www.kiryu-u.ac.jp/departments/nursing/schedule/general_selection/
+2026/2/20,ぐんま未来大学,本学キャンパス,群馬県,群馬県みどり市笠懸町阿左美606-7,一般選抜Ⅰ〜Ⅲ期,https://www.kiryu-u.ac.jp/departments/nursing/schedule/general_selection/
+2026/3/13,ぐんま未来大学,本学キャンパス,群馬県,群馬県みどり市笠懸町阿左美606-7,一般選抜Ⅰ〜Ⅲ期,https://www.kiryu-u.ac.jp/departments/nursing/schedule/general_selection/
+2026/2/4,ぐんま未来大学,新潟会場（ホテルサンルート新潟）,新潟県,新潟県新潟市中央区東大通1-11-25,一般選抜Ⅰ期のみ,https://www.kiryu-u.ac.jp/wp2024/wp-content/uploads/2025/06/2026yoko_daigaku.pdf
+2026/2/4,ぐんま未来大学,長野会場（ホテル信濃路）,長野県,長野県長野市中御所岡田町131-4,一般選抜Ⅰ期のみ,https://www.kiryu-u.ac.jp/wp2024/wp-content/uploads/2025/06/2026yoko_daigaku.pdf
+2026/1/31,つくば国際大学,つくば国際大学キャンパス,茨城県,茨城県土浦市真鍋6-20-1,一般選抜1期・2期 本学会場,https://www.ktt.ac.jp/tiu/jyuken/2026/general-examination-hs.htm
+2026/2/28,つくば国際大学,つくば国際大学キャンパス,茨城県,茨城県土浦市真鍋6-20-1,一般選抜1期・2期 本学会場,https://www.ktt.ac.jp/tiu/jyuken/2026/general-examination-hs.htm
+2026/1/31,つくば国際大学,ビジョンセンター東京駅前,東京都,東京都中央区八重洲1-8-17 新槇町ビル7F,一般選抜1期・2期 東京会場,https://www.ktt.ac.jp/tiu/jyuken/2026/exam-venue-tokyo.htm
+2026/2/28,つくば国際大学,ビジョンセンター東京駅前,東京都,東京都中央区八重洲1-8-17 新槇町ビル7F,一般選抜1期・2期 東京会場,https://www.ktt.ac.jp/tiu/jyuken/2026/exam-venue-tokyo.htm
+2025/9/18,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2025/10/11,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2025/11/12,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2025/11/22,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2025/11/23,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2025/12/13,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2026/2/5,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2026/2/20,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2026/3/9,びわこ成蹊スポーツ大学,本学キャンパス,滋賀県,滋賀県大津市北比良1204,総合型A-D・推薦(公募B/指定校)・一般B/C/D,https://bss-nyushi.jp/exam/sports/ippan_cd2025.pdf
+2026/2/4,びわこ成蹊スポーツ大学,TKP名古屋駅前カンファレンスセンター,愛知県,愛知県名古屋市中村区名駅2-41-5 CK20名駅前ビル,一般選抜A日程,https://bss-nyushi.jp/exam/sports/ippan_ab.php
+2025/11/11,びわこ成蹊スポーツ大学,TKPガーデンシティ京都タワーホテル,京都府,京都府京都市下京区烏丸通七条下ル東塩小路町721-1,一般A・推薦(公募)A,https://bss-nyushi.jp/exam/sports/ippan_ab.php
+2026/2/4,びわこ成蹊スポーツ大学,TKPガーデンシティ京都タワーホテル,京都府,京都府京都市下京区烏丸通七条下ル東塩小路町721-1,一般A・推薦(公募)A,https://bss-nyushi.jp/exam/sports/ippan_ab.php
+2026/2/4,びわこ成蹊スポーツ大学,TKPガーデンシティPREMIUM大阪駅前,大阪府,大阪府大阪市北区曽根崎新地2-3-21 AXビル,一般選抜A日程,https://bss-nyushi.jp/exam/sports/ippan_ab.php
+2026/2/4,びわこ成蹊スポーツ大学,米子商工会議所,鳥取県,鳥取県米子市加茂町2-204,一般選抜A日程,https://bss-nyushi.jp/exam/sports/ippan_ab.php
+2025/11/11,びわこ成蹊スポーツ大学,TKP品川カンファレンスセンター,東京都,東京都港区高輪3-25-23 京急第2ビル6階・7階・9階・10階,推薦(公募)A日程,https://bss-nyushi.jp/exam/sports/koubo.php
+2025/11/11,びわこ成蹊スポーツ大学,TKP高松カンファレンスセンター,香川県,香川県高松市浜ノ町1-20 TAKAMATSU ORNE 南館 3階,推薦(公募)A日程,https://bss-nyushi.jp/exam/sports/koubo.php
+2025/11/15,ものつくり大学,ものつくり大学（本学キャンパス）,埼玉県,埼玉県行田市前谷333番地,一般A/B/C・小論文面接・自己推薦,https://www.iot.ac.jp/guide/access/
+2026/1/10,ものつくり大学,ものつくり大学（本学キャンパス）,埼玉県,埼玉県行田市前谷333番地,一般A/B/C・小論文面接・自己推薦,https://www.iot.ac.jp/guide/access/
+2026/2/1,ものつくり大学,ものつくり大学（本学キャンパス）,埼玉県,埼玉県行田市前谷333番地,一般A/B/C・小論文面接・自己推薦,https://www.iot.ac.jp/guide/access/
+2026/2/2,ものつくり大学,ものつくり大学（本学キャンパス）,埼玉県,埼玉県行田市前谷333番地,一般A/B/C・小論文面接・自己推薦,https://www.iot.ac.jp/guide/access/
+2026/2/20,ものつくり大学,ものつくり大学（本学キャンパス）,埼玉県,埼玉県行田市前谷333番地,一般A/B/C・小論文面接・自己推薦,https://www.iot.ac.jp/guide/access/
+2026/3/9,ものつくり大学,ものつくり大学（本学キャンパス）,埼玉県,埼玉県行田市前谷333番地,一般A/B/C・小論文面接・自己推薦,https://www.iot.ac.jp/guide/access/
+2026/3/18,ものつくり大学,ものつくり大学（本学キャンパス）,埼玉県,埼玉県行田市前谷333番地,一般A/B/C・小論文面接・自己推薦,https://www.iot.ac.jp/guide/access/
+2025/11/15,ものつくり大学,宮城県地方会場,宮城県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2026/2/1,ものつくり大学,宮城県地方会場,宮城県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2026/2/2,ものつくり大学,宮城県地方会場,宮城県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2025/11/15,ものつくり大学,長野県地方会場,長野県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2026/2/1,ものつくり大学,長野県地方会場,長野県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2026/2/2,ものつくり大学,長野県地方会場,長野県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2025/11/15,ものつくり大学,静岡県地方会場,静岡県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2026/2/1,ものつくり大学,静岡県地方会場,静岡県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2026/2/2,ものつくり大学,静岡県地方会場,静岡県,"",一般A・学力特待・自己推薦II,https://www.iot.ac.jp/entrance/faq/
+2025/10/11,ノースアジア大学,本学キャンパス,秋田県,秋田県秋田市下北手桜守沢46-1,総合型Ⅰ～Ⅳ、推薦Ⅰ・Ⅱ、一般A・B,https://www.nau.ac.jp/examination/entrance
+2025/11/1,ノースアジア大学,本学キャンパス,秋田県,秋田県秋田市下北手桜守沢46-1,総合型Ⅰ～Ⅳ、推薦Ⅰ・Ⅱ、一般A・B,https://www.nau.ac.jp/examination/entrance
+2025/11/22,ノースアジア大学,本学キャンパス,秋田県,秋田県秋田市下北手桜守沢46-1,総合型Ⅰ～Ⅳ、推薦Ⅰ・Ⅱ、一般A・B,https://www.nau.ac.jp/examination/entrance
+2025/12/13,ノースアジア大学,本学キャンパス,秋田県,秋田県秋田市下北手桜守沢46-1,総合型Ⅰ～Ⅳ、推薦Ⅰ・Ⅱ、一般A・B,https://www.nau.ac.jp/examination/entrance
+2026/2/7,ノースアジア大学,本学キャンパス,秋田県,秋田県秋田市下北手桜守沢46-1,総合型Ⅰ～Ⅳ、推薦Ⅰ・Ⅱ、一般A・B,https://www.nau.ac.jp/examination/entrance
+2026/3/12,ノースアジア大学,本学キャンパス,秋田県,秋田県秋田市下北手桜守沢46-1,総合型Ⅰ～Ⅳ、推薦Ⅰ・Ⅱ、一般A・B,https://www.nau.ac.jp/examination/entrance
+2025/10/11,ノースアジア大学,仙台会場（ベルエア会館）,宮城県,宮城県仙台市青葉区一番町1丁目4番3号,総合型Ⅰ・Ⅱ、一般A方式,https://www.nau.ac.jp/examination/entrance
+2025/11/1,ノースアジア大学,仙台会場（ベルエア会館）,宮城県,宮城県仙台市青葉区一番町1丁目4番3号,総合型Ⅰ・Ⅱ、一般A方式,https://www.nau.ac.jp/examination/entrance
+2026/2/7,ノースアジア大学,仙台会場（ベルエア会館）,宮城県,宮城県仙台市青葉区一番町1丁目4番3号,総合型Ⅰ・Ⅱ、一般A方式,https://www.nau.ac.jp/examination/entrance
+2026/2/7,ノースアジア大学,大館会場（秋田看護福祉大学）,秋田県,秋田県大館市清水２丁目３−４,一般A方式,https://www.nau.ac.jp/examination/entrance
+2026/2/3,ノートルダム清心女子大学,本学キャンパス,岡山県,岡山県岡山市北区伊福町2-16-9,一般選抜3教科/2教科,https://www.ndsu.ac.jp/request/
+2026/2/4,ノートルダム清心女子大学,本学キャンパス,岡山県,岡山県岡山市北区伊福町2-16-9,一般選抜3教科/2教科,https://www.ndsu.ac.jp/request/
+2026/2/3,ノートルダム清心女子大学,米子会場（米子市公会堂）,鳥取県,鳥取県米子市角盤町２丁目６１番地,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/4,ノートルダム清心女子大学,米子会場（米子市公会堂）,鳥取県,鳥取県米子市角盤町２丁目６１番地,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/3,ノートルダム清心女子大学,広島会場（TKPガーデンシティpremium広島駅北口）,広島県,広島県東区二葉の里３丁目５−７ GRANODE広島 3階,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/4,ノートルダム清心女子大学,広島会場（TKPガーデンシティpremium広島駅北口）,広島県,広島県東区二葉の里３丁目５−７ GRANODE広島 3階,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/3,ノートルダム清心女子大学,福山会場（TKP福山ちゅうぎんビル会議室）,広島県,広島県福山市紅葉町１−１ 福山ちゅうぎんビル 7階,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/4,ノートルダム清心女子大学,福山会場（TKP福山ちゅうぎんビル会議室）,広島県,広島県福山市紅葉町１−１ 福山ちゅうぎんビル 7階,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/3,ノートルダム清心女子大学,高松会場（高松センタービル）,香川県,香川県高松市寿町2-4-20,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/4,ノートルダム清心女子大学,高松会場（高松センタービル）,香川県,香川県高松市寿町2-4-20,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/3,ノートルダム清心女子大学,松山会場（TKP松山市駅前カンファレンスセンター）,愛媛県,愛媛県松山市千舟町４丁目３−７ 青野ビル 2階,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/4,ノートルダム清心女子大学,松山会場（TKP松山市駅前カンファレンスセンター）,愛媛県,愛媛県松山市千舟町４丁目３−７ 青野ビル 2階,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/3,ノートルダム清心女子大学,小倉会場（西日本総合展示場AIM）,福岡県,福岡県北九州市小倉北区浅野３丁目７−１,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/2/4,ノートルダム清心女子大学,小倉会場（西日本総合展示場AIM）,福岡県,福岡県北九州市小倉北区浅野３丁目７−１,一般選抜3教科/2教科,https://my.ebook5.net/ndsu-ebook/BlrvO1/#
+2026/1/27,フェリス女学院大学,緑園キャンパス会場,神奈川県,神奈川県横浜市泉区緑園4-5-3,一般入試A・B・C日程,https://www.ferris.ac.jp/admission/examination/general/
+2026/2/14,フェリス女学院大学,緑園キャンパス会場,神奈川県,神奈川県横浜市泉区緑園4-5-3,一般入試A・B・C日程,https://www.ferris.ac.jp/admission/examination/general/
+2026/3/1,フェリス女学院大学,緑園キャンパス会場,神奈川県,神奈川県横浜市泉区緑園4-5-3,一般入試A・B・C日程,https://www.ferris.ac.jp/admission/examination/general/
+2026/1/27,フェリス女学院大学,東京駅会場（AP東京八重洲）,東京都,東京都中央区京橋1-10-7 KPP八重洲ビル7階,一般入試A日程 東京駅会場,https://www.ferris.ac.jp/admission/news/2025/11/2126.html
+2026/1/27,フェリス女学院大学,静岡市会場（秀英予備校 静岡校1号館）,静岡県,静岡県静岡市葵区鷹匠2-7-1,一般入試A日程 静岡市会場,https://www.ferris.ac.jp/admission/news/2025/11/2126.html
+2026/2/2,亜細亜大学,札幌会場（ACU-A）,北海道,北海道札幌市中央区北四条西5丁目 アスティ45,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,仙台会場（東北福祉大学仙台駅東口キャンパス）,宮城県,宮城県仙台市宮城野区榴岡２丁目５−２６,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,水戸会場（中央ビル（水戸駅北口））,茨城県,茨城県水戸市泉町2丁目3番2号,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,宇都宮会場（TKPガーデンシティ宇都宮）,栃木県,栃木県宇都宮市東宿郷２丁目４−４,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,高崎会場（ビエント高崎）,群馬県,群馬県高崎市問屋町２丁目７,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,さいたま会場（TKP大宮駅西口カンファレンスセンター）,埼玉県, 埼玉県さいたま市大宮区桜木町１丁目8−１ ベルヴュオフィス大宮 ,全学統一入試 前期・中期,https://www.asia-u.ac.jp/admissions/exam/general/general_02.html
+2026/2/18,亜細亜大学,さいたま会場（TKP大宮駅西口カンファレンスセンター）,埼玉県, 埼玉県さいたま市大宮区桜木町１丁目8−１ ベルヴュオフィス大宮 ,全学統一入試 前期・中期,https://www.asia-u.ac.jp/admissions/exam/general/general_02.html
+2026/2/2,亜細亜大学,千葉会場（TKP千葉駅東口ビジネスセンター）,千葉県,千葉県千葉市中央区新町１−２０ 江澤ビル,全学統一入試 前期・中期,https://www.asia-u.ac.jp/admissions/exam/general/general_02.html
+2026/2/18,亜細亜大学,千葉会場（TKP千葉駅東口ビジネスセンター）,千葉県,千葉県千葉市中央区新町１−２０ 江澤ビル,全学統一入試 前期・中期,https://www.asia-u.ac.jp/admissions/exam/general/general_02.html
+2026/2/2,亜細亜大学,武蔵野キャンパス,東京都,東京都武蔵野市境5-8,一般入試/全学統一(前中後)/DS後期,https://www.asia-u.ac.jp/information.html
+2026/2/3,亜細亜大学,武蔵野キャンパス,東京都,東京都武蔵野市境5-8,一般入試/全学統一(前中後)/DS後期,https://www.asia-u.ac.jp/information.html
+2026/2/4,亜細亜大学,武蔵野キャンパス,東京都,東京都武蔵野市境5-8,一般入試/全学統一(前中後)/DS後期,https://www.asia-u.ac.jp/information.html
+2026/2/5,亜細亜大学,武蔵野キャンパス,東京都,東京都武蔵野市境5-8,一般入試/全学統一(前中後)/DS後期,https://www.asia-u.ac.jp/information.html
+2026/2/18,亜細亜大学,武蔵野キャンパス,東京都,東京都武蔵野市境5-8,一般入試/全学統一(前中後)/DS後期,https://www.asia-u.ac.jp/information.html
+2026/2/28,亜細亜大学,武蔵野キャンパス,東京都,東京都武蔵野市境5-8,一般入試/全学統一(前中後)/DS後期,https://www.asia-u.ac.jp/information.html
+2026/2/2,亜細亜大学,横浜会場（MEET SPACE AP横浜）,神奈川県,神奈川県横浜市西区北幸２丁目６−１ Onest 横浜西口ビル,全学統一入試 前期・中期,https://www.asia-u.ac.jp/admissions/exam/general/general_02.html
+2026/2/18,亜細亜大学,横浜会場（MEET SPACE AP横浜）,神奈川県,神奈川県横浜市西区北幸２丁目６−１ Onest 横浜西口ビル,全学統一入試 前期・中期,https://www.asia-u.ac.jp/admissions/exam/general/general_02.html
+2026/2/2,亜細亜大学,新潟会場（朱鷺メッセ）,新潟県,新潟県新潟市中央区万代島6番1号,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,富山会場（ボルファートとやま）,富山県,富山県富山市奥田新町８−１,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,長野会場（JA長野県ビル）,長野県,長野県長野市大字南長野北石堂町1177-3,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,静岡会場（静岡学園 なごみ高等学校）,静岡県,静岡県静岡市駿河区八幡１丁目１−１,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,名古屋会場（タイムオフィス名古屋）,愛知県,愛知県名古屋市中村区名駅２丁目４１−１０,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,大阪会場（天満研修センター）,大阪府,大阪府大阪市北区錦町２−２１,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,広島会場（広島YMCA3号館）,広島県,広島県広島市中区八丁堀7-11,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,福岡会場（アクア博多）,福岡県,福岡市博多区中洲5丁目3-8,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/2/2,亜細亜大学,那覇会場（那覇尚学院別館）,沖縄県,沖縄県那覇市泊２丁目１６−３,全学統一入試 前期,https://www.asia-u.ac.jp/admissions/exam/general/general_01.html
+2026/1/26,共立女子大学,神田一橋キャンパス,東京都,東京都千代田区一ツ橋2-2-1,全学統一/2月前期A・B/後期,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/2/1,共立女子大学,神田一橋キャンパス,東京都,東京都千代田区一ツ橋2-2-1,全学統一/2月前期A・B/後期,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/2/5,共立女子大学,神田一橋キャンパス,東京都,東京都千代田区一ツ橋2-2-1,全学統一/2月前期A・B/後期,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/2/26,共立女子大学,神田一橋キャンパス,東京都,東京都千代田区一ツ橋2-2-1,全学統一/2月前期A・B/後期,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/2/1,共立女子大学,横浜会場（岩崎学園横浜西口２号館）,神奈川県,横浜市神奈川区鶴屋町２-１７,2月前期A・共通テ併用,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/2/1,共立女子大学,大宮会場（JA共済埼玉ビル）,埼玉県,さいたま市大宮区土手町１-２,2月前期A・共通テ併用,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/1/26,共立女子大学,高崎会場（ビエント高崎）,群馬県,高崎市問屋町２-７,全学統一方式,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/1/26,共立女子大学,水戸会場（茨城県労働福祉会館）,茨城県,水戸市梅香２-１-３９,全学統一方式,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/1/26,共立女子大学,宇都宮会場（ライトキューブ宇都宮）,栃木県,宇都宮市宮みらい１-２０,全学統一方式,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/1/26,共立女子大学,千葉会場（千葉中央ホール）,千葉県,千葉市中央区中央３-１８-３,全学統一方式,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/1/26,共立女子大学,新潟会場（日本こども福祉専門学校）,新潟県,新潟市中央区花園１-４-８,全学統一方式,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/1/26,共立女子大学,静岡会場（静岡学園なごみ高等学校）,静岡県,静岡市駿河区八幡１-１-１,全学統一方式,https://www.kyoritsu-wu.ac.jp/applicant/examlp/2026/
+2026/2/14,愛知みずほ大学,愛知みずほ大学,愛知県,愛知県名古屋市瑞穂区春敲町2-13,一般選抜 前期・後期,https://juken.mizuho-c.ac.jp/manage/wp-content/uploads/2025/05/c_ippan.pdf
+2026/3/6,愛知みずほ大学,愛知みずほ大学,愛知県,愛知県名古屋市瑞穂区春敲町2-13,一般選抜 前期・後期,https://juken.mizuho-c.ac.jp/manage/wp-content/uploads/2025/05/c_ippan.pdf
+2026/1/20,愛知医科大学,名古屋コンベンションホール,愛知県,愛知県名古屋市中村区平池町4-60-12 グローバルゲート,一般選抜第1次試験,https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html
+2026/1/20,愛知医科大学,ベルサール高田馬場,東京都,東京都新宿区大久保3-8-2 住友不動産新宿ガーデンタワーB2・1F,一般選抜第1次試験,https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html
+2026/1/20,愛知医科大学,ナレッジキャピタルコングレコンベンションセンター,大阪府,大阪府大阪市北区大深町3-1 グランフロント大阪 北館B2F,一般選抜第1次試験,https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html
+2026/1/20,愛知医科大学,福岡ファッションビル,福岡県,福岡県福岡市博多区博多駅前2-10-19 福岡ファッションビル,一般選抜第1次試験,https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/03.html
+2026/1/25,愛知医科大学,本学（愛知医科大学）,愛知県,愛知県長久手市岩作雁又1-1,"一般選抜第2次,共通テスト利用第2次",https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/04.html
+2026/2/5,愛知医科大学,本学（愛知医科大学）,愛知県,愛知県長久手市岩作雁又1-1,"一般選抜第2次,共通テスト利用第2次",https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/04.html
+2026/2/6,愛知医科大学,本学（愛知医科大学）,愛知県,愛知県長久手市岩作雁又1-1,"一般選抜第2次,共通テスト利用第2次",https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/04.html
+2026/2/19,愛知医科大学,本学（愛知医科大学）,愛知県,愛知県長久手市岩作雁又1-1,"一般選抜第2次,共通テスト利用第2次",https://www.aichi-med-u.ac.jp/su11/su1107/su110701/su11070101/04.html
+2026/1/27,愛知学泉大学,愛知学泉大学 岡崎キャンパス,愛知県,愛知県岡崎市舳越町上川成28,一般選抜（前期・後期）,https://www.gakusen.ac.jp/u/exam/place.html
+2026/1/28,愛知学泉大学,愛知学泉大学 岡崎キャンパス,愛知県,愛知県岡崎市舳越町上川成28,一般選抜（前期・後期）,https://www.gakusen.ac.jp/u/exam/place.html
+2026/3/8,愛知学泉大学,愛知学泉大学 岡崎キャンパス,愛知県,愛知県岡崎市舳越町上川成28,一般選抜（前期・後期）,https://www.gakusen.ac.jp/u/exam/place.html
+2026/1/27,愛知学泉大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4-4-38,一般選抜（前期）,https://www.gakusen.ac.jp/u/exam/place.html
+2026/1/27,愛知学泉大学,遠鉄百貨店13階 会議室,静岡県,静岡県浜松市中央区旭町12-1,一般選抜（前期）,https://www.gakusen.ac.jp/u/exam/place.html
+2026/2/1,愛知学院大学,名城公園キャンパス,愛知県,愛知県名古屋市北区名城3-1-1,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/2,愛知学院大学,名城公園キャンパス,愛知県,愛知県名古屋市北区名城3-1-1,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/3,愛知学院大学,名城公園キャンパス,愛知県,愛知県名古屋市北区名城3-1-1,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/4,愛知学院大学,名城公園キャンパス,愛知県,愛知県名古屋市北区名城3-1-1,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/21,愛知学院大学,名城公園キャンパス,愛知県,愛知県名古屋市北区名城3-1-1,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/3/7,愛知学院大学,名城公園キャンパス,愛知県,愛知県名古屋市北区名城3-1-1,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/1,愛知学院大学,日進キャンパス,愛知県,愛知県日進市岩崎町阿良池12,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/2,愛知学院大学,日進キャンパス,愛知県,愛知県日進市岩崎町阿良池12,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/3,愛知学院大学,日進キャンパス,愛知県,愛知県日進市岩崎町阿良池12,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/4,愛知学院大学,日進キャンパス,愛知県,愛知県日進市岩崎町阿良池12,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/2/21,愛知学院大学,日進キャンパス,愛知県,愛知県日進市岩崎町阿良池12,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/3/7,愛知学院大学,日進キャンパス,愛知県,愛知県日進市岩崎町阿良池12,一般選抜（本学会場）,https://navi.agu.ac.jp/access/
+2026/3/7,愛知学院大学,東京会場（リロの会議室 コンフォート水道橋）,東京都,東京都千代田区神田三崎町2-7-10 帝都三崎町ビル,一般選抜 後期,https://www.agu.ac.jp/news/file/release/2025_%E6%9D%B1%E4%BA%AC_late.pdf
+2026/3/7,愛知学院大学,浜松会場（サーラシティ浜松）,静岡県,静岡県浜松市中央区砂山町1107,一般選抜 後期,https://www.agu.ac.jp/news/file/release/2025_%E6%B5%9C%E6%9D%BE_late.pdf
+2026/3/7,愛知学院大学,金沢会場（金沢勤労者プラザ）,石川県,石川県金沢市北安江3-2-20,一般選抜 後期,https://www.agu.ac.jp/news/file/release/2025_%E9%87%91%E6%B2%A2_late.pdf
+2026/3/7,愛知学院大学,松本会場（松本商工会議所）,長野県,長野県松本市中央1-23-1,一般選抜 後期,https://www.agu.ac.jp/news/file/release/2025_%E6%9D%BE%E6%9C%AC_late.pdf
+2026/3/7,愛知学院大学,津会場（第一ビル）,三重県,三重県津市羽所町345,一般選抜 後期,https://www.agu.ac.jp/news/file/release/2025_%E6%B4%A5_late.pdf
+2026/3/7,愛知学院大学,大阪会場（新梅田研修センター）,大阪府,大阪府大阪市福島区福島6-22-20,一般選抜 後期,https://www.agu.ac.jp/news/file/release/2025_%E5%A4%A7%E9%98%AA_late.pdf
+2026/1/27,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/about/yakusa-campus/
+2026/1/28,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/about/yakusa-campus/
+2026/1/29,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/about/yakusa-campus/
+2026/3/4,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/about/yakusa-campus/
+2026/1/27,愛知工業大学,自由ヶ丘キャンパス,愛知県,愛知県名古屋市千種区自由ヶ丘2丁目49-2,一般選抜 前期A・M,https://www.ait.ac.jp/about/jiyuugaoka-campus/
+2026/1/28,愛知工業大学,自由ヶ丘キャンパス,愛知県,愛知県名古屋市千種区自由ヶ丘2丁目49-2,一般選抜 前期A・M,https://www.ait.ac.jp/about/jiyuugaoka-campus/
+2026/1/29,愛知工業大学,自由ヶ丘キャンパス,愛知県,愛知県名古屋市千種区自由ヶ丘2丁目49-2,一般選抜 前期A・M,https://www.ait.ac.jp/about/jiyuugaoka-campus/
+2026/1/27,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,iビル,愛知県,愛知県一宮市栄3丁目1-2,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,iビル,愛知県,愛知県一宮市栄3丁目1-2,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,iビル,愛知県,愛知県一宮市栄3丁目1-2,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijou/
+2026/1/28,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijou/
+2026/1/29,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijou/
+2026/3/4,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijou/
+2026/1/27,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜 前期A・M/後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,えんてつホール,静岡県,静岡県浜松市中区旭町12-1 遠鉄百貨店新館8F,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,えんてつホール,静岡県,静岡県浜松市中区旭町12-1 遠鉄百貨店新館8F,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,えんてつホール,静岡県,静岡県浜松市中区旭町12-1 遠鉄百貨店新館8F,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,アクトシティ浜松 コングレスセンター,静岡県,静岡県浜松市中央区板屋町111-1,一般選抜 後期M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,静岡第一ホテル,静岡県,静岡県静岡市駿河区泉町1-21,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,静岡第一ホテル,静岡県,静岡県静岡市駿河区泉町1-21,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,静岡第一ホテル,静岡県,静岡県静岡市駿河区泉町1-21,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,タワー111,富山県,富山県富山市牛島新町5-5,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,タワー111,富山県,富山県富山市牛島新町5-5,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,タワー111,富山県,富山県富山市牛島新町5-5,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,金沢勤労者プラザ,石川県,石川県金沢市北安江3-2-20,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,金沢勤労者プラザ,石川県,石川県金沢市北安江3-2-20,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,松本商工会館,長野県,長野県松本市中央1-23-1,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,松本商工会館,長野県,長野県松本市中央1-23-1,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,岡山進研学院,岡山県,岡山県岡山市北区伊福町2丁目10-27,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,岡山進研学院,岡山県,岡山県岡山市北区伊福町2丁目10-27,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,リファレンス駅東ビル 貸会議室,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,リファレンス駅東ビル 貸会議室,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,一般選抜 前期A・M,https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/about/yakusa-campus/
+2026/1/28,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/about/yakusa-campus/
+2026/1/29,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/about/yakusa-campus/
+2026/3/4,愛知工業大学,八草キャンパス,愛知県,愛知県豊田市八草町八千草1247,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/about/yakusa-campus/
+2026/1/27,愛知工業大学,自由ヶ丘キャンパス,愛知県,愛知県名古屋市千種区自由ヶ丘2丁目49-2,一般選抜(A方式/前期M),https://www.ait.ac.jp/about/jiyuugaoka-campus/
+2026/1/28,愛知工業大学,自由ヶ丘キャンパス,愛知県,愛知県名古屋市千種区自由ヶ丘2丁目49-2,一般選抜(A方式/前期M),https://www.ait.ac.jp/about/jiyuugaoka-campus/
+2026/1/29,愛知工業大学,自由ヶ丘キャンパス,愛知県,愛知県名古屋市千種区自由ヶ丘2丁目49-2,一般選抜(A方式/前期M),https://www.ait.ac.jp/about/jiyuugaoka-campus/
+2026/1/27,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,豊橋商工会議所,愛知県,愛知県豊橋市花田町字石塚42-1,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,iビル,愛知県,愛知県一宮市栄3丁目1-2,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,iビル,愛知県,愛知県一宮市栄3丁目1-2,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,iビル,愛知県,愛知県一宮市栄3丁目1-2,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,ホテルリソル岐阜,岐阜県,岐阜県岐阜市長住町5-8,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,プラトンホテル四日市,三重県,三重県四日市市西新地7-3,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,三重県教育文化会館,三重県,三重県津市桜橋2-142,一般選抜(A方式/前期M/後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,えんてつホール,静岡県,静岡県浜松市中央区旭町12-1 遠鉄百貨店新館8F,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,えんてつホール,静岡県,静岡県浜松市中央区旭町12-1 遠鉄百貨店新館8F,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,えんてつホール,静岡県,静岡県浜松市中央区旭町12-1 遠鉄百貨店新館8F,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/3/4,愛知工業大学,アクトシティ浜松 コングレスセンター,静岡県,静岡県浜松市中央区板屋町111-1,一般選抜(後期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,静岡第一ホテル,静岡県,静岡県静岡市駿河区泉町1-21,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,静岡第一ホテル,静岡県,静岡県静岡市駿河区泉町1-21,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,静岡第一ホテル,静岡県,静岡県静岡市駿河区泉町1-21,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/27,愛知工業大学,タワー111,富山県,富山県富山市牛島新町5-5,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,タワー111,富山県,富山県富山市牛島新町5-5,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,タワー111,富山県,富山県富山市牛島新町5-5,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,金沢勤労者プラザ,石川県,石川県金沢市北安江3-2-20,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,金沢勤労者プラザ,石川県,石川県金沢市北安江3-2-20,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,松本商工会館,長野県,長野県松本市中央1-23-1,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,松本商工会館,長野県,長野県松本市中央1-23-1,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,岡山進研学院,岡山県,岡山県岡山市北区伊福町2丁目10-27,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,岡山進研学院,岡山県,岡山県岡山市北区伊福町2丁目10-27,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/28,愛知工業大学,リファレンス駅東ビル 貸会議室,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/1/29,愛知工業大学,リファレンス駅東ビル 貸会議室,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,一般選抜(A方式/前期M),https://www.ait.ac.jp/examinee/kaijyou/
+2026/2/1,愛知淑徳大学,本学（星が丘キャンパス）,愛知県,愛知県名古屋市千種区桜が丘23,一般前期・後期,https://www.aasa.ac.jp/welcome/exam/
+2026/2/2,愛知淑徳大学,本学（星が丘キャンパス）,愛知県,愛知県名古屋市千種区桜が丘23,一般前期・後期,https://www.aasa.ac.jp/welcome/exam/
+2026/2/4,愛知淑徳大学,本学（星が丘キャンパス）,愛知県,愛知県名古屋市千種区桜が丘23,一般前期・後期,https://www.aasa.ac.jp/welcome/exam/
+2026/2/5,愛知淑徳大学,本学（星が丘キャンパス）,愛知県,愛知県名古屋市千種区桜が丘23,一般前期・後期,https://www.aasa.ac.jp/welcome/exam/
+2026/2/6,愛知淑徳大学,本学（星が丘キャンパス）,愛知県,愛知県名古屋市千種区桜が丘23,一般前期・後期,https://www.aasa.ac.jp/welcome/exam/
+2026/3/8,愛知淑徳大学,本学（星が丘キャンパス）,愛知県,愛知県名古屋市千種区桜が丘23,一般前期・後期,https://www.aasa.ac.jp/welcome/exam/
+2026/2/1,愛知淑徳大学,岐阜会場,岐阜県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/2,愛知淑徳大学,岐阜会場,岐阜県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/4,愛知淑徳大学,岐阜会場,岐阜県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/5,愛知淑徳大学,岐阜会場,岐阜県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/6,愛知淑徳大学,岐阜会場,岐阜県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/1,愛知淑徳大学,浜松会場,静岡県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/2,愛知淑徳大学,浜松会場,静岡県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/4,愛知淑徳大学,浜松会場,静岡県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/5,愛知淑徳大学,浜松会場,静岡県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/6,愛知淑徳大学,浜松会場,静岡県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/1,愛知淑徳大学,四日市会場,三重県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/2,愛知淑徳大学,四日市会場,三重県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/4,愛知淑徳大学,四日市会場,三重県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/5,愛知淑徳大学,四日市会場,三重県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/6,愛知淑徳大学,四日市会場,三重県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/1,愛知淑徳大学,松本会場,長野県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/2,愛知淑徳大学,松本会場,長野県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/1,愛知淑徳大学,金沢会場,石川県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/2,愛知淑徳大学,金沢会場,石川県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/1,愛知淑徳大学,豊橋会場,愛知県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/2/2,愛知淑徳大学,豊橋会場,愛知県,"",一般選抜（前期）,https://www.aasa.ac.jp/welcome/exam/ippan.html
+2026/1/26,松山大学,松山大学 本学キャンパス,愛媛県,愛媛県松山市文京町4-2,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index39.html
+2026/2/10,松山大学,松山大学 本学キャンパス,愛媛県,愛媛県松山市文京町4-2,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index39.html
+2026/1/26,松山大学,新居浜商工会館,愛媛県,愛媛県新居浜市一宮町二丁目4番8号,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/2/10,松山大学,新居浜商工会館,愛媛県,愛媛県新居浜市一宮町二丁目4番8号,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/1/26,松山大学,JAえひめ南,愛媛県,愛媛県宇和島市栄町港3-303,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/2/10,松山大学,JAえひめ南,愛媛県,愛媛県宇和島市栄町港3-303,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/1/26,松山大学,松山大学東京オフィス（ニッタビル）,東京都,東京都中央区銀座8-2-1 ニッタビル6階,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/2/10,松山大学,松山大学東京オフィス（ニッタビル）,東京都,東京都中央区銀座8-2-1 ニッタビル6階,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/1/26,松山大学,ハートンホテル北梅田,大阪府,大阪府大阪市北区豊崎3-12-10,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/2/10,松山大学,ハートンホテル北梅田,大阪府,大阪府大阪市北区豊崎3-12-10,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/1/26,松山大学,松江テルサ,島根県,島根県松江市朝日町478-18,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/2/10,松山大学,松江テルサ,島根県,島根県松江市朝日町478-18,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/1/26,松山大学,岡山進研学院,岡山県,岡山県岡山市北区伊福町2-10-27,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/2/10,松山大学,岡山進研学院,岡山県,岡山県岡山市北区伊福町2-10-27,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index40.html
+2026/1/26,松山大学,広島経済大学立町キャンパス（IG石田学園ビル）,広島県,広島県広島市中区立町2-25 IG石田学園ビル,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/2/10,松山大学,広島経済大学立町キャンパス（IG石田学園ビル）,広島県,広島県広島市中区立町2-25 IG石田学園ビル,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/1/26,松山大学,TKP福山ちゅうぎんビル会議室,広島県,広島県福山市紅葉町1-1 福山ちゅうぎんビル7F,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/2/10,松山大学,TKP福山ちゅうぎんビル会議室,広島県,広島県福山市紅葉町1-1 福山ちゅうぎんビル7F,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/1/26,松山大学,KDDI維新ホール,山口県,山口県山口市小郡令和1-1-1,一般選抜I期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/2/10,松山大学,山口グランドホテル,山口県,山口県山口市小郡黄金町1-1,一般選抜II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/1/26,松山大学,あわぎんホール,徳島県,徳島県徳島市藍場町2丁目14番地,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/2/10,松山大学,あわぎんホール,徳島県,徳島県徳島市藍場町2丁目14番地,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/1/26,松山大学,高松商工会議所,香川県,香川県高松市番町2-2-2,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/2/10,松山大学,高松商工会議所,香川県,香川県高松市番町2-2-2,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/1/26,松山大学,土佐塾予備校,高知県,高知県高知市はりまや町3-7-8,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/2/10,松山大学,土佐塾予備校,高知県,高知県高知市はりまや町3-7-8,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index41.html
+2026/1/26,松山大学,TKP博多駅筑紫口ビジネスセンター,福岡県,福岡県福岡市博多区博多駅中央街4-8 ユーコウビル,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2026/2/10,松山大学,TKP博多駅筑紫口ビジネスセンター,福岡県,福岡県福岡市博多区博多駅中央街4-8 ユーコウビル,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2026/1/26,松山大学,大分県労働福祉会館「ソレイユ」,大分県,大分県大分市中央町4-2-5,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2026/2/10,松山大学,大分県労働福祉会館「ソレイユ」,大分県,大分県大分市中央町4-2-5,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2026/1/26,松山大学,鹿児島県医師会館,鹿児島県,鹿児島県鹿児島市中央町8-1,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2026/2/10,松山大学,鹿児島県医師会館,鹿児島県,鹿児島県鹿児島市中央町8-1,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2026/1/26,松山大学,那覇尚学院別館,沖縄県,沖縄県那覇市泊2-17-4,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2026/2/10,松山大学,那覇尚学院別館,沖縄県,沖縄県那覇市泊2-17-4,一般選抜I・II期,https://www.matsuyama-u.ac.jp/ebook/2026_nyusiyoukou/pageindices/index42.html
+2025/10/5,神戸女子大学,須磨キャンパス,兵庫県,兵庫県神戸市須磨区東須磨青山2-1,ファミリー/自己アピ/公募前A・B/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,須磨キャンパス,兵庫県,兵庫県神戸市須磨区東須磨青山2-1,ファミリー/自己アピ/公募前A・B/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,須磨キャンパス,兵庫県,兵庫県神戸市須磨区東須磨青山2-1,ファミリー/自己アピ/公募前A・B/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/12/7,神戸女子大学,須磨キャンパス,兵庫県,兵庫県神戸市須磨区東須磨青山2-1,ファミリー/自己アピ/公募前A・B/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/10/5,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/12/7,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/2/15,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/3/8,神戸女子大学,ポートアイランドキャンパス,兵庫県,兵庫県神戸市中央区港島中町4-7-2,ファミ/自ア/公募前後/一般前A・B・C/後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,AP東京八重洲,東京都,東京都中央区京橋1-10-7 KPP八重洲ビル,一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,AP東京八重洲,東京都,東京都中央区京橋1-10-7 KPP八重洲ビル,一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,AP大阪茶屋町,大阪府,大阪府大阪市北区茶屋町1-27 ABC-MART梅田ビル,公募前A・B/公募後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,AP大阪茶屋町,大阪府,大阪府大阪市北区茶屋町1-27 ABC-MART梅田ビル,公募前A・B/公募後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/12/7,神戸女子大学,AP大阪茶屋町,大阪府,大阪府大阪市北区茶屋町1-27 ABC-MART梅田ビル,公募前A・B/公募後期,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,AP大阪梅田東,大阪府,大阪府大阪市北区堂山町3-3 日本生命梅田ビル,一般前A・B/前期C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,AP大阪梅田東,大阪府,大阪府大阪市北区堂山町3-3 日本生命梅田ビル,一般前A・B/前期C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/2/15,神戸女子大学,AP大阪梅田東,大阪府,大阪府大阪市北区堂山町3-3 日本生命梅田ビル,一般前A・B/前期C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,BIZ SPACE HIMEJI,兵庫県,兵庫県姫路市本町127 大手前ダイネンBLD.Ⅱ,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,BIZ SPACE HIMEJI,兵庫県,兵庫県姫路市本町127 大手前ダイネンBLD.Ⅱ,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,BIZ SPACE HIMEJI,兵庫県,兵庫県姫路市本町127 大手前ダイネンBLD.Ⅱ,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,BIZ SPACE HIMEJI,兵庫県,兵庫県姫路市本町127 大手前ダイネンBLD.Ⅱ,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,国際ファミリープラザ,鳥取県,鳥取県米子市加茂町2-180,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,国際ファミリープラザ,鳥取県,鳥取県米子市加茂町2-180,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,国際ファミリープラザ,鳥取県,鳥取県米子市加茂町2-180,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,国際ファミリープラザ,鳥取県,鳥取県米子市加茂町2-180,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,RCC文化センター,広島県,広島県広島市中区橋本町5-11,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,RCC文化センター,広島県,広島県広島市中区橋本町5-11,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,RCC文化センター,広島県,広島県広島市中区橋本町5-11,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,RCC文化センター,広島県,広島県広島市中区橋本町5-11,公募前A・B/一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,高松センタービル,香川県,香川県高松市寿町2-4-20,公募前A・B/公募後期/一般前A・B・C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,高松センタービル,香川県,香川県高松市寿町2-4-20,公募前A・B/公募後期/一般前A・B・C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/12/7,神戸女子大学,高松センタービル,香川県,香川県高松市寿町2-4-20,公募前A・B/公募後期/一般前A・B・C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,高松センタービル,香川県,香川県高松市寿町2-4-20,公募前A・B/公募後期/一般前A・B・C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,高松センタービル,香川県,香川県高松市寿町2-4-20,公募前A・B/公募後期/一般前A・B・C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/2/15,神戸女子大学,高松センタービル,香川県,香川県高松市寿町2-4-20,公募前A・B/公募後期/一般前A・B・C,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/2,神戸女子大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1-16-14,公募前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/3,神戸女子大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1-16-14,公募前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/25,神戸女子大学,リファレンス大博多ビル,福岡県,福岡県福岡市博多区博多駅前2-20-1,一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2026/1/26,神戸女子大学,リファレンス大博多ビル,福岡県,福岡県福岡市博多区博多駅前2-20-1,一般前A・B,https://nyushi.kobe-wu.ac.jp/exam/2026/site/
+2025/11/19,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2025/11/20,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2025/12/13,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2026/1/26,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2026/1/27,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2026/1/28,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2026/2/5,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2026/2/6,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2026/3/3,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2026/3/20,追手門学院大学,追手門学院大学 茨木総持寺キャンパス,大阪府,大阪府茨木市太田東芝町1-1,本学会場。全日程,https://nyushi.otemon.ac.jp/admission/
+2025/11/19,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,ビィーゴ,大阪府,大阪府枚方市岡本町7番1号 枚方ビオルネ5F・4F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,難波御堂筋ホール,大阪府,大阪府大阪市中央区難波4-2-1 難波御堂筋ビルディング6・7・9F,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,難波御堂筋ホール,大阪府,大阪府大阪市中央区難波4-2-1 難波御堂筋ビルディング6・7・9F,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,難波御堂筋ホール,大阪府,大阪府大阪市中央区難波4-2-1 難波御堂筋ビルディング6・7・9F,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,TKPガーデンシティPREMIUM心斎橋,大阪府,大阪府大阪市中央区南船場4丁目3-2 ゼント心斎橋ビル3階・4階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,TKPガーデンシティPREMIUM心斎橋,大阪府,大阪府大阪市中央区南船場4丁目3-2 ゼント心斎橋ビル3階・4階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,TKPガーデンシティPREMIUM心斎橋,大阪府,大阪府大阪市中央区南船場4丁目3-2 ゼント心斎橋ビル3階・4階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,TKPガーデンシティPREMIUM心斎橋,大阪府,大阪府大阪市中央区南船場4丁目3-2 ゼント心斎橋ビル3階・4階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,TKPガーデンシティPREMIUM心斎橋,大阪府,大阪府大阪市中央区南船場4丁目3-2 ゼント心斎橋ビル3階・4階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,I-siteなんば,大阪府,大阪府大阪市浪速区敷津東2丁目1-41 南海なんば第1ビル2階・3階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,I-siteなんば,大阪府,大阪府大阪市浪速区敷津東2丁目1-41 南海なんば第1ビル2階・3階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,I-siteなんば,大阪府,大阪府大阪市浪速区敷津東2丁目1-41 南海なんば第1ビル2階・3階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,I-siteなんば,大阪府,大阪府大阪市浪速区敷津東2丁目1-41 南海なんば第1ビル2階・3階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,I-siteなんば,大阪府,大阪府大阪市浪速区敷津東2丁目1-41 南海なんば第1ビル2階・3階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,東洋ビル貸し会議室,大阪府,大阪府堺市堺区北花田口町3丁1-15,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,東洋ビル貸し会議室,大阪府,大阪府堺市堺区北花田口町3丁1-15,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,東洋ビル貸し会議室,大阪府,大阪府堺市堺区北花田口町3丁1-15,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,ウインクあいち,愛知県,愛知県名古屋市中村区名駅4丁目4-38,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,草津商工会議所,滋賀県,滋賀県草津市大路2-1-35 キラリエ草津（市民総合交流センター）,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,京都烏丸コンベンションホール,京都府,京都府京都市中京区烏丸通六角下る七観音町634 ONEST京都烏丸スクエア8F,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,京都烏丸コンベンションホール,京都府,京都府京都市中京区烏丸通六角下る七観音町634 ONEST京都烏丸スクエア8F,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,京都烏丸コンベンションホール,京都府,京都府京都市中京区烏丸通六角下る七観音町634 ONEST京都烏丸スクエア8F,公募推薦のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,TKP京都四条カンファレンスセンター,京都府,京都府京都市下京区立売中之町99 四条SETビル6階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,TKP京都四条カンファレンスセンター,京都府,京都府京都市下京区立売中之町99 四条SETビル6階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,TKP京都四条カンファレンスセンター,京都府,京都府京都市下京区立売中之町99 四条SETビル6階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,TKP京都四条カンファレンスセンター,京都府,京都府京都市下京区立売中之町99 四条SETビル6階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,TKP京都四条カンファレンスセンター,京都府,京都府京都市下京区立売中之町99 四条SETビル6階,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,三宮研修センター,兵庫県,兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,神戸駅前研修センター,兵庫県,兵庫県神戸市中央区中町通2丁目3-1,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,神戸駅前研修センター,兵庫県,兵庫県神戸市中央区中町通2丁目3-1,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,神戸駅前研修センター,兵庫県,兵庫県神戸市中央区中町通2丁目3-1,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,神戸駅前研修センター,兵庫県,兵庫県神戸市中央区中町通2丁目3-1,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,神戸駅前研修センター,兵庫県,兵庫県神戸市中央区中町通2丁目3-1,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,明石商工会議所,兵庫県,兵庫県明石市大明石町1-2-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,奈良県コンベンションセンター,奈良県,奈良県奈良市三条大路一丁目691-1,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,ホテルリガーレ春日野,奈良県,奈良県奈良市法蓮町757-2,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,ホテルリガーレ春日野,奈良県,奈良県奈良市法蓮町757-2,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,ホテルリガーレ春日野,奈良県,奈良県奈良市法蓮町757-2,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,ホテルリガーレ春日野,奈良県,奈良県奈良市法蓮町757-2,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,ホテルリガーレ春日野,奈良県,奈良県奈良市法蓮町757-2,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,和歌山英数学館 本館,和歌山県,和歌山県和歌山市太田2-13-12,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,和歌山県民文化会館,和歌山県,和歌山市小松原通り一丁目1番地 和歌山県庁正門前,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,和歌山県民文化会館,和歌山県,和歌山市小松原通り一丁目1番地 和歌山県庁正門前,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,和歌山県民文化会館,和歌山県,和歌山市小松原通り一丁目1番地 和歌山県庁正門前,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,和歌山県民文化会館,和歌山県,和歌山市小松原通り一丁目1番地 和歌山県庁正門前,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,和歌山県民文化会館,和歌山県,和歌山市小松原通り一丁目1番地 和歌山県庁正門前,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,高松商工会議所,香川県,香川県高松市番町二丁目2番2号,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,ピギー貸会議室,岡山県,岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル3階,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,リファレンス広島小町ビル貸会議室,広島県,広島県広島市中区小町3-19 リファレンス広島小町ビル,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/19,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/11/20,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2025/12/13,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,リファレンス駅東ビル,福岡県,福岡県福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル7F,公募推薦・一般前期,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,追手門学院大学,リファレンス大博多ビル,福岡県,福岡県福岡市博多区博多駅前2丁目20-1 大博多ビル11F,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/27,追手門学院大学,リファレンス大博多ビル,福岡県,福岡県福岡市博多区博多駅前2丁目20-1 大博多ビル11F,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/28,追手門学院大学,リファレンス大博多ビル,福岡県,福岡県福岡市博多区博多駅前2丁目20-1 大博多ビル11F,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/5,追手門学院大学,リファレンス大博多ビル,福岡県,福岡県福岡市博多区博多駅前2丁目20-1 大博多ビル11F,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/2/6,追手門学院大学,リファレンス大博多ビル,福岡県,福岡県福岡市博多区博多駅前2丁目20-1 大博多ビル11F,一般前期のみ,https://nyushi.otemon.ac.jp/admission/place.html
+2026/1/26,関西医療大学,関西医療大学 本学キャンパス,大阪府,大阪府泉南郡熊取町若葉2-11-1,一般選抜 前期A/B・後期,https://www.kansai.ac.jp/info/access/
+2026/1/27,関西医療大学,関西医療大学 本学キャンパス,大阪府,大阪府泉南郡熊取町若葉2-11-1,一般選抜 前期A/B・後期,https://www.kansai.ac.jp/info/access/
+2026/3/1,関西医療大学,関西医療大学 本学キャンパス,大阪府,大阪府泉南郡熊取町若葉2-11-1,一般選抜 前期A/B・後期,https://www.kansai.ac.jp/info/access/
+2026/1/26,関西医療大学,名古屋会場,愛知県,"",一般選抜 前期A日程のみ,https://www.kansai.ac.jp/start/admission/category/general/
+2026/1/26,関西医療大学,岡山会場,岡山県,"",一般選抜 前期A日程のみ,https://www.kansai.ac.jp/start/admission/category/general/
+2026/1/26,関西医療大学,広島会場,広島県,"",一般選抜 前期A日程のみ,https://www.kansai.ac.jp/start/admission/category/general/
+2025/10/12,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2025/11/15,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2025/11/16,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2025/11/23,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2025/12/20,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2026/1/26,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2026/1/27,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2026/1/28,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2026/3/8,関西外国語大学,ひらかた中宮キャンパス,大阪府,大阪府枚方市中宮東之町16-1,総合型・推薦・一般・後期,https://envision.kansaigaidai.ac.jp/news/20251021/
+2025/11/15,関西外国語大学,ビジョンセンター浜松町,東京都,東京都港区浜松町2-8-14 浜松町TSビル,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/16,関西外国語大学,ビジョンセンター浜松町,東京都,東京都港区浜松町2-8-14 浜松町TSビル,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/26,関西外国語大学,ビジョンセンター浜松町,東京都,東京都港区浜松町2-8-14 浜松町TSビル,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/27,関西外国語大学,ビジョンセンター浜松町,東京都,東京都港区浜松町2-8-14 浜松町TSビル,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/28,関西外国語大学,ビジョンセンター浜松町,東京都,東京都港区浜松町2-8-14 浜松町TSビル,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/15,関西外国語大学,金沢医療技術専門学校,石川県,石川県金沢市堀川新町7-1,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/16,関西外国語大学,金沢医療技術専門学校,石川県,石川県金沢市堀川新町7-1,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/26,関西外国語大学,金沢医療技術専門学校,石川県,石川県金沢市堀川新町7-1,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/27,関西外国語大学,金沢医療技術専門学校,石川県,石川県金沢市堀川新町7-1,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/28,関西外国語大学,金沢医療技術専門学校,石川県,石川県金沢市堀川新町7-1,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/15,関西外国語大学,imy会議室,愛知県,愛知県名古屋市東区葵3-7-14,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/16,関西外国語大学,imy会議室,愛知県,愛知県名古屋市東区葵3-7-14,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/26,関西外国語大学,imy会議室,愛知県,愛知県名古屋市東区葵3-7-14,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/27,関西外国語大学,imy会議室,愛知県,愛知県名古屋市東区葵3-7-14,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/28,関西外国語大学,imy会議室,愛知県,愛知県名古屋市東区葵3-7-14,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/15,関西外国語大学,広島 YMCA 国際文化センター,広島県,広島県広島市中区八丁堀7-11,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/16,関西外国語大学,広島 YMCA 国際文化センター,広島県,広島県広島市中区八丁堀7-11,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/26,関西外国語大学,広島 YMCA 国際文化センター,広島県,広島県広島市中区八丁堀7-11,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/27,関西外国語大学,広島 YMCA 国際文化センター,広島県,広島県広島市中区八丁堀7-11,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/28,関西外国語大学,広島 YMCA 国際文化センター,広島県,広島県広島市中区八丁堀7-11,"公募推薦前期,前期S/A/B/共テプラ",https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/15,関西外国語大学,TKPカンファレンスシティ博多,福岡県,福岡県福岡市博多区博多駅前3-19-5 博多石川ビル1階,公募推薦前期のみ,https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/11/16,関西外国語大学,TKPカンファレンスシティ博多,福岡県,福岡県福岡市博多区博多駅前3-19-5 博多石川ビル1階,公募推薦前期のみ,https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/26,関西外国語大学,九州ビル,福岡県,福岡県福岡市博多区博多駅南1丁目8-31,前期S/A/B/共テプラ,https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/27,関西外国語大学,九州ビル,福岡県,福岡県福岡市博多区博多駅南1丁目8-31,前期S/A/B/共テプラ,https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2026/1/28,関西外国語大学,九州ビル,福岡県,福岡県福岡市博多区博多駅南1丁目8-31,前期S/A/B/共テプラ,https://envision.kansaigaidai.ac.jp/exam/external-examination/
+2025/9/20,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/
+2025/9/21,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/
+2025/10/19,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/
+2025/11/16,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/
+2025/12/14,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/
+2026/1/25,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/
+2026/2/19,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/
+2026/3/11,ＳＢＣ東京医療大学,SBC東京医療大学 本館棟,千葉県,千葉県浦安市明海5丁目8-1,全区分共通。一般A/B/C・総合型I〜III等,https://www.sbctmu.ac.jp/admissions/overview/

@@ -1,0 +1,137 @@
+[
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "岡山商科大学",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区津島京町2-10-1",
+    "dates": "2025/10/18,2025/11/15,2025/11/16,2025/12/13,2026/2/7,2026/2/8,2026/2/13,2026/2/19,2026/3/13",
+    "remarks": "一般前期AB/中期/後期・総合型・推薦",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "姫路キヤッスルグランヴィリオホテル",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市三左衛門堀西の町210",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8",
+    "remarks": "一般前期AB・一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "白兎会館",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県鳥取市末広温泉町556",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8",
+    "remarks": "一般前期AB・一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "ろうかん（労働会館）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市御手船場町557-7",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "松江テルサ",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市朝日町478-18",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-recruitment/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "RCC文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区橋本町5-11",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8",
+    "remarks": "一般前期AB・一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "リッチモンドホテル福山駅前",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市東桜町1-1",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8",
+    "remarks": "一般前期AB・一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "山口グランドホテル",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡黄金町1-1",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8",
+    "remarks": "一般前期AB・一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "あわぎんホール",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市藍場町2-14",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "ホテル千秋閣",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市幸町3-55",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-recruitment/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "高松商工会議所",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市番町2-2-2",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8",
+    "remarks": "一般前期AB・一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "TKP松山市駅前カンファレンスセンター",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市千舟町4-3-7",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "えひめ共済会館",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市三番町5-13-1",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-recruitment/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "高知会館",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市本町5-6-42",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8",
+    "remarks": "一般前期AB・一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-admission/"
+  },
+  {
+    "univ_name": "岡山商科大学",
+    "test_venue_name": "沖縄船員会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市前島3-25-50",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "一般公募前期AB",
+    "source_url": "https://www.osu.ac.jp/admissions/entrance-exam/exam/general-recruitment/"
+  }
+]

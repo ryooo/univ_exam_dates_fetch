@@ -1,0 +1,11 @@
+[
+  {
+    "univ_name": "羽衣国際大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府堺市西区浜寺南町1-89-1",
+    "dates": "2025/10/18,2025/10/25",
+    "remarks": "本学で実施（総合型・留学生・編入等）",
+    "source_url": "https://www.hagoromo.ac.jp/access"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "univ_name": "関西看護医療大学",
+    "test_venue_name": "関西看護医療大学",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県淡路市志筑1456番地4",
+    "dates": "2025/9/20,2025/10/11,2025/11/8,2025/11/15,2025/12/6,2026/1/31,2026/3/10",
+    "remarks": "AO・指定校・公募・一般",
+    "source_url": "https://www.kki.ac.jp/wp-content/themes/understrap-child-master/images/admission/document_admissions_selection_2026.pdf"
+  },
+  {
+    "univ_name": "関西看護医療大学",
+    "test_venue_name": "スペースアルファ三宮",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区三宮町1丁目9-1 三宮センタープラザ6階",
+    "dates": "2025/11/8,2025/12/6,2026/1/31",
+    "remarks": "公募(基礎学力重視)・一般前期",
+    "source_url": "https://www.kki.ac.jp/wp-content/themes/understrap-child-master/images/admission/document_admissions_selection_2026.pdf"
+  }
+]

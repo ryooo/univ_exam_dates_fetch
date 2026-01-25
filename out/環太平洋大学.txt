@@ -1,0 +1,74 @@
+[
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "IPU・環太平洋大学 第1キャンパス",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市東区瀬戸町観音寺721",
+    "dates": "2025/9/27,2025/9/28,2025/10/18,2025/11/15,2026/2/4",
+    "remarks": "全入試・全日程（CBT除く）",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  },
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "神戸駅前研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区中町通2-3-1",
+    "dates": "2025/9/27,2025/9/28,2025/10/18,2025/11/15",
+    "remarks": "AO・基礎学力・推薦ほか",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  },
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "広島YMCA国際文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2025/9/27,2025/9/28,2025/10/18,2025/11/15",
+    "remarks": "AO・基礎学力・推薦ほか",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  },
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "博多バスターミナル 9F",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街2-1 9F",
+    "dates": "2025/9/27,2025/9/28,2025/10/18,2025/11/15,2026/2/4",
+    "remarks": "一般A-2(紙)実施あり",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  },
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "沖縄県青年会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市久米2丁目15-23",
+    "dates": "2025/9/27,2025/9/28,2025/11/15",
+    "remarks": "AO・推薦・地域特別",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  },
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "クラーク記念国際高等学校 札幌白石キャンパス",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市白石区平和通2丁目北11-18 1F",
+    "dates": "2025/9/27,2025/9/28",
+    "remarks": "AO・特別入試",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  },
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "IPU・環太平洋大学 東京キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県市川市二俣625-1",
+    "dates": "2025/9/27,2025/9/28,2025/11/15,2026/2/4",
+    "remarks": "一般A-2(紙)実施あり",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  },
+  {
+    "univ_name": "環太平洋大学",
+    "test_venue_name": "専修学校クラーク高等学院名古屋校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅3丁目11-20",
+    "dates": "2025/9/27,2025/9/28,2025/11/15",
+    "remarks": "AO・推薦ほか",
+    "source_url": "https://ipu-japan.ac.jp/exam/admissions/"
+  }
+]
