@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "金城学院大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市守山区大森二丁目1723番地",
+    "dates": "2025/11/22,2025/12/6,2026/1/31,2026/2/2,2026/2/3,2026/3/4",
+    "remarks": "一般選抜前期・後期、推薦ほか",
+    "source_url": "https://www.kinjo-u.ac.jp/ja/about/access/traffic-guide/",
+    "requirements_url": "https://www.kinjo-u.ac.jp/ja/admissions/sys/upload/save/14778454626895649f0f823.pdf"
+  },
+  {
+    "univ_name": "金城学院大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/3",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kinjo-u.ac.jp/ja/admissions/entrance/system/general_first/",
+    "requirements_url": "https://www.kinjo-u.ac.jp/ja/admissions/sys/upload/save/14778454626895649f0f823.pdf"
+  },
+  {
+    "univ_name": "金城学院大学",
+    "test_venue_name": "岐阜会場",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2026/1/31,2026/2/3",
+    "remarks": "推薦と一般選抜前期",
+    "source_url": "https://www.kinjo-u.ac.jp/ja/admissions/entrance/system/general_first/",
+    "requirements_url": "https://www.kinjo-u.ac.jp/ja/admissions/sys/upload/save/14778454626895649f0f823.pdf"
+  },
+  {
+    "univ_name": "金城学院大学",
+    "test_venue_name": "四日市会場",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2026/1/31,2026/2/3",
+    "remarks": "推薦と一般選抜前期",
+    "source_url": "https://www.kinjo-u.ac.jp/ja/admissions/entrance/system/general_first/",
+    "requirements_url": "https://www.kinjo-u.ac.jp/ja/admissions/sys/upload/save/14778454626895649f0f823.pdf"
+  },
+  {
+    "univ_name": "金城学院大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kinjo-u.ac.jp/ja/admissions/entrance/system/general_first/",
+    "requirements_url": "https://www.kinjo-u.ac.jp/ja/admissions/sys/upload/save/14778454626895649f0f823.pdf"
+  },
+  {
+    "univ_name": "金城学院大学",
+    "test_venue_name": "豊橋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2025/11/22",
+    "remarks": "推薦（適性検査型）",
+    "source_url": "https://www.kinjo-u.ac.jp/ja/admissions/entrance/system/recommend_aptitude/",
+    "requirements_url": "https://www.kinjo-u.ac.jp/ja/admissions/sys/upload/save/14778454626895649f0f823.pdf"
+  }
+]

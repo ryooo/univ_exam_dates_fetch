@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "京都芸術大学",
+    "test_venue_name": "京都芸術大学〈京都 瓜生山キャンパス〉",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市左京区北白川瓜生山2-116",
+    "dates": "2025/11/20,2025/11/21,2026/1/17,2026/1/18,2026/1/29",
+    "remarks": "一般・総合3期・帰国生/編入・共通テスト",
+    "source_url": "https://www.kyoto-art.ac.jp/admission/map/kyoto.php",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都芸術大学",
+    "test_venue_name": "京都芸術大学外苑キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区北青山1-7-15",
+    "dates": "2025/11/21,2026/1/29",
+    "remarks": "一般・総合3期",
+    "source_url": "https://www.kyoto-art.ac.jp/admission/map/tokyo.php",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都芸術大学",
+    "test_venue_name": "愛知県産業労働センター ウインクあいち",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市中村区名駅4丁目4-38",
+    "dates": "2025/11/21,2026/1/29",
+    "remarks": "一般・総合3期",
+    "source_url": "https://www.kyoto-art.ac.jp/admission/map/nagoya.php",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都芸術大学",
+    "test_venue_name": "岡山シティホテル桑田町別館",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山市北区桑田町2−21",
+    "dates": "2025/11/21,2026/1/29",
+    "remarks": "一般・総合3期",
+    "source_url": "https://www.kyoto-art.ac.jp/admission/map/okayama.php",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都芸術大学",
+    "test_venue_name": "パピヨン24",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区千代1-17-1",
+    "dates": "2025/11/21,2026/1/29",
+    "remarks": "一般・総合3期",
+    "source_url": "https://www.kyoto-art.ac.jp/admission/map/fukuoka.php",
+    "requirements_url": ""
+  }
+]

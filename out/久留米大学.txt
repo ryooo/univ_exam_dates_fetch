@@ -1,0 +1,202 @@
+[
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "御井キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県久留米市御井町1635",
+    "dates": "2026/2/1",
+    "remarks": "前期一般選抜（医学科・文系）",
+    "source_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/7ed02616-2b1f-4350-8922-dac9828d976b/%E8%A9%A6%E9%A8%93%E5%A0%B4%E6%A1%88%E5%86%852026.2.1-%E6%96%87%E7%B3%BB%E3%83%BB%E5%8C%BB%E5%AD%A6%E7%A7%91.pdf",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "御井キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県久留米市御井町1635",
+    "dates": "2026/2/5",
+    "remarks": "前期一般選抜（看護・医療検査）",
+    "source_url": "https://best.kurume-u.ac.jp/news/65af4cd7a7c80b52a68a0a19/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "御井キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県久留米市御井町1635",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/c1daf9e4-c091-41c8-ac4f-9ac9464fcd7a/%E8%A9%A6%E9%A8%93%E5%A0%B4%E6%A1%88%E5%86%852026.2.9-10.pdf",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "御井キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県久留米市御井町1635",
+    "dates": "2026/3/8",
+    "remarks": "後期一般選抜（医学科）",
+    "source_url": "https://best.kurume-u.ac.jp/news/65e59818012a6b9d4827e6ff/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "御井キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県久留米市御井町1635",
+    "dates": "2026/3/9",
+    "remarks": "後期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/news/65e59818012a6b9d4827e6ff/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "旭町キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県久留米市旭町67",
+    "dates": "2026/3/10",
+    "remarks": "後期一般選抜（医療検査学科）",
+    "source_url": "https://best.kurume-u.ac.jp/news/65e59818012a6b9d4827e6ff/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "前期一般選抜（医学科一次）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "熊本会場",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "前期一般選抜（看護学科）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "大分会場",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "前期一般選抜（看護学科）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "鹿児島会場",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "前期一般選抜（看護学科）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "福岡会場（地方会場）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "佐賀会場",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "長崎会場",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "熊本会場（地方会場）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "大分会場（地方会場）",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "宮崎会場",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "鹿児島会場（地方会場）",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "山口会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "久留米大学",
+    "test_venue_name": "沖縄会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "前期一般選抜（文系学部）",
+    "source_url": "https://best.kurume-u.ac.jp/admissions/type/exam-first/",
+    "requirements_url": "https://storage.googleapis.com/p_638f0121169658622e1dd8f6/607d9f05-7613-46fb-91d0-10a7fc2b8b5b/2026%E5%89%8D%E6%9C%9F_%E5%BE%8C%E6%9C%9F_%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  }
+]

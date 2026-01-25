@@ -1,0 +1,29 @@
+[
+  {
+    "univ_name": "亀田医療大学",
+    "test_venue_name": "本学会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県鴨川市横渚462",
+    "dates": "2025/9/13,2025/11/15,2025/12/13,2026/2/7,2026/2/28,2026/3/14",
+    "remarks": "総合型Ⅰ〜Ⅲ、学校推薦型、一般Ⅰ〜Ⅲ、社会人",
+    "source_url": "https://www.kameda.ac.jp/exam/college/detail/"
+  },
+  {
+    "univ_name": "亀田医療大学",
+    "test_venue_name": "TKP東京駅カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区八重洲1-8-16 新槇町ビル",
+    "dates": "2025/9/13,2026/2/7",
+    "remarks": "総合型Ⅰ期、一般選抜Ⅰ期",
+    "source_url": "https://www.kameda.ac.jp/exam/college/detail/"
+  },
+  {
+    "univ_name": "亀田医療大学",
+    "test_venue_name": "仙台ベルエア会館",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区一番町1-4-8",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kameda.ac.jp/exam/college/detail/"
+  }
+]

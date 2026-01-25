@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県河北郡内灘町大学1丁目1番地",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜前期 一次",
+    "source_url": "https://www.igakubujuken.jp/database/detail/recently/52/2026",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "東京会場（TOCビル本館）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都品川区西五反田7-22-17",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜前期 一次",
+    "source_url": "https://www.kanazawa-med.ac.jp/medicine_exam/summary/attention.html",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "大阪会場（大阪アカデミア）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市住之江区南港北1-3-5",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜前期 一次",
+    "source_url": "https://www.igakubujuken.jp/database/detail/recently/52/2026",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "名古屋会場（TKPガーデンシティPREMIUM名古屋ルーセントタワー）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市西区牛島町6-1 名古屋ルーセントタワー16階",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜前期 一次",
+    "source_url": "https://www.kanazawa-med.ac.jp/medicine_exam/summary/attention.html",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "福岡会場（福岡ガーデンパレス）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区天神4-8-15",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜前期 一次",
+    "source_url": "https://www.igakubujuken.jp/database/detail/recently/52/2026",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県河北郡内灘町大学1丁目1番地",
+    "dates": "2026/2/16,2026/2/17",
+    "remarks": "一般選抜前期 二次",
+    "source_url": "https://www.igakubujuken.jp/database/detail/recently/52/2026",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県河北郡内灘町大学1丁目1番地",
+    "dates": "2026/3/3",
+    "remarks": "一般選抜後期 一次",
+    "source_url": "https://www.igakubujuken.jp/database/detail/recently/52/2026",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "東京会場（東京流通センター）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都大田区平和島6-1-1",
+    "dates": "2026/3/3",
+    "remarks": "一般選抜後期 一次",
+    "source_url": "https://www.mebio.co.jp/univ_list/archives/74",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "大阪会場（天満研修センター）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区錦町2-21",
+    "dates": "2026/3/3",
+    "remarks": "一般選抜後期 一次",
+    "source_url": "https://www.mebio.co.jp/univ_list/archives/74",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  },
+  {
+    "univ_name": "金沢医科大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県河北郡内灘町大学1丁目1番地",
+    "dates": "2026/3/11",
+    "remarks": "一般選抜後期 二次",
+    "source_url": "https://www.igakubujuken.jp/database/detail/recently/52/2026",
+    "requirements_url": "https://www.kanazawa-med.ac.jp/medicine_exam/application/download.html"
+  }
+]

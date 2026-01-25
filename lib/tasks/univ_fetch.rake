@@ -28,7 +28,8 @@ namespace :univ do
     "test_venue_address": "試験会場の住所",
     "dates": "2026/2/1,2026/2/2",
     "remarks": "試験名など、備考があれば40文字以内で簡潔に。",
-    "source_url": "情報ソースのURL"
+    "source_url": "情報ソースのURL",
+    "requirements_url": "要項のURL（情報ソースと別に要項を参照した場合はこちらに出力すること）"
   }
 ]
 
@@ -41,7 +42,7 @@ namespace :univ do
 * サテライト会場の検索を忘れないように気をつけてください。
 
 ## Output Format
-出力はuniv_name, test_venue_name, test_venue_pref, test_venue_address, dates, remarks, source_urlの順のフィールドを持つオブジェクトからなる1つのJSON配列のみとしてください。例:
+出力はuniv_name, test_venue_name, test_venue_pref, test_venue_address, dates, remarks, source_url, requirements_urlの順のフィールドを持つオブジェクトからなる1つのJSON配列のみとしてください。例:
 [
   {
     "univ_name": "○○大学",
@@ -50,7 +51,8 @@ namespace :univ do
     "test_venue_address": "東京都○○区○○1-2-3",
     "dates": "2026/2/1,2026/2/2",
     "remarks": "一般選抜入試Ａ日程Ⅰ期",
-    "source_url": "https://example.ac.jp/nyushi-venue"
+    "source_url": "https://example.ac.jp/nyushi-venue",
+    "requirements_url": "https://example.ac.jp/youkou.pdf"
   },
   {
     "univ_name": "○○大学",
@@ -59,7 +61,8 @@ namespace :univ do
     "test_venue_address": "大阪府○○市○○4-5-6",
     "dates": "2026/2/4",
     "remarks": "前期３科目型",
-    "source_url": "https://example.ac.jp/nyushi-venue"
+    "source_url": "https://example.ac.jp/nyushi-venue",
+    "requirements_url": "https://example.ac.jp/youkou.pdf"
   }
 ]'
 

@@ -52,7 +52,7 @@
     "dates": "2025/11/9",
     "remarks": "教科科目S2・前期A1",
     "source_url": "https://www.kobe-shinwa.ac.jp/admission/system/suisen-kyouka/"
-  }
+  },
   {
     "univ_name": "神戸親和大学",
     "test_venue_name": "高松会場（高松商工会議所）",

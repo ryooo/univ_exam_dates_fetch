@@ -1,0 +1,152 @@
+[
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "九州産業大学",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市東区松香台2-3-1",
+    "dates": "2026/1/24,2026/2/1,2026/2/2,2026/2/3,2026/2/7,2026/2/8,2026/3/8",
+    "remarks": "一般前期/後期・実技前期",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "第一セントラルビル2号館",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区本町6-30",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "広島国際会議場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区中島町1-5",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "リジェール松山（JA愛媛8F）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市南堀端町2-3 JA愛媛8F",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "出島メッセ長崎",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市尾上町4-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "くまもと県民交流館パレア",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区手取本町8-9",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "ソフィアホール（ソフィアプラザビル）",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市東春日町17-20 ソフィアプラザビル",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "MRT micc",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市橘通西4-6-3",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "鹿児島高等予備校",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市高麗町15-10",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "山口県健康づくりセンター",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市吉敷下東3-1-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "海峡メッセ下関",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県下関市豊前田町3-3-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "サンワークゆくはし",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県行橋市今井3613-4",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "九州国際情報ビジネス専門学校",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県佐賀市神野東1-9-32",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（佐世保会場）",
+    "source_url": "https://search.keinet.ne.jp/2701/general/schedule",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  },
+  {
+    "univ_name": "九州産業大学",
+    "test_venue_name": "資格の大原 沖縄校",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泉崎1-13-3",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般前期（共テ併用含む）",
+    "source_url": "https://www.kyusan-u.ac.jp/nyushi/kenbetsu/",
+    "requirements_url": "https://www.kyusan-u.ac.jp/nyushi/internet-ap/"
+  }
+]

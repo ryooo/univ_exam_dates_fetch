@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "京都文教大学",
+    "test_venue_name": "本学会場（京都文教大学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府宇治市槇島町千足80",
+    "dates": "2026/1/24,2026/1/25,2026/1/26,2026/2/15,2026/2/21,2026/3/14",
+    "remarks": "一般入試A・B・C日程",
+    "source_url": "https://www.kbu.ac.jp/kbu/exam/admission_guide/index/asset/2026_kbu-57-58.pdf",
+    "requirements_url": "https://sites.google.com/po.kbu.ac.jp/admission/"
+  },
+  {
+    "univ_name": "京都文教大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/1/24",
+    "remarks": "一般入試A日程（1/24のみ）",
+    "source_url": "https://www.kbu.ac.jp/kbu/lp/general_a/index.html",
+    "requirements_url": "https://sites.google.com/po.kbu.ac.jp/admission/"
+  },
+  {
+    "univ_name": "京都文教大学",
+    "test_venue_name": "福井会場",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "",
+    "dates": "2026/1/24",
+    "remarks": "一般入試A日程（1/24のみ）",
+    "source_url": "https://www.kbu.ac.jp/kbu/lp/general_a/index.html",
+    "requirements_url": "https://sites.google.com/po.kbu.ac.jp/admission/"
+  },
+  {
+    "univ_name": "京都文教大学",
+    "test_venue_name": "近江八幡会場",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "",
+    "dates": "2026/1/24",
+    "remarks": "一般入試A日程（1/24のみ）",
+    "source_url": "https://www.kbu.ac.jp/kbu/lp/general_a/index.html",
+    "requirements_url": "https://sites.google.com/po.kbu.ac.jp/admission/"
+  },
+  {
+    "univ_name": "京都文教大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2026/1/24",
+    "remarks": "一般入試A日程（1/24のみ）",
+    "source_url": "https://www.kbu.ac.jp/kbu/lp/general_a/index.html",
+    "requirements_url": "https://sites.google.com/po.kbu.ac.jp/admission/"
+  },
+  {
+    "univ_name": "京都文教大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/24",
+    "remarks": "一般入試A日程（1/24のみ）",
+    "source_url": "https://www.kbu.ac.jp/kbu/lp/general_a/index.html",
+    "requirements_url": "https://sites.google.com/po.kbu.ac.jp/admission/"
+  }
+]

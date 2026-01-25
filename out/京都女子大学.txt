@@ -1,0 +1,332 @@
+[
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "京都女子大学（本学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市東山区今熊野北日吉町35番地",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "京都女子大学（本学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市東山区今熊野北日吉町35番地",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "京都女子大学（本学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市東山区今熊野北日吉町35番地",
+    "dates": "2026/3/4",
+    "remarks": "一般選抜後期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/ippan_kou/index.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "京都女子大学（本学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市東山区今熊野北日吉町35番地",
+    "dates": "2025/10/11",
+    "remarks": "総合型選抜",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/ao/index.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "京都女子大学（本学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市東山区今熊野北日吉町35番地",
+    "dates": "2025/11/16",
+    "remarks": "帰国生入試",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/kikoku/index.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "ACU-A（アスティ45）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "札幌市中央区北4条西5丁目アスティ45 12階",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "AP市ヶ谷",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区五番町1-10市ヶ谷大郷ビル 5F～8F 受付5F",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "実践女子大学 渋谷キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区東1-1-49",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "秀英予備校静岡本部校1号館",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡市葵区鷹匠2丁目7-1",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "秀英予備校静岡本部校1号館",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡市葵区鷹匠2丁目7-1",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "金沢医療技術専門学校",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "金沢市堀川新町7-1",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "金沢医療技術専門学校",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "金沢市堀川新町7-1",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "TKP名古屋駅前カンファレンスセンター",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市中村区名駅2-41-5 CK20名駅前ビル",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM名古屋新幹線口",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区椿町1-16 井門名古屋ビル",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/ippan_zen/grd7hl0000004wns-att/n0oio70000004h6p.pdf"
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "コングレスクエア グラングリーン大阪",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市北区大深町5番54号 グラングリーン大阪南館4階",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "コングレスクエア グラングリーン大阪",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市北区大深町5番54号 グラングリーン大阪南館4階",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "難波御堂筋ホール",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市中央区難波4丁目2-1",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "難波御堂筋ホール",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市中央区難波4丁目2-1",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "奈良県社会福祉総合センター",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県橿原市大久保町320番−11",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "奈良県社会福祉総合センター",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県橿原市大久保町320番−11",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "和歌山県民文化会館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山市小松原通り一丁目1番地",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "和歌山県民文化会館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山市小松原通り一丁目1番地",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "神戸ポートオアシス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "神戸市中央区新港町5番2号",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "神戸ポートオアシス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "神戸市中央区新港町5番2号",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "TKPガーデンシティ岡山",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山市北区中山下1丁目8-45 NTTクレド岡山ビル4階",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "岡山コンベンションセンター",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山市北区駅元町14-1",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "JAビル",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島市中区大手町4-7-3",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "JAビル",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島市中区大手町4-7-3",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "高松センタービル",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "高松センタービル",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "リジェール松山",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "松山市南堀端町2-3",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "福岡県中小企業振興センタービル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区吉塚本町9-15",
+    "dates": "2025/11/16,2025/11/17",
+    "remarks": "公募推薦",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "京都女子大学",
+    "test_venue_name": "福岡県中小企業振興センタービル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区吉塚本町9-15",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.kyoto-wu.ac.jp/nyushi/daigaku/kaijyo.html",
+    "requirements_url": ""
+  }
+]

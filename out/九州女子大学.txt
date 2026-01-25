@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市八幡西区自由ケ丘1-1",
+    "dates": "2026/2/4,2026/3/3,2026/3/13",
+    "remarks": "一般選抜Ⅰ・Ⅱ・Ⅲ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "福岡（天神）会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://telemail.jp/shingaku/university/10001955/examination/general",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "長崎会場",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "熊本会場",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "大分会場",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "宮崎会場",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "鹿児島会場",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "沖縄会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "山口会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  },
+  {
+    "univ_name": "九州女子大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kwuc.ac.jp/examination/schedule/",
+    "requirements_url": "https://www.d-pam.com/kwuc/2515425/index.html?tm=1"
+  }
+]

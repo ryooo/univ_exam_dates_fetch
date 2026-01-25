@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "京都薬科大学",
+    "test_venue_name": "京都薬科大学キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市山科区御陵中内町5",
+    "dates": "2025/11/10,2025/11/15,2026/2/3,2026/2/20",
+    "remarks": "指定校・公募推薦・一般前期・一般後期",
+    "source_url": "https://www.kyoto-phu.ac.jp/exam_information/events/",
+    "requirements_url": "https://www.kyoto-phu.ac.jp/Portals/0/resources/exam_information/web/pdf/youkou2026.pdf"
+  },
+  {
+    "univ_name": "京都薬科大学",
+    "test_venue_name": "大阪国際交流センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市天王寺区上本町8-2-6",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜前期（3教科型）",
+    "source_url": "https://www.kyoto-phu.ac.jp/exam_information/entryinfo/examination_03/",
+    "requirements_url": "https://www.kyoto-phu.ac.jp/Portals/0/resources/exam_information/web/pdf/youkou2026.pdf"
+  },
+  {
+    "univ_name": "京都薬科大学",
+    "test_venue_name": "ホテルマイステイズ新大阪コンファレンスセンター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市淀川区西中島6-2-19",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜前期（3教科型）",
+    "source_url": "https://www.kyoto-phu.ac.jp/exam_information/entryinfo/examination_03/",
+    "requirements_url": "https://www.kyoto-phu.ac.jp/Portals/0/resources/exam_information/web/pdf/youkou2026.pdf"
+  },
+  {
+    "univ_name": "京都薬科大学",
+    "test_venue_name": "TKP名古屋駅前カンファレンスセンター",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅2-41-5 CK20名駅前ビル 5～6階・8階",
+    "dates": "2026/2/20",
+    "remarks": "一般選抜後期（2教科型）",
+    "source_url": "https://www.kyoto-phu.ac.jp/exam_information/entryinfo/examination_05/",
+    "requirements_url": "https://www.kyoto-phu.ac.jp/Portals/0/resources/exam_information/web/pdf/youkou2026.pdf"
+  }
+]

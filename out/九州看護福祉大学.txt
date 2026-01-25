@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "福岡中小企業振興センター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区吉塚本町9-15",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "出島メッセ長崎",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市尾上町4-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "アートホテル宮崎スカイタワー",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市高千穂通2-1-26",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "沖縄船員会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市前島3-25-50",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "佐賀県教育会館",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県佐賀市高木瀬町東高木227-1",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期B日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "KKRホテル熊本",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区千葉城町3-31",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期B日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "ソレイユ大分県労働福祉会館",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市中央町4丁目2番5号",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期B日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "ホテルリブマックスBUDGET鹿児島",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市小川町15-1",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期B日程",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  },
+  {
+    "univ_name": "九州看護福祉大学",
+    "test_venue_name": "九州看護福祉大学（本学会場）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県玉名市富尾888番地",
+    "dates": "2026/2/3,2026/3/8",
+    "remarks": "一般選抜 前期本学・後期",
+    "source_url": "https://www.kyushu-ns.ac.jp/admissions/summary/general/",
+    "requirements_url": "https://www.kyushu-ns.ac.jp/wp-content/uploads/2026/01/ca57cb56f331279044aaf556c8dfb9fd.pdf"
+  }
+]

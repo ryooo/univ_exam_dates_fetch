@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "九州栄養福祉大学",
+    "test_venue_name": "小倉北区キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉北区下到津5丁目1-1",
+    "dates": "2025/10/4,2025/11/22,2025/12/20,2026/2/1,2026/3/11,2026/3/21",
+    "remarks": "全入試（共テ利用除く）",
+    "source_url": "https://www.knwu.ac.jp/admission/place.html",
+    "requirements_url": "https://www.knwu.ac.jp/admission/schedule.html"
+  },
+  {
+    "univ_name": "九州栄養福祉大学",
+    "test_venue_name": "福岡ガーデンパレス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区天神4-8-15",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.knwu.ac.jp/admission/place.html",
+    "requirements_url": "https://www.knwu.ac.jp/admission/schedule.html"
+  },
+  {
+    "univ_name": "九州栄養福祉大学",
+    "test_venue_name": "大分センチュリーホテル",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市府内町1-4-28",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.knwu.ac.jp/admission/place.html",
+    "requirements_url": "https://www.knwu.ac.jp/admission/schedule.html"
+  },
+  {
+    "univ_name": "九州栄養福祉大学",
+    "test_venue_name": "ホテル メリージュ",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市橘通東3-1-11",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.knwu.ac.jp/admission/place.html",
+    "requirements_url": "https://www.knwu.ac.jp/admission/schedule.html"
+  },
+  {
+    "univ_name": "九州栄養福祉大学",
+    "test_venue_name": "ホテルリブマックス鹿児島",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市小川町15-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.knwu.ac.jp/admission/place.html",
+    "requirements_url": "https://www.knwu.ac.jp/admission/schedule.html"
+  }
+]

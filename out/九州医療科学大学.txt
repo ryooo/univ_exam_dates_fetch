@@ -1,0 +1,232 @@
+[
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "TKP品川カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区高輪3丁目25番23号 京急第2ビル",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "新大阪丸ビル新館会議室",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市東淀川区東中島1-8-27",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14",
+    "remarks": "総特待・推A/B・一般前/中",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "姫路キヤッスルグランヴィリオホテル",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市三左衛門堀西の町210番地",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "吉備国際大学 南あわじ志知キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県南あわじ市志知佐礼尾370-1",
+    "dates": "2025/12/13,2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "総特待・推B・一般前期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "松江テルサ",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市朝日町478-18",
+    "dates": "2025/11/15,2025/12/13",
+    "remarks": "総特待・推A/B",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "サンラポーむらくも",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市殿町369",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/14",
+    "remarks": "一般選抜前/中",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "順正学園 岡山駅前キャンパス",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区岩田町2-5",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14",
+    "remarks": "総特待・推A/B・一般前/中",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "TKP広島本通駅前 カンファレンスセンター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区紙屋町2丁目2-12 信和広島ビル",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14",
+    "remarks": "総特待・推A/B・一般前/中",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "TKP高松カンファレンスセンター",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市浜ノ町1-20 TAKAMATSU ORNE 南館3階",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14",
+    "remarks": "総特待・推A/B・一般前/中",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "えぴたホール愛媛（愛媛県PTA会館）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市歩行町1丁目7-4",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "TKP小倉駅前 カンファレンスセンター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉北区浅野2-14-2 小倉興産16号館8・9階",
+    "dates": "2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14",
+    "remarks": "総特待・推B・一般前/中",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "エイムアテイン 博多駅前貸会議室",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-25-24 八百治ビル5・6階",
+    "dates": "2025/10/25,2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14,2026/3/14",
+    "remarks": "総I期・総特待・推A/B・一般前中後",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "ホテル熊本テルサ",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区水前寺公園28-51",
+    "dates": "2025/10/25",
+    "remarks": "総合選抜Ⅰ期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "TKP熊本カンファレンスセンター",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区花畑町4-7 朝日第一生命ビル9階",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/3/14",
+    "remarks": "総特待・推A/B・一般前/後",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "ソレイユ（大分県労働福祉会館）",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市中央町4丁目2-5",
+    "dates": "2025/10/26",
+    "remarks": "総合選抜Ⅰ期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "アートホテル大分",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市都町2丁目1-7",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14,2026/3/14",
+    "remarks": "総特待・推A/B・一般前中後",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "九州医療科学大学専門学校",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市瀬頭2-1-10",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14,2026/3/14",
+    "remarks": "指定校・総特待・推A/B・一般前中後",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "都城ロイヤルホテル",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県都城市北原町1106-48",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "TKPガーデンシティ鹿児島中央",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市中央町26-1 南国アネックス2・3階",
+    "dates": "2025/11/15,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14,2026/3/14",
+    "remarks": "総特待・推A/B・一般前中後",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "JR九州ホテル鹿児島",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市武1丁目1-2",
+    "dates": "2025/10/25",
+    "remarks": "総合選抜Ⅰ期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "鹿屋商工会議所",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿屋市新川町600",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/cms/wp-content/uploads/2025/09/2026%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "みんなの貸会議室 那覇泉崎店",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泉崎1-13-3 資格の大原沖縄校ビル内",
+    "dates": "2025/10/25,2025/12/13,2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "総I期・総特待・推B・一般前期",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  },
+  {
+    "univ_name": "九州医療科学大学",
+    "test_venue_name": "九州医療科学大学（本学）",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県延岡市吉野町1714-1",
+    "dates": "2025/10/26,2025/11/15,2025/11/22,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/14,2026/3/14",
+    "remarks": "総I〜III期・スポ特・推A/B・一般前中後",
+    "source_url": "https://www.phoenix.ac.jp/entrance/test_center",
+    "requirements_url": "https://www.phoenix.ac.jp/entrance/schedule"
+  }
+]

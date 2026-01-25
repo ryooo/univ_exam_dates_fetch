@@ -57,7 +57,8 @@ namespace :univ do
           'test_venue_pref' => record['test_venue_pref'],
           'test_venue_address' => record['test_venue_address'],
           'remarks' => record['remarks'],
-          'source_url' => record['source_url']
+          'source_url' => record['source_url'],
+          'requirements_url' => record['requirements_url']
         }
       else
         # カンマで分割して各日付ごとに行を作成
@@ -71,7 +72,8 @@ namespace :univ do
             'test_venue_pref' => record['test_venue_pref'],
             'test_venue_address' => record['test_venue_address'],
             'remarks' => record['remarks'],
-            'source_url' => record['source_url']
+            'source_url' => record['source_url'],
+            'requirements_url' => record['requirements_url']
           }
         end
       end
@@ -93,7 +95,8 @@ namespace :univ do
           record['test_venue_pref'],
           record['test_venue_address'],
           record['remarks'],
-          record['source_url']
+          record['source_url'],
+          record['requirements_url']
         ]
       end
     end

@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "京都医療科学大学",
+    "test_venue_name": "本学(園部)会場（京都医療科学大学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府南丹市園部町小山東町今北1番3",
+    "dates": "2025/9/27,2025/10/25,2025/11/29",
+    "remarks": "総合型Ⅰ・Ⅱ/学校推薦/社会人入試",
+    "source_url": "https://www.kyoto-msc.jp/examination/map/",
+    "requirements_url": "https://www.kyoto-msc.jp/wp-content/uploads/2025/07/2026yoko.pdf"
+  },
+  {
+    "univ_name": "京都医療科学大学",
+    "test_venue_name": "京都(京都市内)会場（㈱島津製作所 本社）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市中京区西ノ京桑原町1",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.kyoto-msc.jp/examination/map/",
+    "requirements_url": "https://www.kyoto-msc.jp/wp-content/uploads/2025/07/2026yoko.pdf"
+  },
+  {
+    "univ_name": "京都医療科学大学",
+    "test_venue_name": "東京会場（㈱島津製作所 東京支社）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田錦町1-3",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.kyoto-msc.jp/examination/map/",
+    "requirements_url": "https://www.kyoto-msc.jp/wp-content/uploads/2025/07/2026yoko.pdf"
+  },
+  {
+    "univ_name": "京都医療科学大学",
+    "test_venue_name": "名古屋会場（名古屋国際センタービル）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市中村区那古野一丁目47番1号",
+    "dates": "2025/11/29,2026/2/7",
+    "remarks": "学校推薦19F/一般前期5F",
+    "source_url": "https://www.kyoto-msc.jp/examination/map/",
+    "requirements_url": "https://www.kyoto-msc.jp/wp-content/uploads/2025/07/2026yoko.pdf"
+  },
+  {
+    "univ_name": "京都医療科学大学",
+    "test_venue_name": "大阪会場（㈱島津製作所 関西支社）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市北区梅田一丁目13番1号 大阪梅田ツインタワーズ・サウス24階",
+    "dates": "2025/11/29,2026/2/7",
+    "remarks": "一般選抜（前期）/学校推薦",
+    "source_url": "https://www.kyoto-msc.jp/examination/map/",
+    "requirements_url": "https://www.kyoto-msc.jp/wp-content/uploads/2025/07/2026yoko.pdf"
+  },
+  {
+    "univ_name": "京都医療科学大学",
+    "test_venue_name": "福岡会場（㈱島津製作所 九州支店）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区冷泉町4番20号 島津博多ビル3階",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.kyoto-msc.jp/examination/map/",
+    "requirements_url": "https://www.kyoto-msc.jp/wp-content/uploads/2025/07/2026yoko.pdf"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "本学会場（金沢学院大学キャンパス）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市末町10",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 本学会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/info/2026suisen/",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  },
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "東京試験会場（TKP神田ビジネスセンター）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田美土代町3-2 神田アベビル",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 学外会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/11/kaijyo.suisen.pdf",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  },
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "名古屋試験会場（TKP名古屋伏見ビジネスセンター）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中区錦2-8-26 宮井名古屋ビル",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 学外会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/11/kaijyo.suisen.pdf",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  },
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "大阪試験会場（TKPガーデンシティ大阪梅田）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島5-4-21",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 学外会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/11/kaijyo.suisen.pdf",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  },
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "富山試験会場（ボルファートとやま）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市奥田新町8-1",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 学外会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/11/kaijyo.suisen.pdf",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  },
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "新潟試験会場（代々木ゼミナール新潟校）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 学外会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/11/kaijyo.suisen.pdf",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  },
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "福井試験会場（大原ビジネス公務員専門学校福井校）",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市大手2-9-1",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 学外会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/11/kaijyo.suisen.pdf",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  },
+  {
+    "univ_name": "金沢学院大学",
+    "test_venue_name": "長野試験会場（JA長野県ビル）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市南長野北石堂町1177-3",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "学校推薦型選抜Ⅰ期 学外会場",
+    "source_url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/11/kaijyo.suisen.pdf",
+    "requirements_url": "https://www.kanazawa-gu.ac.jp/admissions/document-request/"
+  }
+]

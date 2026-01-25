@@ -1,0 +1,162 @@
+[
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都町田市玉川学園6-1-1",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "全学統一/地域創生/給付型/実技本学",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/pdf/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "水戸会場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "高崎会場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "大宮会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "千葉会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "池袋会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "立川会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "横浜会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  },
+  {
+    "univ_name": "玉川大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "全学統一等（2/2-2/3のみ）",
+    "source_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_center/same.html",
+    "requirements_url": "https://www.tamagawa.jp/uni_admission/examination/ippan_2026.pdf"
+  }
+]

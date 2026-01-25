@@ -1,0 +1,122 @@
+[
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "久留米工業大学（本学）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県久留米市上津町2228-66",
+    "dates": "2025/11/22,2025/12/5,2026/2/3,2026/2/13,2026/2/24",
+    "remarks": "前期一般・推薦前期・留学生・社会人",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "リファレンス駅東ビル7F",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東1-16-14 リファレンス駅東ビル7F",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "毎日西部会館",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉北区紺屋町13-1",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "進学塾ブレスト 山内本部校",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県武雄市山内町三間坂13314",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜（会場未定）",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "大分県労働福祉会館（ソレイユ）",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市中央町4-2-5（ソレイユ）",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "熊本県民交流館パレア（テトリア熊本ビル9階）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区手取本町8-9 テトリア熊本ビル9階",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "エアラインホテル",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市橘通西3丁目10-19",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "サンプラザ天文館",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市東千石町2-30 3階",
+    "dates": "2026/2/3",
+    "remarks": "前期一般選抜",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "沖縄産業支援センター",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市字小禄1831-1",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "前期一般・推薦前期",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "MRTmic",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市橘通西4丁目6-3",
+    "dates": "2025/11/22",
+    "remarks": "学校推薦型選抜（前期）",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "久留米工業大学",
+    "test_venue_name": "鹿児島商工会議所ビル（アイムビル）4階アイムホーム",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市東千石町1-38 アイムビル4階",
+    "dates": "2025/11/22",
+    "remarks": "学校推薦型選抜（前期）",
+    "source_url": "https://www.kurume-it.ac.jp/nyushi/shiken.html",
+    "requirements_url": "https://www.kurume-it.ac.jp/nyushi/pdf/yoko_2026.pdf"
+  }
+]

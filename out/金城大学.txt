@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "本学会場（笠間キャンパス）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県白山市笠間町1200番地",
+    "dates": "2025/11/15,2025/11/16,2026/2/1,2026/2/2,2026/2/3,2026/3/1",
+    "remarks": "総合型・推薦・一般（後期含む）",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  },
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "富山会場（富山県民会館）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4番18号",
+    "dates": "2025/11/16,2026/2/1,2026/2/2",
+    "remarks": "推薦(11/16)・一般(2/1,2/2)",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  },
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "高岡会場（高岡市生涯学習センター）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県高岡市末広町1-7 ウイング・ウイング高岡内",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜のみ（2/3）",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  },
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "福井会場（フェニックス・プラザ）",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市田原1丁目13-6",
+    "dates": "2025/11/16,2026/2/3",
+    "remarks": "推薦(11/16)・一般(2/3)",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  },
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "長野会場（長野県教育会館）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市旭町1098",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜のみ（2/1）",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  },
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "上越会場（上越商工会議所）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県上越市新光町1丁目10-20",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜のみ（2/2）",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  },
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "沖縄会場（沖縄県青年会館）",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市久米2丁目15-23",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜のみ（2/1）",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  },
+  {
+    "univ_name": "金城大学",
+    "test_venue_name": "沖縄会場（KEEP FRONT）",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泊2丁目1-18 T&C泊ビル4・5F",
+    "dates": "2025/10/12,2025/11/16,2025/12/14",
+    "remarks": "総合型・推薦の会場",
+    "source_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/admissions/04.pdf",
+    "requirements_url": "https://www.kinjo.ac.jp/ku/admissions/pdf/nyushi_requirements.pdf"
+  }
+]

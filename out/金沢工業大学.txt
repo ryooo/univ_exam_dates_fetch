@@ -1,0 +1,312 @@
+[
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "金沢工業大学",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県野々市市扇が丘7-1",
+    "dates": "2025/10/5,2025/11/23,2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般A・B/総合・自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "TKP札幌カンファレンスセンター北3条",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北3条西3-1-6 札幌小暮ビル7階",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "いわて県民情報交流センター キオクシア アイーナ",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅西通1丁目7番1号",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "東北福祉大学 仙台駅東口キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡2-5-26",
+    "dates": "2025/10/5,2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般A・B/総合選抜",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "食糧会館",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市旅篭町3-1-4",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "大原スポーツ医療保育専門学校高崎校（大原学園高崎校）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市下和田町5-3-16",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "JA共済埼玉ビルディング株式会社",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区土手町1-2",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "駿台予備学校お茶の水校1号館",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田駿河台2-12",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般試験A・B",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "新潟テルサ",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区鐘木185-18",
+    "dates": "2026/1/30,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "新潟公務員専門学校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天2-4-21",
+    "dates": "2025/11/23,2026/1/31,2026/2/1",
+    "remarks": "一般A/自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "代々木ゼミナール 新潟校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2025/10/5,2026/2/18",
+    "remarks": "一般B/総合選抜",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "富山県民会館",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4-18",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "福井商工会議所ビル",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市西木田2-8-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "信学会 長野予備学校",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市北石堂町1022",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般試験A・B",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "学校法人第三静岡学園 静岡学園なごみ高等学校",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区八幡1-1-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般試験A・B",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "秀英予備校名古屋校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3-23-12",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般試験A・B",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "三重電気会館",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市垂水字焼尾2612-93",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "京都JAビル",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市南区東九条西山王町1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "新梅田研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島6-22-20",
+    "dates": "2025/10/5,2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般A・B/総合選抜",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "BIZ SPACE 姫路",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市本町127番地 大手前ダイネンBLD.II",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "岡山進研学院",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2-10-27",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般試験A・B",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "RCC文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区橋本町5-11",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "高松センタービル",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "公務員ビジネス専門学校",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-29-8",
+    "dates": "2025/10/5,2025/11/23,2026/1/30,2026/1/31,2026/2/1,2026/2/2,2026/2/18",
+    "remarks": "一般A・B/総合・自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "那覇尚学院（別館）",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泊2-16-3",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般試験A",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "仙台青葉学院短期大学 中央キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区中央4丁目5-2 学校法人北杜学園中央校舎3号館",
+    "dates": "2025/11/23",
+    "remarks": "自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "AP 日本橋",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区日本橋3-6-2 日本橋フロント6F",
+    "dates": "2025/10/5,2025/11/23",
+    "remarks": "総合選抜・自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "大原学園長野校",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市栗田2288",
+    "dates": "2025/10/5,2025/11/23",
+    "remarks": "総合選抜・自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "プライムセントラルタワー名古屋駅前店",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市西区名駅2-27-8 名古屋プライムセントラルタワー13階",
+    "dates": "2025/10/5,2025/11/23",
+    "remarks": "総合選抜・自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM大阪駅前",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区曽根崎新地2-3-21 AXビル4階",
+    "dates": "2025/11/23",
+    "remarks": "自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  },
+  {
+    "univ_name": "金沢工業大学",
+    "test_venue_name": "岡山商科大学専門学校",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊島町3-738-1",
+    "dates": "2025/10/5,2025/11/23",
+    "remarks": "総合選抜・自己推薦",
+    "source_url": "https://www.kanazawa-it.ac.jp/nyusi/shiken_kaijo.html",
+    "requirements_url": "https://www.kanazawa-it.ac.jp/nyusi/pdf/yoko_2026.pdf"
+  }
+]

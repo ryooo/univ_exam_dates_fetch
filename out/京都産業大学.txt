@@ -1,0 +1,212 @@
+[
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "京都産業大学（本学）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市北区上賀茂本山",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜前期・中期・後期（本学）",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "秀英予備校 札幌校",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北7条西1丁目1",
+    "dates": "2026/02/16,2026/03/10",
+    "remarks": "一般選抜中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "TKP品川カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区高輪3-25-23 京急第2ビル",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜前期・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "アクトシティ浜松コングレスセンター",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区板屋町111-1",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "金沢医療技術専門学校",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市堀川新町7-1",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜前期・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "福井市地域交流プラザ（AOSSA 5–6階）",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市手寄1-4-1 AOSSA 5-6階",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "秀英予備校 名古屋校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3-23-12",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/02/16,2026/03/10",
+    "remarks": "公募推薦・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "TKP名古屋栄カンファレンスセンター",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中区栄3-2-3 名古屋日興證券ビル7階",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "I・Tビル（綾部）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府綾部市西町1-49-1",
+    "dates": "2025/11/22,2025/11/23,2025/11/24",
+    "remarks": "公募推薦のみ",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "福知山市商工会館",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府福知山市字中ノ27",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "天満研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区錦町2-21",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜前期・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "三宮研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区八幡通4-2-12",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/02/16,2026/03/10",
+    "remarks": "公募推薦・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "神戸駅前研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区中町通2-3-1 SK HOTEL神戸駅前内3階",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "和歌山英数学館（2号館）",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市太田2-13-7",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜日程のみ掲載",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "日本海情報ビジネス専門学校",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県米子市道笑町2-227",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "岡山進研学院",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2-10-27",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/02/16,2026/03/10",
+    "remarks": "公募推薦・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "TKPガーデンシティ岡山",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区中山下1-8-45 NTTクレド岡山ビル4階",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "広島YMCA（2号館）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜前期・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "高松高等予備校（本校、2号館）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市観光町547-1",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜前期・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "松山市総合コミュニティセンター",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市湊町7-5",
+    "dates": "2026/01/26,2026/01/27,2026/01/28,2026/01/29",
+    "remarks": "一般選抜前期日程",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  },
+  {
+    "univ_name": "京都産業大学",
+    "test_venue_name": "天神ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区天神2-12-1 天神ビル11階",
+    "dates": "2025/11/22,2025/11/23,2025/11/24,2026/01/26,2026/01/27,2026/01/28,2026/01/29,2026/02/16,2026/03/10",
+    "remarks": "一般選抜前期・中期・後期",
+    "source_url": "https://www.kyoto-su.ac.jp/admissions/exam/pdf/venues.pdf",
+    "requirements_url": "https://www.kyoto-su.ac.jp/admissions/exam/entrance/calendar/index.html"
+  }
+]

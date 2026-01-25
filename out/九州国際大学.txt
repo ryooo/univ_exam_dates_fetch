@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "九州国際大学",
+    "test_venue_name": "九州国際大学（本学会場）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市八幡東区平野1-6-1",
+    "dates": "2026/2/4,2026/3/5",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://www.kiu.ac.jp/2026/01/06/post-44811/",
+    "requirements_url": "https://www.kiu.ac.jp/guide/nyushi/recommend/"
+  },
+  {
+    "univ_name": "九州国際大学",
+    "test_venue_name": "福岡会場（リファレンス駅東ビル）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東1-16-14",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.kiu.ac.jp/2026/01/06/post-44811/",
+    "requirements_url": "https://www.kiu.ac.jp/guide/nyushi/recommend/"
+  },
+  {
+    "univ_name": "九州国際大学",
+    "test_venue_name": "熊本会場（くまもと県民交流館パレア）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区手取本町8-9",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.kiu.ac.jp/2026/01/06/post-44811/",
+    "requirements_url": "https://www.kiu.ac.jp/guide/nyushi/recommend/"
+  },
+  {
+    "univ_name": "九州国際大学",
+    "test_venue_name": "大分会場（J：COMホルトホール大分）",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市金池南1-5-1",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.kiu.ac.jp/2026/01/06/post-44811/",
+    "requirements_url": "https://www.kiu.ac.jp/guide/nyushi/recommend/"
+  },
+  {
+    "univ_name": "九州国際大学",
+    "test_venue_name": "佐賀会場（ホテルマリターレ創世）",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県佐賀市神野東2-5-15",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.kiu.ac.jp/2026/01/06/post-44811/",
+    "requirements_url": "https://www.kiu.ac.jp/guide/nyushi/recommend/"
+  },
+  {
+    "univ_name": "九州国際大学",
+    "test_venue_name": "山口会場（YIC Studio）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡黄金町2-24",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.kiu.ac.jp/2026/01/06/post-44811/",
+    "requirements_url": "https://www.kiu.ac.jp/guide/nyushi/recommend/"
+  }
+]
