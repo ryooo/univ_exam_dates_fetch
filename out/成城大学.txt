@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "成城大学キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都世田谷区成城6-1-20",
+    "dates": "2026/2/2,2026/2/4,2026/2/5,2026/2/6,2026/2/7",
+    "remarks": "S方式・A方式会場",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "ACU-A（アスティ45ビル）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北4条西5丁目 アスティ45 12F・16F",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "TOIRO さいたまスーパーアリーナ4F",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市中央区新都心8番地",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "幕張メッセ国際会議場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市美浜区中瀬2-1",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "ビジョンセンター横浜（西口）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区北幸2-5-15 プレミア横浜西口ビル2F–4F",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "新潟公務員専門学校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天2-4-21",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "長野ターミナル会館",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市岡田町178-2 長野ターミナル会館",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "静岡県コンベンションアーツセンター(グランシップ)",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区東静岡二丁目3番1号",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  },
+  {
+    "univ_name": "成城大学",
+    "test_venue_name": "福岡商工会議所",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前2-9-28",
+    "dates": "2026/2/2",
+    "remarks": "S方式（全学部統一選抜）",
+    "source_url": "https://admission.seijo.ac.jp/admission/localtestsite",
+    "requirements_url": "https://admission.seijo.ac.jp/application/files/8817/6791/8652/nyushiyoko_2026.pdf"
+  }
+]

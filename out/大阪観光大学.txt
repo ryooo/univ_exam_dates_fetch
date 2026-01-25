@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "大阪観光大学",
+    "test_venue_name": "大阪観光大学キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府泉南郡熊取町大久保南5-3-1",
+    "dates": "2025/7/26,2025/8/23,2025/10/18,2025/11/22,2025/12/13,2026/2/1,2026/2/28,2026/3/25",
+    "remarks": "総合型・推薦・一般・編入・社会人",
+    "source_url": "https://www.tourism.ac.jp/nyusi/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪観光大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/12/13,2026/2/1",
+    "remarks": "総合型・推薦・一般・編入など",
+    "source_url": "https://www.tourism.ac.jp/nyusi/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪観光大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2025/11/22",
+    "remarks": "総合型・推薦・編入のみ",
+    "source_url": "https://www.tourism.ac.jp/nyusi/schedule",
+    "requirements_url": ""
+  }
+]

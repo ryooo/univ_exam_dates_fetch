@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "新潟会場（新潟医療福祉大学）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市北区島見町1398番地",
+    "dates": "2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜前期/後期・特待生選抜",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "東京会場（ビジョンセンター有楽町）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区有楽町1-5-1 日比谷マリンビル3階",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜前期・特待生選抜",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "東京会場（TKP神田ビジネスセンター）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田美土代町3-2 神田アベビル8階",
+    "dates": "2026/3/3",
+    "remarks": "一般選抜後期",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "郡山会場（国際医療看護福祉大学校 ANNEX校舎）",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市方八町2-4-10",
+    "dates": "2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜前期/後期",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "高崎会場（ホテルグランビュー高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市柳川町70",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "長野会場（JA長野県ビル）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市大字南長野北石堂町1177-3",
+    "dates": "2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜前期/後期",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "富山会場（富山県民会館）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4-18",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "鶴岡会場（東京第一ホテル鶴岡）",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県鶴岡市錦町2-10",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  },
+  {
+    "univ_name": "新潟医療福祉大学",
+    "test_venue_name": "仙台会場（トラストシティ カンファレンス・仙台）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区一番町1-9-1 仙台トラストタワー5階",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜前期",
+    "source_url": "https://www.nuhw.ac.jp/admission/ippan.html",
+    "requirements_url": "https://www.nuhw.ac.jp/admission/pdf/requirements_place.pdf"
+  }
+]

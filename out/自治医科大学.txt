@@ -1,0 +1,112 @@
+[
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "自治医科大学（本学キャンパス）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県下野市薬師寺3311-1",
+    "dates": "2026/2/4",
+    "remarks": "医学部 一般選抜 第2次（学力・面接）",
+    "source_url": "https://www.jichi.ac.jp/exam/medicine/exam/general/",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "TKP札幌カンファレンスセンター北3条",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北3条西3丁目1-6 札幌小暮ビル",
+    "dates": "2026/1/26",
+    "remarks": "医学部 一般選抜 第1次 学力",
+    "source_url": "https://www.pref.hokkaido.lg.jp/hf/cis/ishikakuho/192204.html",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "北海道立道民活動センター（かでる2・7）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北2条西7丁目",
+    "dates": "2026/1/27",
+    "remarks": "医学部 一般選抜 第1次 面接",
+    "source_url": "https://www.pref.hokkaido.lg.jp/hf/cis/ishikakuho/192204.html",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "石川県庁行政庁舎 11階 1105会議室",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市鞍月1丁目1番地",
+    "dates": "2026/1/26",
+    "remarks": "医学部 一般選抜 第1次 学力",
+    "source_url": "https://www.pref.ishikawa.lg.jp/iryou/support/jichii/r8nyushi.html",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "石川県庁行政庁舎 11階 1103会議室",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市鞍月1丁目1番地",
+    "dates": "2026/1/27",
+    "remarks": "医学部 一般選抜 第1次 面接",
+    "source_url": "https://www.pref.ishikawa.lg.jp/iryou/support/jichii/r8nyushi.html",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "ウインクあいち",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4丁目4-38",
+    "dates": "2026/1/26",
+    "remarks": "医学部 一般選抜 第1次 学力",
+    "source_url": "https://www.jichi.ac.jp/exam/medicine/exam/",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "ウィルあいち",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市東区上竪杉町1番地",
+    "dates": "2026/1/27",
+    "remarks": "医学部 一般選抜 第1次 面接",
+    "source_url": "https://www.jichi.ac.jp/exam/medicine/exam/",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "ホテルアバローム紀の国",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市湊通丁北2-1-2",
+    "dates": "2026/1/26",
+    "remarks": "医学部 一般選抜 第1次 学力",
+    "source_url": "https://www.pref.wakayama.lg.jp/prefg/050100/jichi/d00221131.html",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "公益財団法人福岡県中小企業振興センター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区吉塚本町9-15",
+    "dates": "2026/1/26",
+    "remarks": "医学部 一般選抜 第1次 学力",
+    "source_url": "https://www.pref.fukuoka.lg.jp/contents/jichiigakubu2026.html",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "愛媛県県民文化会館（別館）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市道後町2丁目9-14",
+    "dates": "2026/1/26,2026/1/27",
+    "remarks": "医学部 一般選抜 第1次",
+    "source_url": "https://www.pref.ehime.jp/page/93459.html",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/medicine/exam/exam_youkou_R8.pdf"
+  },
+  {
+    "univ_name": "自治医科大学",
+    "test_venue_name": "自治医科大学（看護学部）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県下野市薬師寺3311-159",
+    "dates": "2026/1/24,2026/2/1",
+    "remarks": "看護学部 一般選抜（一次・二次）",
+    "source_url": "https://www.jichi.ac.jp/exam/nurse/recruitment/",
+    "requirements_url": "https://www.jichi.ac.jp/assets/pdf/exam/nurse/recruitment/exam_nurse_youkou_2026.pdf"
+  }
+]

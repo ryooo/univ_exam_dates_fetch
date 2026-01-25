@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "国際基督教大学",
+    "test_venue_name": "国際基督教大学",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都三鷹市大沢3-10-2 〒181-8585",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜 第一次選考",
+    "source_url": "https://www.icu.ac.jp/admissions/undergraduate/exam/general/",
+    "requirements_url": "https://www.icu.ac.jp/admissions/undergraduate/images/AY2026_General_Admissions.pdf"
+  }
+]

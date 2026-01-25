@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "大阪総合保育大学",
+    "test_venue_name": "大阪総合保育大学A学舎",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市東住吉区湯里6-4-26",
+    "dates": "2026/2/5,2026/2/6,2026/3/6",
+    "remarks": "一般前期/後期、総合型(AO)面接",
+    "source_url": "https://soho.jonan.jp/examinfo/schedule/",
+    "requirements_url": "https://soho.jonan.jp/wp/wp-content/uploads/pdf/NyusiGuide2026_04ippan_zenki.pdf"
+  }
+]

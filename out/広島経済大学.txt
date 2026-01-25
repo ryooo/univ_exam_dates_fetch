@@ -1,0 +1,122 @@
+[
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "広島会場（広島経済大学）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島市安佐南区祇園5-37-1",
+    "dates": "2025/10/4,2025/11/19,2026/2/6,2026/2/7,2026/3/4",
+    "remarks": "総合型・学校推薦型・一般(1/2期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub1.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "福山会場（広島県民文化センターふくやま）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "福山市東桜町1-21",
+    "dates": "2026/2/6,2026/2/7,2026/3/4",
+    "remarks": "推薦(公募)・一般(1/2期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub2.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "三次会場（みよしまちづくりセンター）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "三次市十日市西6-10-45",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般(1期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub1.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "山口会場（山口グランドホテル）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口市小郡黄金町1-1",
+    "dates": "2026/2/6,2026/2/7,2026/3/4",
+    "remarks": "推薦(公募)・一般(1/2期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub2.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "松江会場（松江テルサ）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "松江市朝日町478-18",
+    "dates": "2026/2/6,2026/2/7,2026/3/4",
+    "remarks": "推薦(公募)・一般(1/2期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub2.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "浜田会場（いわみーる）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "浜田市野原町1826-1",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般(1期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub1.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "岡山会場（岡山シティホテル桑田町）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山市北区桑田町3-30",
+    "dates": "2026/2/6,2026/2/7,2026/3/4",
+    "remarks": "推薦(公募)・一般(1/2期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub2.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "松山会場（リジェール松山）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "松山市南堀端町2-3",
+    "dates": "2026/2/6,2026/2/7,2026/3/4",
+    "remarks": "推薦(公募)・一般(1/2期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub2.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "新居浜会場（新居浜商工会議所）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "新居浜市一宮町2-4-8",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般(1期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub1.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "宇和島会場（JAえひめ南）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "宇和島市栄町港3-303",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般(1期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub1.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "高松会場（サンポートホール高松）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "高松市サンポート2-1",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般(1期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub1.html"
+  },
+  {
+    "univ_name": "広島経済大学",
+    "test_venue_name": "福岡会場（福岡県中小企業振興センター）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区吉塚本町9-15",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般(1期)",
+    "source_url": "https://www.hue.ac.jp/entrance/place.html",
+    "requirements_url": "https://www.hue.ac.jp/entrance/guide/pub1.html"
+  }
+]

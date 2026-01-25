@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "池袋キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区東池袋2-51-4 〒170-8445",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/20,2026/2/21,2026/3/6",
+    "remarks": "一般Ⅰ/Ⅱ・奨学特待・留学生特別",
+    "source_url": "https://www.thu.ac.jp/access/access_ike",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "中野キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中野区中野4-21-2 〒164-8530",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/20,2026/2/21",
+    "remarks": "一般Ⅰ/Ⅱ・奨学特待",
+    "source_url": "https://www.thu.ac.jp/access/access_nakano",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "千葉キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県市原市うるいど南4-1 〒290-0193",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/20,2026/2/21",
+    "remarks": "一般Ⅰ/Ⅱ・奨学特待",
+    "source_url": "https://www.thu.ac.jp/access/access_chiba",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "仙台試験場（ショーケー本館ビル）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区五橋2-11-1 〒980-0022",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ・奨学特待",
+    "source_url": "https://data.thu.ac.jp/7717/5521/9978/01map-sendai_2026.pdf",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "つくば試験場（つくば国際会議場）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県つくば市竹園2-20-3 〒305-0032",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ・奨学特待",
+    "source_url": "https://data.thu.ac.jp/7717/5521/7402/03map-tsukuba02_2026.pdf",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "宇都宮試験場（ホテルマイステイズ宇都宮）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市東宿郷2-4-1 〒321-0953",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ・奨学特待",
+    "source_url": "https://data.thu.ac.jp/6717/5521/7401/04map-utsunomiya_2026.pdf",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "高崎試験場（エテルナ高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市栄町22-30 〒370-0841",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ・奨学特待",
+    "source_url": "https://data.thu.ac.jp/8017/5523/7698/11map-takasaki02.pdf",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "長野試験場（JA長野県ビル）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市大字南長野北石堂町1177-3 〒380-0826",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ・奨学特待",
+    "source_url": "https://data.thu.ac.jp/5117/5521/7400/07map-nagano02_2026.pdf.pdf",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "静岡試験場（クーポール会館）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区紺屋町2-2 〒420-0852",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ・奨学特待",
+    "source_url": "https://data.thu.ac.jp/5917/5521/7403/08map-shizuoka_2026.pdf",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "博多試験場（TKPカンファレンスシティ博多）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-19-5 博多石川ビル 〒812-0011",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ・奨学特待",
+    "source_url": "https://data.thu.ac.jp/6617/5521/7403/10map-hakata_2026.pdf",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  }
+]

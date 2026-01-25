@@ -1,0 +1,122 @@
+[
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "大阪会場（関西大学 千里山キャンパス 第1学舎）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府吹田市山手町3-3-35",
+    "dates": "2026/2/10,2026/3/10",
+    "remarks": "医学部一般選抜1次（前期・後期）",
+    "source_url": "https://www.kansai-u.ac.jp/ja/about/campus/",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/medical/qt931k0000005db0-att/of2vmg000000o9qy.pdf"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "名古屋会場（TKPガーデンシティPREMIUM名古屋駅前）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市西区名駅1-1-17 名駅ダイヤメイテツビル3階",
+    "dates": "2026/2/10",
+    "remarks": "医学部一般選抜1次（前期）",
+    "source_url": "https://www.kashikaigishitsu.net/facilitys/gcp-nagoya-ekimae/access/",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/medical/qt931k0000005db0-att/of2vmg000000o9qy.pdf"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "東京会場（ビジョンセンター東京京橋）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区京橋3-7-1 相互館110タワー4F,8F",
+    "dates": "2026/2/10,2026/3/10",
+    "remarks": "医学部一般選抜1次（前期・後期）",
+    "source_url": "https://www.visioncenter.jp/tokyo/kyobashi/access/",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/medical/qt931k0000005db0-att/of2vmg000000o9qy.pdf"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "本学（本部キャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府高槻市大学町2-7",
+    "dates": "2026/2/19,2026/3/18,2026/2/27",
+    "remarks": "医学部2次・共テ2次会場",
+    "source_url": "https://www.ompu.ac.jp/access.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/medical/qt931k0000005db0-att/of2vmg000000o9qy.pdf"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "阿武山キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府高槻市奈佐原4-20-1",
+    "dates": "2025/11/16,2026/2/1,2026/2/9",
+    "remarks": "薬学:推・一般A・一般B",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/shikennkaijyou_ph.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm.html"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "大阪会場（あべのハルカス25F）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市阿倍野区阿倍野筋1-1-43",
+    "dates": "2026/2/1",
+    "remarks": "薬学:一般入試A",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/shikennkaijyou_ph.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/a_summary.html"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "広島会場（エールエールA館 6階 ROOM2）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市南区松原町9-1",
+    "dates": "2026/2/1",
+    "remarks": "薬学:一般入試A",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/shikennkaijyou_ph.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/a_summary.html"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "高松会場（サンポートホール高松 5階51会議室）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市サンポート2-1",
+    "dates": "2026/2/1",
+    "remarks": "薬学:一般入試A",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/shikennkaijyou_ph.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/a_summary.html"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "博多会場（博多バスターミナル 9階第12ホール）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街2-1",
+    "dates": "2026/2/1",
+    "remarks": "薬学:一般入試A",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/shikennkaijyou_ph.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/a_summary.html"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "名古屋会場（安保ホール 6階601号室）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅3-15-9",
+    "dates": "2026/2/9",
+    "remarks": "薬学:一般入試B",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/shikennkaijyou_ph.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/b_summary.html"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "岡山会場（第一セントラルビル2号館 8階アース）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区本町6-30",
+    "dates": "2026/2/9",
+    "remarks": "薬学:一般入試B",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/shikennkaijyou_ph.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/pharm/b_summary.html"
+  },
+  {
+    "univ_name": "大阪医科薬科大学",
+    "test_venue_name": "本部北キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府高槻市大学町2-7",
+    "dates": "2025/11/23,2026/2/1,2026/2/2,2026/3/13",
+    "remarks": "看護:推・一般・共テ2次",
+    "source_url": "https://www.ompu.ac.jp/admission/undergraduate/nursing/shikennkaijyoukg.html",
+    "requirements_url": "https://www.ompu.ac.jp/admission/undergraduate/qt931k000000805t-att/of2vmg000000p1f1.pdf"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "鹿児島純心大学",
+    "test_venue_name": "本学会場（鹿児島純心大学）",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県薩摩川内市天辰町2365番地",
+    "dates": "2026/2/5,2026/3/17",
+    "remarks": "一般選抜（前期・後期）",
+    "source_url": "https://www.k-junshin.ac.jp/jundai/cat-topics/12365/",
+    "requirements_url": "https://www.k-junshin.ac.jp/jundai/dcms/wp-content/uploads/2025/07/66326a6e22bd93c7ef795ff576852e72-1.pdf"
+  },
+  {
+    "univ_name": "鹿児島純心大学",
+    "test_venue_name": "宮崎グリーンホテル",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市大橋2丁目36-1",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜（前期）看護学科のみ",
+    "source_url": "https://www.k-junshin.ac.jp/jundai/cat-topics/12379/",
+    "requirements_url": "https://www.k-junshin.ac.jp/jundai/dcms/wp-content/uploads/2025/07/66326a6e22bd93c7ef795ff576852e72-1.pdf"
+  },
+  {
+    "univ_name": "鹿児島純心大学",
+    "test_venue_name": "ユースピア熊本県青年会館",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区水前寺3丁目17番15号",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜（前期）健康栄養学科のみ",
+    "source_url": "https://www.k-junshin.ac.jp/jundai/cat-topics/12379/",
+    "requirements_url": "https://www.k-junshin.ac.jp/jundai/dcms/wp-content/uploads/2025/07/66326a6e22bd93c7ef795ff576852e72-1.pdf"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "東亜大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県下関市一の宮学園町2-1",
+    "dates": "2025/11/15,2026/2/7,2026/2/21",
+    "remarks": "公募制A・B／一般前期・後期",
+    "source_url": "https://www.toua-u.ac.jp/admissions/examination-system/",
+    "requirements_url": "https://www.toua-u.ac.jp/download/kouhou/touadaigaku-bosyu-youkou2026-2.pdf"
+  },
+  {
+    "univ_name": "東亜大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/7",
+    "remarks": "公募制A・B／一般選抜前期",
+    "source_url": "https://www.toua-u.ac.jp/admissions/examination-system/",
+    "requirements_url": "https://www.toua-u.ac.jp/download/kouhou/touadaigaku-bosyu-youkou2026-2.pdf"
+  },
+  {
+    "univ_name": "東亜大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/7",
+    "remarks": "公募制A・B／一般選抜前期",
+    "source_url": "https://www.toua-u.ac.jp/admissions/examination-system/",
+    "requirements_url": "https://www.toua-u.ac.jp/download/kouhou/touadaigaku-bosyu-youkou2026-2.pdf"
+  },
+  {
+    "univ_name": "東亜大学",
+    "test_venue_name": "熊本会場",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/7",
+    "remarks": "公募制A・B／一般選抜前期",
+    "source_url": "https://www.toua-u.ac.jp/admissions/examination-system/",
+    "requirements_url": "https://www.toua-u.ac.jp/download/kouhou/touadaigaku-bosyu-youkou2026-2.pdf"
+  },
+  {
+    "univ_name": "東亜大学",
+    "test_venue_name": "那覇会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/7",
+    "remarks": "公募制A・B／一般選抜前期",
+    "source_url": "https://www.toua-u.ac.jp/admissions/examination-system/",
+    "requirements_url": "https://www.toua-u.ac.jp/download/kouhou/touadaigaku-bosyu-youkou2026-2.pdf"
+  }
+]

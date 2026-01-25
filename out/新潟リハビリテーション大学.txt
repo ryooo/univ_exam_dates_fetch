@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "新潟リハビリテーション大学",
+    "test_venue_name": "村上会場（新潟リハビリテーション大学）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県村上市上の山2番16号",
+    "dates": "2025/10/18,2025/11/22,2025/12/20,2026/1/10,2026/2/7,2026/3/13",
+    "remarks": "総合型・推薦・一般",
+    "source_url": "https://nur.ac.jp/examination/venue/",
+    "requirements_url": "https://nur.ac.jp/reha/wp-content/uploads/R8_bosyuyoko_3syusei.pdf"
+  },
+  {
+    "univ_name": "新潟リハビリテーション大学",
+    "test_venue_name": "新潟会場（新潟大学 駅南キャンパス ときめいと）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区笹口1丁目1番地 PLAKA1 2階",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜のみ",
+    "source_url": "https://nur.ac.jp/examination/venue/",
+    "requirements_url": "https://nur.ac.jp/reha/wp-content/uploads/R8_bosyuyoko_3syusei.pdf"
+  }
+]

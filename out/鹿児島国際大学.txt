@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "鹿児島国際大学",
+    "test_venue_name": "鹿児島国際大学試験場（坂之上キャンパス）",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市坂之上8-34-1",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.iuk.ac.jp/news/archives/1251",
+    "requirements_url": "https://www.iuk.ac.jp/files/uploads/R8nyuushiyoukou.pdf"
+  },
+  {
+    "univ_name": "鹿児島国際大学",
+    "test_venue_name": "鹿屋商工会議所",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿屋市新川町600",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.iuk.ac.jp/news/archives/1251",
+    "requirements_url": "https://www.iuk.ac.jp/files/uploads/R8nyuushiyoukou.pdf"
+  },
+  {
+    "univ_name": "鹿児島国際大学",
+    "test_venue_name": "奄美市社会福祉協議会（本所）",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県奄美市名瀬長浜町5-6",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.iuk.ac.jp/news/archives/1251",
+    "requirements_url": "https://www.iuk.ac.jp/files/uploads/R8nyuushiyoukou.pdf"
+  },
+  {
+    "univ_name": "鹿児島国際大学",
+    "test_venue_name": "代々木ゼミナール（福岡校）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前4-2-25",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.iuk.ac.jp/news/archives/1251",
+    "requirements_url": "https://www.iuk.ac.jp/files/uploads/R8nyuushiyoukou.pdf"
+  },
+  {
+    "univ_name": "鹿児島国際大学",
+    "test_venue_name": "壺溪塾（坪井本校）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区内坪井町5-10",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.iuk.ac.jp/news/archives/1251",
+    "requirements_url": "https://www.iuk.ac.jp/files/uploads/R8nyuushiyoukou.pdf"
+  },
+  {
+    "univ_name": "鹿児島国際大学",
+    "test_venue_name": "アートホテル宮崎スカイタワー",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市高千穂通2-1-26",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.iuk.ac.jp/news/archives/1251",
+    "requirements_url": "https://www.iuk.ac.jp/files/uploads/R8nyuushiyoukou.pdf"
+  }
+]

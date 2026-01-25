@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "神戸常盤大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市長田区大谷町2-6-2",
+    "dates": "",
+    "remarks": "全学部共通試験会場",
+    "source_url": "https://www.kobe-tokiwa.ac.jp/univ/prospective/assets/pdf/venue.pdf",
+    "requirements_url": "https://www.kobe-tokiwa.ac.jp/univ/prospective/guideline/"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "広島会場（本学）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市安佐北区可部東1-2-1",
+    "dates": "2025/10/18,2025/11/13,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/3/5",
+    "remarks": "一般S/A/B・後期、総合型・推薦等",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "福山商工会議所",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市西町2-10-1",
+    "dates": "2025/11/13,2026/2/1,2026/2/2",
+    "remarks": "一般前期S/A、総合型・推薦前期",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "松江テルサ",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市朝日町478-18",
+    "dates": "2025/11/13,2026/2/1,2026/2/2",
+    "remarks": "一般前期S/A、総合型・推薦前期",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "山口県社会福祉会館（ゆ〜あいプラザ）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市大手町9-6",
+    "dates": "2026/2/1",
+    "remarks": "一般前期S日程",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "TKP松山市駅前カンファレンスセンター",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市千舟町4-3-7 青野ビル2・4–5階",
+    "dates": "2025/11/13,2026/2/1,2026/2/2",
+    "remarks": "一般前期S/A、総合型・推薦前期",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "ホテルサンルート徳山",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県周南市築港町8-33",
+    "dates": "2025/11/13,2026/2/2",
+    "remarks": "一般前期A、総合型・推薦前期",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "出島メッセ長崎",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市尾上町4-1",
+    "dates": "2026/2/2",
+    "remarks": "一般前期A日程",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "熊本県教育会館",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区九品寺1-11-4",
+    "dates": "2026/2/2",
+    "remarks": "一般前期A日程",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "J:COMホルトホール大分",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市金池南1-5-1",
+    "dates": "2026/2/2",
+    "remarks": "一般前期A日程",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C_%E5%89%8D%E6%9C%9F.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "オルガホール",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区奉還町1-7-7 オルガビルB1F",
+    "dates": "2025/11/13",
+    "remarks": "総合型・推薦 前期",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E7%B7%8F%E5%90%88%E5%9E%8B%E9%81%B8%E6%8A%9C_%E4%BD%B5%E9%A1%98.pdf"
+  },
+  {
+    "univ_name": "広島文教大学",
+    "test_venue_name": "パークサイドビル（小倉）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉北区堺町1-6-13",
+    "dates": "2025/11/13",
+    "remarks": "総合型・推薦 前期",
+    "source_url": "https://www.h-bunkyo.ac.jp/university/admission/brief/",
+    "requirements_url": "https://www.h-bunkyo.ac.jp/university/wp-content/themes/bunkyo/assets/img/admission/brief/2026_%E7%B7%8F%E5%90%88%E5%9E%8B%E9%81%B8%E6%8A%9C_%E4%BD%B5%E9%A1%98.pdf"
+  }
+]

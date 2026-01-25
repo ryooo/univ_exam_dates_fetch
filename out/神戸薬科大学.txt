@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "神戸薬科大学",
+    "test_venue_name": "本学キャンパス（神戸薬科大学）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市東灘区本山北町4丁目19番1号",
+    "dates": "2026/1/29,2026/2/19",
+    "remarks": "一般選抜A日程・B日程",
+    "source_url": "https://www.kobepharma-u.ac.jp/exam/admissions/",
+    "requirements_url": "https://www.kobepharma-u.ac.jp/exam/admissions/5e5b02735f3ba26bf7c478d78a40d87d14ced515.pdf"
+  }
+]

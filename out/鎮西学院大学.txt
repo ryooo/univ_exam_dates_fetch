@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "鎮西学院大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県諫早市西栄田町1212番地1",
+    "dates": "2025/9/27,2025/11/15,2025/12/5,2025/12/12,2026/1/20,2026/2/6,2026/3/12,2026/3/24",
+    "remarks": "総合型・推薦・一般A〜C",
+    "source_url": "https://www.wesleyan.ac.jp/entrance/schedule.php",
+    "requirements_url": "https://www.wesleyan.ac.jp/entrance/pdf/2026/bosyuyoko_2026.pdf"
+  },
+  {
+    "univ_name": "鎮西学院大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/6",
+    "remarks": "推薦（指定校等）・一般A",
+    "source_url": "https://www.wesleyan.ac.jp/entrance/schedule.php",
+    "requirements_url": "https://www.wesleyan.ac.jp/entrance/pdf/2026/bosyuyoko_2026.pdf"
+  },
+  {
+    "univ_name": "鎮西学院大学",
+    "test_venue_name": "沖縄会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般A",
+    "source_url": "https://www.wesleyan.ac.jp/entrance/schedule.php",
+    "requirements_url": "https://www.wesleyan.ac.jp/entrance/pdf/2026/bosyuyoko_2026.pdf"
+  },
+  {
+    "univ_name": "鎮西学院大学",
+    "test_venue_name": "五島会場",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般A",
+    "source_url": "https://www.wesleyan.ac.jp/entrance/schedule.php",
+    "requirements_url": "https://www.wesleyan.ac.jp/entrance/pdf/2026/bosyuyoko_2026.pdf"
+  }
+]

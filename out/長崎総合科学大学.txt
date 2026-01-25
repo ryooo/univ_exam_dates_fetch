@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "長崎総合科学大学",
+    "test_venue_name": "本学グリーンヒルキャンパス",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市網場町536",
+    "dates": "2025/10/18,2025/11/16,2025/12/14,2026/2/7,2026/2/8,2026/3/7,2026/3/20",
+    "remarks": "総合型・推薦・一般Ⅰ～Ⅲ・地域枠",
+    "source_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/kaijou_01",
+    "requirements_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/siken_01"
+  },
+  {
+    "univ_name": "長崎総合科学大学",
+    "test_venue_name": "リファレンス駅東ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東1丁目16-14",
+    "dates": "2025/11/16,2025/12/14,2026/2/7,2026/2/8,2026/3/7",
+    "remarks": "推薦前期/後期・一般Ⅰ～Ⅱ",
+    "source_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/kaijou_01",
+    "requirements_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/siken_02"
+  },
+  {
+    "univ_name": "長崎総合科学大学",
+    "test_venue_name": "新大阪丸ビル 新館",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市東淀川区東中島1丁目18-27",
+    "dates": "2025/11/16,2025/12/14,2026/2/7,2026/2/8,2026/3/7",
+    "remarks": "推薦前期/後期・一般Ⅰ～Ⅱ",
+    "source_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/kaijou_01",
+    "requirements_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/siken_02"
+  },
+  {
+    "univ_name": "長崎総合科学大学",
+    "test_venue_name": "ビジョンセンターグランデ東京浜松町",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区芝大門1-13-9 UD芝大門ビル2F〜12F",
+    "dates": "2025/11/16,2025/12/14,2026/2/7,2026/2/8,2026/3/7",
+    "remarks": "推薦前期/後期・一般Ⅰ～Ⅱ",
+    "source_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/kaijou_01",
+    "requirements_url": "https://www.nias.ac.jp/nyuusijouhou/nyushi/siken_02"
+  }
+]

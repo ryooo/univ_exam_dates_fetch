@@ -1,0 +1,142 @@
+[
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "崇城大学 池田キャンパス",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本市西区池田4丁目22-1",
+    "dates": "2025/11/15,2025/11/16,2026/2/7,2026/2/8,2026/3/7",
+    "remarks": "推薦各種/一般前期/一般後期/留学生後期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "崇城大学 芸術学部棟",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本市北区池田3-33-12",
+    "dates": "2025/10/19,2026/2/8,2026/3/7",
+    "remarks": "芸術学部実技選抜 前期・中期・後期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/examlist/faculty",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "リファレンス駅東ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル5階",
+    "dates": "2025/11/16",
+    "remarks": "推薦（薬学部）",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "電気ビル共創館3階",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市中央区渡辺通2丁目1-82",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "TKP小倉シティセンター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "北九州市小倉北区馬借1丁目3-9 クエスト第二ビル5階",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "サンシティオフィスビル",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀市神野東2丁目1-3",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "出島メッセ長崎",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎市尾上町4-1",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "北九州予備校 大分校",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分市金池町2-7",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "北九州予備校 宮崎校",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎市宮崎駅東口",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "鹿児島県医師会館",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島市中央町8-1",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期（薬学部以外）",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "北九州予備校 鹿児島校",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島市西田1-7-3",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期（薬学部）",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "TKPガーデンシティ鹿児島中央",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島市中央町26-1 南国アネックス3階",
+    "dates": "2025/11/16",
+    "remarks": "推薦（薬学部）",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "沖縄県男女共同参画センター てぃるる",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "那覇市西3丁目11番1号",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "推薦（全学部）",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "崇城大学",
+    "test_venue_name": "沖縄県市町村自治会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "那覇市旭町116-37",
+    "dates": "2026/2/7,2026/2/8",
+    "remarks": "一般前期",
+    "source_url": "https://www.sojo-u.ac.jp/nyushi/admissions/place/",
+    "requirements_url": ""
+  }
+]

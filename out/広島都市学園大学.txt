@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "広島都市学園大学",
+    "test_venue_name": "宇品キャンパス",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市南区宇品西5丁目13-18",
+    "dates": "2025/10/4,2025/11/22,2025/12/13,2026/2/2,2026/2/3,2026/2/4,2026/2/6,2026/3/7",
+    "remarks": "一般前期A/B/C・D、後期、総合・推薦",
+    "source_url": "https://www.hcu.ac.jp/admission/kodomo_admission03/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島都市学園大学",
+    "test_venue_name": "西風新都キャンパス",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市安佐南区大塚東3丁目2-1",
+    "dates": "2025/10/4,2025/11/22,2025/12/13",
+    "remarks": "総合型・推薦（リハビリ）",
+    "source_url": "https://www.hcu.ac.jp/admission/kenkou_gaiyou/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島都市学園大学",
+    "test_venue_name": "松江テルサ",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市朝日町478-18",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜前期C",
+    "source_url": "https://www.hcu.ac.jp/admission/kenkou_admission03/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島都市学園大学",
+    "test_venue_name": "福山プラザホテル",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市住吉町1-40",
+    "dates": "2025/10/4,2026/2/4",
+    "remarks": "一般前期C、総合型前期",
+    "source_url": "https://www.hcu.ac.jp/admission/kenkou_admission03/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島都市学園大学",
+    "test_venue_name": "愛媛県県民文化会館",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市道後町2-5-1",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜前期C",
+    "source_url": "https://www.hcu.ac.jp/admission/kenkou_admission03/",
+    "requirements_url": ""
+  }
+]

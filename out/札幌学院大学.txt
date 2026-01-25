@@ -1,0 +1,122 @@
+[
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "江別キャンパス（本学会場）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道江別市文京台11番地",
+    "dates": "2025/10/25,2025/10/26,2025/11/22,2025/11/23,2025/12/13,2026/2/3,2026/2/4,2026/3/8,2026/3/21",
+    "remarks": "本学会場。全入試実施",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "青森市民ホール（リンクモア平安閣市民ホール）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市柳川一丁目2番14号",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "推薦A・特別選抜A日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "早稲田EDU日本語学校",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区市谷砂土原町2-7 TK第一ビル2F",
+    "dates": "2025/11/22",
+    "remarks": "外国人留学生A日程のみ",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "旭川ときわ市民ホール",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道旭川市5条通4丁目",
+    "dates": "2026/2/3,2026/2/4,2026/3/8",
+    "remarks": "一般A・B日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "中高年齢労働者福祉センター サンライフ北見",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道北見市東三輪5丁目1番地16",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般A日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "道新ホール帯広",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西4条南9丁目1-4",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般A日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "釧路ロイヤルイン",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道釧路市黒金町14丁目9番2号",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般A日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "FKホールディングス 生涯学習センター きらん",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道室蘭市中島町2丁目22-1",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般A日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "函館市民会館",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市湯川町1-32-1",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般A日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "青森県労働福祉会館（ハートピアローフク）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市本町3丁目3-11",
+    "dates": "2026/2/3,2026/2/4,2026/3/8",
+    "remarks": "一般A・B日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "アイーナ・いわて県民情報交流センター",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅西通1丁目7-1",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般A日程",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "札幌学院大学",
+    "test_venue_name": "北京語言大学東京校",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区南池袋2-29-14",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般A日程。2/4は留学生B実施",
+    "source_url": "https://www.sgu.ac.jp/entrance/exam/sgu_exam_map.html",
+    "requirements_url": ""
+  }
+]

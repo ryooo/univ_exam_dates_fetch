@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "石巻専修大学 4号館",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県石巻市南境新水戸1",
+    "dates": "2026/1/30,2026/2/26,2026/3/12",
+    "remarks": "一般選抜A・B(1科目/探究)・C",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "フォレスト仙台",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区柏木1-2-45",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "TKP 仙台西口ビジネスセンター（シエロ仙台ビル）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区本町1-5-31 シエロ仙台ビル",
+    "dates": "2026/2/26,2026/3/12",
+    "remarks": "一般選抜B(1科目/探究)・C",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/selection_B.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "専修大学 神田校舎 7号館",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田神保町3-8",
+    "dates": "2026/1/30,2026/2/26,2026/3/12",
+    "remarks": "一般選抜A・B(1科目/探究)・C",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "アスパム",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市安方1-1-40",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "岩手教育会館",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市大通一丁目1-16",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "秋田県総合保健センター",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市千秋久保田町6-6",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "山形テルサ",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市双葉町1-2-3",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  },
+  {
+    "univ_name": "石巻専修大学",
+    "test_venue_name": "郡山商工会議所",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市清水台1-3-8",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.senshu-u.ac.jp/ishinomaki/admission/senbatsu/seido/",
+    "requirements_url": "https://www.senshu-u.ac.jp/ishinomaki/albums/abm.php?d=5726&f=abm00072847.pdf&n=%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E8%A6%81%E9%A0%85%E3%80%9012.05%E4%BF%AE%E6%AD%A3%E3%80%91.pdf"
+  }
+]

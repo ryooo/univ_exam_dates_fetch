@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "東海学園大学",
+    "test_venue_name": "東海学園大学 名古屋キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市天白区中平2-901",
+    "dates": "2025/10/12,2025/11/13,2025/11/14,2025/12/13,2026/1/28,2026/1/29,2026/1/30,2026/2/23,2026/3/11",
+    "remarks": "全入試（院除く）。一般前中後・推薦等",
+    "source_url": "https://www.navi.tokaigakuen-u.ac.jp/admissions/region/",
+    "requirements_url": "https://www.navi.tokaigakuen-u.ac.jp/media/A3.pdf"
+  },
+  {
+    "univ_name": "東海学園大学",
+    "test_venue_name": "岐阜キャッスルイン",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県岐阜市県町2-8",
+    "dates": "2025/11/14,2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "公募推薦前期・一般前期",
+    "source_url": "https://www.navi.tokaigakuen-u.ac.jp/admissions/region/",
+    "requirements_url": "https://www.navi.tokaigakuen-u.ac.jp/media/A3.pdf"
+  },
+  {
+    "univ_name": "東海学園大学",
+    "test_venue_name": "四日市市地場産業振興センター（じばさん）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県四日市市安島1-3-18",
+    "dates": "2025/11/14,2026/1/29,2026/1/30",
+    "remarks": "公募推薦前期・一般前期",
+    "source_url": "https://www.navi.tokaigakuen-u.ac.jp/admissions/region/",
+    "requirements_url": "https://www.navi.tokaigakuen-u.ac.jp/media/A3.pdf"
+  },
+  {
+    "univ_name": "東海学園大学",
+    "test_venue_name": "サーラシティ浜松",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区砂山町1107",
+    "dates": "2025/11/14",
+    "remarks": "公募推薦前期",
+    "source_url": "https://www.navi.tokaigakuen-u.ac.jp/admissions/region/",
+    "requirements_url": "https://www.navi.tokaigakuen-u.ac.jp/media/A3.pdf"
+  },
+  {
+    "univ_name": "東海学園大学",
+    "test_venue_name": "アクトシティ浜松 コングレスセンター",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区板屋町111-1",
+    "dates": "2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "一般前期",
+    "source_url": "https://www.navi.tokaigakuen-u.ac.jp/admissions/region/",
+    "requirements_url": "https://www.navi.tokaigakuen-u.ac.jp/media/A3.pdf"
+  },
+  {
+    "univ_name": "東海学園大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM金沢駅西口",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市広岡2丁目13-33",
+    "dates": "2026/1/28",
+    "remarks": "一般前期",
+    "source_url": "https://www.navi.tokaigakuen-u.ac.jp/admissions/region/",
+    "requirements_url": "https://www.navi.tokaigakuen-u.ac.jp/media/A3.pdf"
+  },
+  {
+    "univ_name": "東海学園大学",
+    "test_venue_name": "富山県民会館",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4番18号",
+    "dates": "2026/1/29,2026/1/30",
+    "remarks": "一般前期",
+    "source_url": "https://www.navi.tokaigakuen-u.ac.jp/admissions/region/",
+    "requirements_url": "https://www.navi.tokaigakuen-u.ac.jp/media/A3.pdf"
+  }
+]

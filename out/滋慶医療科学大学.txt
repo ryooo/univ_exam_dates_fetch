@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "滋慶医療科学大学",
+    "test_venue_name": "新大阪キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市淀川区宮原1-2-8",
+    "dates": "2025/9/14,2025/10/19,2025/11/9,2025/11/16,2025/11/22,2025/12/13,2026/2/4,2026/3/4",
+    "remarks": "AO・推薦・一般の試験会場",
+    "source_url": "https://www.juhs.ac.jp/admissions/exam/schedule/",
+    "requirements_url": "https://www.juhs.ac.jp/wpapp/wp-content/uploads/2025/07/application_guidelines_2026.pdf"
+  }
+]

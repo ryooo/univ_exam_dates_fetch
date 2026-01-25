@@ -1,0 +1,152 @@
+[
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "本学会場（神奈川工科大学）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県厚木市下荻野1030",
+    "dates": "2025/11/15,2025/12/13,2026/1/30,2026/1/31,2026/2/1,2026/2/27,2026/3/9",
+    "remarks": "一般A・B、総合型・推薦、GD",
+    "source_url": "https://op.kait.jp/admission/ssenbatsu/ssenbatsu_sengan/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "水戸会場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "高崎会場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/27",
+    "remarks": "一般A・B日程",
+    "source_url": "https://op.kait.jp/admission/general_b/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "立川会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "横浜会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/27",
+    "remarks": "一般A・B日程",
+    "source_url": "https://op.kait.jp/admission/general_b/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "甲府会場",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "沼津会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  },
+  {
+    "univ_name": "神奈川工科大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般A日程",
+    "source_url": "https://op.kait.jp/admission/general/general_a/",
+    "requirements_url": "https://secure.nanaop-web.com/kait/2026_yokou/"
+  }
+]

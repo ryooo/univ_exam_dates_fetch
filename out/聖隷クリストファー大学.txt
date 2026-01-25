@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "聖隷クリストファー大学",
+    "test_venue_name": "聖隷クリストファー大学",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区三方原町3453",
+    "dates": "2025/12/13,2026/2/3,2026/2/27",
+    "remarks": "奨学生選抜・一般前期・一般後期",
+    "source_url": "https://www.seirei.ac.jp/entrance/guide/",
+    "requirements_url": "https://www.seirei.ac.jp/media/2026shogakuseiippankyoute_youkou.pdf"
+  },
+  {
+    "univ_name": "聖隷クリストファー大学",
+    "test_venue_name": "静岡コンベンションアーツセンター グランシップ",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区東静岡2丁目3-1",
+    "dates": "2025/12/13,2026/2/3",
+    "remarks": "奨学生選抜・一般前期",
+    "source_url": "https://www.seirei.ac.jp/entrance/guide/",
+    "requirements_url": "https://www.seirei.ac.jp/media/2026shogakuseiippankyoute_youkou.pdf"
+  },
+  {
+    "univ_name": "聖隷クリストファー大学",
+    "test_venue_name": "豊橋商工会議所",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県豊橋市花田町字石塚42-1",
+    "dates": "2025/12/13,2026/2/3",
+    "remarks": "奨学生選抜・一般前期",
+    "source_url": "https://www.seirei.ac.jp/entrance/guide/",
+    "requirements_url": "https://www.seirei.ac.jp/media/2026shogakuseiippankyoute_youkou.pdf"
+  },
+  {
+    "univ_name": "聖隷クリストファー大学",
+    "test_venue_name": "プラサ ヴェルデ",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県沼津市大手町1-1-4",
+    "dates": "2025/12/13",
+    "remarks": "奨学生選抜",
+    "source_url": "https://www.seirei.ac.jp/entrance/guide/",
+    "requirements_url": "https://www.seirei.ac.jp/media/2026shogakuseiippankyoute_youkou.pdf"
+  }
+]

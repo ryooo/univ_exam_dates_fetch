@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "皇學館大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県伊勢市神田久志本町1704",
+    "dates": "2026/1/29,2026/1/30,2026/1/31,2026/2/28,2026/3/12",
+    "remarks": "一般選抜 前期/得意/中期/後期",
+    "source_url": "https://search.keinet.ne.jp/2473/general/schedule",
+    "requirements_url": "https://www.kogakkan-u.ac.jp/campusview/admissions/pamphlet.php"
+  },
+  {
+    "univ_name": "皇學館大学",
+    "test_venue_name": "四日市会場",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜 前期/得意のみ",
+    "source_url": "https://search.keinet.ne.jp/2473/general/schedule",
+    "requirements_url": "https://www.kogakkan-u.ac.jp/campusview/admissions/pamphlet.php"
+  },
+  {
+    "univ_name": "皇學館大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜 前期/得意のみ",
+    "source_url": "https://search.keinet.ne.jp/2473/general/schedule",
+    "requirements_url": "https://www.kogakkan-u.ac.jp/campusview/admissions/pamphlet.php"
+  },
+  {
+    "univ_name": "皇學館大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜 前期/得意／数理あり",
+    "source_url": "https://search.keinet.ne.jp/2473/general/schedule",
+    "requirements_url": "https://www.kogakkan-u.ac.jp/campusview/admissions/pamphlet.php"
+  },
+  {
+    "univ_name": "皇學館大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜 前期/得意のみ",
+    "source_url": "https://search.keinet.ne.jp/2473/general/schedule",
+    "requirements_url": "https://www.kogakkan-u.ac.jp/campusview/admissions/pamphlet.php"
+  },
+  {
+    "univ_name": "皇學館大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜 前期/得意のみ",
+    "source_url": "https://search.keinet.ne.jp/2473/general/schedule",
+    "requirements_url": "https://www.kogakkan-u.ac.jp/campusview/admissions/pamphlet.php"
+  }
+]

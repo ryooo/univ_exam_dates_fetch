@@ -1,0 +1,212 @@
+[
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大東市中垣内3-1-1",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/28,2026/3/7",
+    "remarks": "一般前期A/B/C・中期・後期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "金沢商工会議所",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市尾山町9-13",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "草津商工会議所",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "滋賀県草津市大路2丁目1-35 キラリエ草津",
+    "dates": "2026/1/31,2026/2/1,2026/2/28",
+    "remarks": "一般前期A/B・中期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "ホテルボストンプラザ草津",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "滋賀県草津市草津駅西口ボストンスクエア内",
+    "dates": "2026/2/2",
+    "remarks": "一般前期C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "長浜バイオ大学 京都CAMPUS河原町学舎",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市上京区河原町通広小路上ル",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/28,2026/3/7",
+    "remarks": "一般前期A/B/C・中期・後期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "アスト津 4階",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市羽所町700番地 アストプラザ",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "宝塚商工会議所",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県宝塚市栄町2-1-2 ソリオ2（6階）",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "神戸駅前研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区中町通2丁目3-1 SK HOTEL神戸駅前内",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "姫路商工会議所",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市下寺町43",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "BIZ SPACE 姫路",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市本町127番地 大手前ダイネンBLD.Ⅱ",
+    "dates": "",
+    "remarks": "公募推薦前期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "大和高田商工会議所 経済会館",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県大和高田市大中106-2",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "和歌山英数学館 2号館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市太田2-13-7",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "岡山商工会議所",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区厚生町3-1-15",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "岡山科学技術専門学校（昭和町校舎 1号館）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区昭和町8-10",
+    "dates": "2026/2/28",
+    "remarks": "一般中期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "岡山科学技術専門学校（昭和町校舎 2号館）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区昭和町8-10",
+    "dates": "",
+    "remarks": "公募推薦前期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "カンファレンス21",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区幟町14-11 ウイング八丁堀ビル4F",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "高松シティホテル",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市亀井町8-13",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "あわぎんホール",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市藍場町2-14（3階）",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "TKP博多駅筑紫口ビジネスセンター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街4-8 ユーコウビル8階",
+    "dates": "2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "一般前期A/B/C",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "三宮研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区八幡通4-2-12 カサベラFRⅡビル（神戸市役所東正面）",
+    "dates": "2026/2/28,2026/3/7",
+    "remarks": "一般中期・後期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "大阪産業大学",
+    "test_venue_name": "堺市産業振興センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府堺市北区長曽根町183-5",
+    "dates": "2026/2/28",
+    "remarks": "一般中期",
+    "source_url": "https://www.osaka-sandai.ac.jp/admission/place.html",
+    "requirements_url": ""
+  }
+]

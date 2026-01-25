@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府吹田市岸部南2丁目36番1号",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般前期2教科選択型",
+    "source_url": "https://www.ogu.ac.jp/admissions/admission/sokuho/ippan_zen_2.html",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf"
+  },
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 学外試験会場",
+    "source_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/admission/download/"
+  },
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "京都会場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 学外試験会場",
+    "source_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/admission/download/"
+  },
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "神戸会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 学外試験会場",
+    "source_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/admission/download/"
+  },
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "和歌山会場",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 学外試験会場",
+    "source_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/admission/download/"
+  },
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 学外試験会場",
+    "source_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/admission/download/"
+  },
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 学外試験会場",
+    "source_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/admission/download/"
+  },
+  {
+    "univ_name": "大阪学院大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 学外試験会場",
+    "source_url": "https://www.ogu.ac.jp/admissions/assets/files/admission/download/nyouko_ippan.pdf",
+    "requirements_url": "https://www.ogu.ac.jp/admissions/admission/download/"
+  }
+]

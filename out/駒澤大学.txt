@@ -1,0 +1,152 @@
+[
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "本学（駒沢キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都世田谷区駒沢1-23-1",
+    "dates": "2026/2/4,2026/2/5,2026/2/6,2026/2/7,2026/2/8,2026/3/7",
+    "remarks": "全学統一・T・S方式実施会場",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general_t/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "つくば会場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "高崎会場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "千葉会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  },
+  {
+    "univ_name": "駒澤大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "全学統一／医療健康T方式",
+    "source_url": "https://think.komazawa-u.ac.jp/admission/list/general-all/",
+    "requirements_url": "https://komazawa-u.backshelf.jp/bookview/?filseq=4976"
+  }
+]

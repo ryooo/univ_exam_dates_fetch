@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "新津キャンパス",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟市秋葉区東島265-1",
+    "dates": "2026/1/27,2026/3/4",
+    "remarks": "一般選抜 個別方式 前期/後期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/oc/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "長岡会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜 個別方式 前期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "上越会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜 個別方式 前期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "酒田会場",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜 個別方式 前期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "秋田会場",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜 個別方式 前期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜 個別方式 前期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜 個別方式 前期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "富山会場",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜 個別方式 前期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  },
+  {
+    "univ_name": "新潟薬科大学",
+    "test_venue_name": "大宮会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "",
+    "dates": "2026/1/27,2026/3/4",
+    "remarks": "一般選抜 個別方式 前期/後期",
+    "source_url": "https://www.nupals.ac.jp/n-navi/admission/ad_qa/",
+    "requirements_url": "https://www.nupals.ac.jp/n-navi/news/news-32544/"
+  }
+]

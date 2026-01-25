@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "相模女子大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県相模原市南区文京2-1-1",
+    "dates": "2026/1/24,2026/2/6,2026/2/18",
+    "remarks": "一般選抜A・B・C日程",
+    "source_url": "https://www.sagami-wu.ac.jp/exam/exam-info/admission-list/general/",
+    "requirements_url": "https://www.sagami-wu.ac.jp/media/2026_yoko_ippann_Re.pdf"
+  },
+  {
+    "univ_name": "相模女子大学",
+    "test_venue_name": "静岡会場（静岡学園なごみ高等学校）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区八幡1-1-1",
+    "dates": "2026/1/24",
+    "remarks": "一般選抜A日程 静岡会場",
+    "source_url": "https://www.sagami-wu.ac.jp/exam/exam-info/admission-list/general/",
+    "requirements_url": "https://www.sagami-wu.ac.jp/media/2026_yoko_ippann_Re.pdf"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "埼玉工業大学",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県深谷市普済寺1690",
+    "dates": "2025/12/13,2026/1/28,2026/1/29,2026/2/19,2026/3/11",
+    "remarks": "総合型・奨学生/一般A・B/3月入試",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "JA共済大宮ビル",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区土手町1-2",
+    "dates": "2025/12/13,2026/1/28,2026/1/29,2026/2/19",
+    "remarks": "総合型・奨学生/一般A・B",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "研究社英語センター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区神楽坂1-2",
+    "dates": "2026/1/28,2026/1/29,2026/2/19",
+    "remarks": "一般A・B日程",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "仙台ガーデンパレス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡4-1-5",
+    "dates": "2025/12/13,2026/1/29",
+    "remarks": "総合型・奨学生/一般A日程2日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "ヤマコーホール",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市香澄町3-2-1",
+    "dates": "2026/1/28",
+    "remarks": "一般A日程1日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "茨城県産業会館",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市桜川2-2-35",
+    "dates": "2026/1/28",
+    "remarks": "一般A日程1日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "小山商工会議所",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県小山市城東1-6-36",
+    "dates": "2026/1/28",
+    "remarks": "一般A日程1日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "高崎商工会議所",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市問屋町2-7-8",
+    "dates": "2026/1/28",
+    "remarks": "一般A日程1日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "松本商工会議所",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市中央1-23-1",
+    "dates": "2026/1/28",
+    "remarks": "一般A日程1日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "メディアシップ（日報ホール）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区万代3-1-1",
+    "dates": "2026/1/28",
+    "remarks": "一般A日程1日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "甲府商工会議所",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県甲府市相生2-2-17",
+    "dates": "2026/1/28",
+    "remarks": "一般A日程1日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "コラッセふくしま",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県福島市三河南町1-20",
+    "dates": "2026/1/29",
+    "remarks": "一般A日程2日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "ライトキューブ宇都宮",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市宮みらい1-20",
+    "dates": "2026/1/29",
+    "remarks": "一般A日程2日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "アクエル前橋",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県前橋市表町2-30-8",
+    "dates": "2026/1/29",
+    "remarks": "一般A日程2日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "JA長野県ビル",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市北石堂町1177-3",
+    "dates": "2026/1/29",
+    "remarks": "一般A日程2日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "静岡商工会議所会館",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区黒金町20-8",
+    "dates": "2026/1/29",
+    "remarks": "一般A日程2日目",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  },
+  {
+    "univ_name": "埼玉工業大学",
+    "test_venue_name": "ビエント高崎",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市問屋町2-7",
+    "dates": "2026/2/19",
+    "remarks": "一般B日程",
+    "source_url": "https://www.sit.ac.jp/entrance/nyushi/venue/",
+    "requirements_url": "https://www.sit.ac.jp/entrance/nyushi/ippan/"
+  }
+]

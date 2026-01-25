@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "四日市大学",
+    "test_venue_name": "本学会場（四日市大学）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県四日市市萱生町1200",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/2/19,2026/3/7",
+    "remarks": "一般A・B・C日程、留学生B日程",
+    "source_url": "https://www.yokkaichi-u.ac.jp/yokkaichi-info/archives/1679",
+    "requirements_url": "https://www.yokkaichi-u.ac.jp/admission/information/pdf/Youkou2026.pdf"
+  },
+  {
+    "univ_name": "四日市大学",
+    "test_venue_name": "名古屋会場（安保ホール）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅3-15-9",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.yokkaichi-u.ac.jp/yokkaichi-info/archives/1679",
+    "requirements_url": "https://www.yokkaichi-u.ac.jp/admission/information/pdf/Youkou2026.pdf"
+  },
+  {
+    "univ_name": "四日市大学",
+    "test_venue_name": "津会場（プラザ洞津）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市新町1-6-28",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.yokkaichi-u.ac.jp/yokkaichi-info/archives/1679",
+    "requirements_url": "https://www.yokkaichi-u.ac.jp/admission/information/pdf/Youkou2026.pdf"
+  }
+]

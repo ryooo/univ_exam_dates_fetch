@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "群馬パース大学",
+    "test_venue_name": "本学試験会場（高崎会場）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市問屋町1-7-1",
+    "dates": "2026/2/7,2026/3/7",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://www.paz.ac.jp/juken/admissions/admissions_venue.php",
+    "requirements_url": "https://www.paz.ac.jp/document_request/_pdf/2026boshuyoko.pdf"
+  },
+  {
+    "univ_name": "群馬パース大学",
+    "test_venue_name": "東京会場（ビジョンセンター品川アネックス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "〒108-0074 東京都港区高輪3-23-17 品川センタービルディング",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.paz.ac.jp/juken/admissions/admissions_venue.php",
+    "requirements_url": "https://www.paz.ac.jp/document_request/_pdf/2026boshuyoko.pdf"
+  },
+  {
+    "univ_name": "群馬パース大学",
+    "test_venue_name": "新潟会場（コープシティ花園GARESSO）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "〒950-0086 新潟県新潟市中央区花園1-2-2",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.paz.ac.jp/juken/admissions/admissions_venue.php",
+    "requirements_url": "https://www.paz.ac.jp/document_request/_pdf/2026boshuyoko.pdf"
+  },
+  {
+    "univ_name": "群馬パース大学",
+    "test_venue_name": "長野会場（JA長野県ビル・アクティーホール）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "〒380-0826 長野県長野市大字南長野北石堂町1177-3",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.paz.ac.jp/juken/admissions/admissions_venue.php",
+    "requirements_url": "https://www.paz.ac.jp/document_request/_pdf/2026boshuyoko.pdf"
+  },
+  {
+    "univ_name": "群馬パース大学",
+    "test_venue_name": "宇都宮会場（栃木県総合文化センター）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "〒320-8530 栃木県宇都宮市本町1-8",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.paz.ac.jp/juken/admissions/admissions_venue.php",
+    "requirements_url": "https://www.paz.ac.jp/document_request/_pdf/2026boshuyoko.pdf"
+  },
+  {
+    "univ_name": "群馬パース大学",
+    "test_venue_name": "仙台会場（TKP仙台西口ビジネスセンター）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "〒980-0014 宮城県仙台市青葉区本町1-5-31 シエロ仙台ビル",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.paz.ac.jp/juken/admissions/admissions_venue.php",
+    "requirements_url": "https://www.paz.ac.jp/document_request/_pdf/2026boshuyoko.pdf"
+  },
+  {
+    "univ_name": "群馬パース大学",
+    "test_venue_name": "富山会場（富山県民会館）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "〒930-0006 富山県富山市新総曲輪4-18",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.paz.ac.jp/juken/admissions/admissions_venue.php",
+    "requirements_url": "https://www.paz.ac.jp/document_request/_pdf/2026boshuyoko.pdf"
+  }
+]

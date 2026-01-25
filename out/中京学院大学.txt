@@ -1,0 +1,132 @@
+[
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "中津川キャンパス（本学会場）",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県中津川市千旦林1-104",
+    "dates": "2026/1/31,2026/2/1,2026/2/21,2026/3/9",
+    "remarks": "一般前期・中期・後期,共テプラス",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "瑞浪キャンパス（本学会場）",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県瑞浪市土岐町2216",
+    "dates": "2026/1/31,2026/2/1,2026/2/21,2026/3/9",
+    "remarks": "一般前期・中期・後期,共テプラス",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1,2026/2/21",
+    "remarks": "一般選抜（地方会場）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "飯田会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜（地方会場）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜（地方会場）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "富山会場",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜（地方会場）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "京都会場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/1/31,2026/2/1",
+    "remarks": "一般前期・推薦（地方）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "山口会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/1/31,2026/2/1",
+    "remarks": "一般前期・推薦（地方）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "博多会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/1/31,2026/2/1",
+    "remarks": "一般前期・推薦（地方）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "那覇会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/1/31,2026/2/1",
+    "remarks": "一般前期・推薦（地方）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2025/11/15",
+    "remarks": "学校推薦型選抜（地方）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/suisen/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2025/11/15",
+    "remarks": "学校推薦型選抜（地方）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/suisen/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中京学院大学",
+    "test_venue_name": "名古屋会場（イオンコンパス名古屋駅前・桜通口会議室）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅3-25-3 大橋ビルディング4階",
+    "dates": "2025/8/23,2025/10/11,2025/12/20,2026/1/31",
+    "remarks": "留学生選抜（地方会場）",
+    "source_url": "https://secondhome.chukyogakuin-u.ac.jp/admissions/international/",
+    "requirements_url": "https://secondhome.chukyogakuin-u.ac.jp/media/youkou-foreign-2026.pdf"
+  }
+]

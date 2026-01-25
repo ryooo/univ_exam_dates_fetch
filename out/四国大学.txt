@@ -1,0 +1,192 @@
+[
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "四国大学（本学キャンパス）",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市応神町古川字戎子野123-1",
+    "dates": "2025/11/23,2026/2/1,2026/2/14,2026/3/4",
+    "remarks": "推薦・一般Ⅰ〜Ⅲ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "阿南市商工業振興センター",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県阿南市富岡町今福寺34-4",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "三好教育センター（三好教育研究所）",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県三好市池田町マチ2215",
+    "dates": "2025/11/23,2026/2/1",
+    "remarks": "推薦・一般Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "アルカディア市ヶ谷（私学会館）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区九段北4-2-25",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "ハートンホテル北梅田",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区豊崎3-12-10",
+    "dates": "2025/11/23,2026/2/1",
+    "remarks": "推薦・一般Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "米子ワシントンホテルプラザ",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県米子市明治町125",
+    "dates": "2025/11/23,2026/2/1",
+    "remarks": "推薦・一般Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "ピュアリティまきび",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区下石井2-6-41",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "RCC文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区橋本町5-11",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "広島ガーデンパレス",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市東区光町1-15-21",
+    "dates": "2025/11/23",
+    "remarks": "推薦入試",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "高松センタービル",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2025/11/23,2026/2/1",
+    "remarks": "推薦・一般Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "TKP松山市駅前カンファレンスセンター（青野ビル）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市千舟町4-3-7 青野ビル",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "ホテルアイスル松山",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市宮田町391-8",
+    "dates": "2025/11/23",
+    "remarks": "推薦入試",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "リーガロイヤルホテル新居浜",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県新居浜市前田町6-9",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "宇和島第一ホテル",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県宇和島市中央町1-3-9",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "高知会館",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市本町5-6-42",
+    "dates": "2025/11/23,2026/2/1",
+    "remarks": "推薦・一般Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "福岡朝日ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前2-1-1",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "東横イン那覇旭橋駅前",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市久米2-1-20",
+    "dates": "2026/2/1",
+    "remarks": "一般入試Ⅰ期",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "ロイヤルガーデンホテル（阿南）",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県阿南市富岡町あ王谷52-2",
+    "dates": "2025/11/23",
+    "remarks": "推薦入試",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  },
+  {
+    "univ_name": "四国大学",
+    "test_venue_name": "沖縄県市町村自治会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市旭町116-37",
+    "dates": "2025/11/23",
+    "remarks": "推薦入試",
+    "source_url": "https://juken.shikoku-u.ac.jp/admissions/info/place/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542000-3-192"
+  }
+]

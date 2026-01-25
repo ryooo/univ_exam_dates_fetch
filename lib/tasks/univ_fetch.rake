@@ -88,7 +88,7 @@ namespace :univ do
 
       # ファイルが既に存在する場合はスキップ
       if File.exist?(output_path)
-        puts "  -> Skipped (file already exists): #{output_path}"
+        puts "#{Time.current}  -> Skipped (file already exists): #{output_path}"
         next
       end
 
@@ -148,7 +148,7 @@ namespace :univ do
         # 結果をファイルに出力
         File.write(output_path, pretty_json)
 
-        puts "  -> Saved to: #{output_path}"
+        puts "#{Time.current}  -> Saved to: #{output_path}"
 
       rescue => e
         puts "  -> Error: #{e.message}"

@@ -1,0 +1,142 @@
+[
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "広島修道大学（本学）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市安佐南区大塚東1-1-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/3/9",
+    "remarks": "一般選抜前期A/B/C・後期",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "広島県立ふくやま産業交流館（ビッグ・ローズ）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市御幸町上岩成正戸476-5",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "三次市民ホール きりり",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県三次市三次町111-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "三原シティホテル",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県三原市城町2-2-2",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C（人数制限有）",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "KDDI維新ホール",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡令和1-1-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "周南地域地場産業振興センター",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県周南市鼓海2-118-24",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "岡山コンベンションセンター",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区駅元町14-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "島根県民会館",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市殿町158",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "いわみーる",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県浜田市野原町1826-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "松山市総合コミュニティセンター 企画展示ホール",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市湊町7-5",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "今治地域地場産業振興センター（じばさんセンター）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県今治市旭町2-3-5",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "サンポートホール高松",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市サンポート2-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "博多バスターミナル 9階",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街2-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島修道大学",
+    "test_venue_name": "毎日西部会館（（株）毎日ビルディング）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉北区紺屋町13-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜前期A/B/C",
+    "source_url": "https://www.shudo-u.ac.jp/admissions/exam/lg12iq000000022z-att/sikenjou.pdf",
+    "requirements_url": ""
+  }
+]

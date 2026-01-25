@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "清泉女子大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都品川区東五反田3-16-21",
+    "dates": "2026/1/29,2026/2/15,2026/2/28",
+    "remarks": "一般選抜A・B・後期日程",
+    "source_url": "https://www.seisen-u.ac.jp/admissions/general_kyotsu/ippan.html",
+    "requirements_url": "https://www.seisen-u.ac.jp/albums/abm.php?d=1450&f=abm00011896.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%B8%80%E8%88%AC%E5%85%A5%E8%A9%A6%E3%83%BB%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88%E5%88%A9%E7%94%A8%E5%85%A5%E8%A9%A6%E8%A6%81%E9%A0%85.pdf"
+  }
+]

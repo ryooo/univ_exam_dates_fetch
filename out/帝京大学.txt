@@ -1,0 +1,272 @@
+[
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "板橋試験場（帝京大学 板橋キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都板橋区加賀2-11-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/21,2026/2/22",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "八王子試験場（帝京大学 八王子キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都八王子市大塚359",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/21,2026/2/22",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "宇都宮試験場（帝京大学 宇都宮キャンパス）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市豊郷台1-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/21,2026/2/22",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "大牟田試験場（帝京大学 福岡キャンパス）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県大牟田市岬町6-22",
+    "dates": "",
+    "remarks": "福岡キャンパス試験場",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "博多試験場（TKPガーデンシティ博多）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-4-8",
+    "dates": "",
+    "remarks": "福岡会場（詳細は案内参照）",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "博多第2試験場（TKPカンファレンスシティ博多）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-19-5",
+    "dates": "",
+    "remarks": "総合型選抜Ⅰ期（福岡医療技術）",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "博多第3試験場（TKP博多口カンファレンスセンター）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前2-1-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜Ⅰ期（福岡医療技術）",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "札幌試験場（TKP札幌カンファレンスセンター）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北7条西2-9",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "奨学特待生・一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "仙台試験場（TKPガーデンシティPREMIUM仙台西口）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区花京院1-2-15",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "奨学特待生・一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "水戸試験場（水戸三の丸ホテル）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸2-1-1",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "総合型Ⅰ・奨学特待・一般Ⅰ",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "高崎試験場（ホテルグランビュー高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市柳川町70",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "総合型Ⅰ・一般Ⅰ",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "高崎試験場（エテルナ高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市栄町22-30",
+    "dates": "2025/12/13",
+    "remarks": "奨学特待生選抜",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "千葉試験場（TKP千葉駅東口ビジネスセンター）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市中央区新町1-20",
+    "dates": "2025/12/13",
+    "remarks": "奨学特待生選抜",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "千葉試験場（TKPガーデンシティ千葉）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市中央区問屋町1-45",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "柏試験場（柏の葉カンファレンスセンター）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県柏市若柴178-4",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "横浜試験場（TKPガーデンシティPREMIUMみなとみらい）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区みなとみらい3-6-3",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "奨学特待生・一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "新潟試験場（ホテルオークラ新潟）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区川端町6-53",
+    "dates": "2025/12/13",
+    "remarks": "総合型Ⅰ・奨学特待",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "新潟試験場（新潟・万代シルバーホテル）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区万代1-3-30",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "甲府試験場（帝京山梨看護専門学校）",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県甲府市北口2-15-4",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "総合型Ⅰ・奨学特待・一般Ⅰ",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "長野試験場（シャトレーゼホテル長野）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市七瀬1-1",
+    "dates": "",
+    "remarks": "総合型選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "長野試験場（長野ターミナル会館）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市中御所岡田町178-2",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "奨学特待生・一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "静岡試験場（クーポール会館）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区紺屋町2-2",
+    "dates": "2025/12/13",
+    "remarks": "総合型Ⅰ・奨学特待",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "静岡試験場（ホテルグランヒルズ静岡）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区南町18-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "名古屋試験場（TKPガーデンシティPREMIUM名古屋新幹線口）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区椿町1-16",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/5017/5496/5079/02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "大阪試験場（TKPガーデンシティ大阪梅田）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島5-4-21",
+    "dates": "",
+    "remarks": "総合型選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "大阪試験場（TKPガーデンシティ新大阪）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市淀川区宮原4-1-4",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "奨学特待生・一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  },
+  {
+    "univ_name": "帝京大学",
+    "test_venue_name": "熊本試験場（TKPガーデンシティネストホテル熊本）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区辛島町4-39",
+    "dates": "2025/12/13,2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "奨学特待生・一般選抜Ⅰ期",
+    "source_url": "https://www.teikyo-u.ac.jp/applicants/place",
+    "requirements_url": "https://www.teikyo-u.ac.jp/application/files/4217/5366/1397/01_2026.pdf"
+  }
+]

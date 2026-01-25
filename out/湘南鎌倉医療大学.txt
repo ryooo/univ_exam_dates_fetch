@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "湘南鎌倉医療大学",
+    "test_venue_name": "本学会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県鎌倉市山崎1195-3",
+    "dates": "2025/10/12,2025/11/16,2026/1/22,2026/2/23",
+    "remarks": "総合型・推薦・一般（Ⅰ・Ⅱ）",
+    "source_url": "https://www.sku.ac.jp/admissions/gakubu_exam/",
+    "requirements_url": "https://www.sku.ac.jp/wp-content/uploads/2025/11/20251104_%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85A4.pdf"
+  },
+  {
+    "univ_name": "湘南鎌倉医療大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/22",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://search.keinet.ne.jp/2342/general/schedule",
+    "requirements_url": "https://www.sku.ac.jp/wp-content/uploads/2025/11/20251104_%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85A4.pdf"
+  }
+]

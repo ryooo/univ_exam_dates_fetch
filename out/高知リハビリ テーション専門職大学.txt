@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "高知リハビリテーション専門職大学",
+    "test_venue_name": "高知リハビリテーション専門職大学（本会場）",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県土佐市高岡町乙1139-3",
+    "dates": "2025/10/18,2025/11/16,2025/12/14,2026/2/1,2026/2/25,2026/3/19",
+    "remarks": "学校推薦・総合・社会人・一般A・B",
+    "source_url": "https://kpur.ac.jp/admission/schedule/",
+    "requirements_url": "https://kpur.ac.jp/wp/wp-content/uploads/2025/06/2026_07ippan.pdf"
+  },
+  {
+    "univ_name": "高知リハビリテーション専門職大学",
+    "test_venue_name": "徳島県教育会館（徳島会場）",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市北田宮1-8-68",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://kpur.ac.jp/admission/schedule/",
+    "requirements_url": "https://kpur.ac.jp/wp/wp-content/uploads/2025/06/2026_07ippan.pdf"
+  },
+  {
+    "univ_name": "高知リハビリテーション専門職大学",
+    "test_venue_name": "愛媛県県民文化会館 別館（愛媛会場）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市道後町2-9-14",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://kpur.ac.jp/admission/schedule/",
+    "requirements_url": "https://kpur.ac.jp/wp/wp-content/uploads/2025/06/2026_07ippan.pdf"
+  },
+  {
+    "univ_name": "高知リハビリテーション専門職大学",
+    "test_venue_name": "KANEMITSU CAPITAL HOTEL（香川会場）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市中野町23-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://kpur.ac.jp/admission/schedule/",
+    "requirements_url": "https://kpur.ac.jp/wp/wp-content/uploads/2025/06/2026_07ippan.pdf"
+  }
+]

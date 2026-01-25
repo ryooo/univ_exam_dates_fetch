@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "三育学院大学",
+    "test_venue_name": "三育学院大学 東京校舎",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都杉並区天沼3-17-15",
+    "dates": "2025/10/19,2025/11/23,2025/12/14,2026/2/1,2026/2/22,2026/3/15",
+    "remarks": "総合型・推薦・一般選抜の会場",
+    "source_url": "https://www.saniku.ac.jp/admissions/adm_about.html",
+    "requirements_url": "https://www.saniku.ac.jp/admissions/files/2026applicationbook_03.pdf"
+  },
+  {
+    "univ_name": "三育学院大学",
+    "test_venue_name": "三育学院大学 大多喜キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県夷隅郡大多喜町久我原1500",
+    "dates": "2025/11/23,2026/2/1",
+    "remarks": "推薦・総合型Ⅱ期・一般Ⅰ期の会場",
+    "source_url": "https://www.saniku.ac.jp/admissions/adm_about.html",
+    "requirements_url": "https://www.saniku.ac.jp/admissions/files/2026applicationbook_03.pdf"
+  },
+  {
+    "univ_name": "三育学院大学",
+    "test_venue_name": "沖縄会場（アドベンチストメディカルセンター）",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県中頭郡西原町幸地868",
+    "dates": "2025/11/23,2026/2/1,2026/2/22,2026/3/15",
+    "remarks": "総合型Ⅱ・Ⅳ期、推薦、公募、一般",
+    "source_url": "https://www.saniku.ac.jp/admissions/adm_about.html",
+    "requirements_url": "https://www.saniku.ac.jp/admissions/files/2026applicationbook_03.pdf"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "岡崎キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県岡崎市本宿町上三本松6-2",
+    "dates": "2025/12/7,2026/2/2,2026/2/6,2026/2/23,2026/3/10,2026/3/24",
+    "remarks": "特別奨学生・一般入試I〜IV期",
+    "source_url": "https://www.uhe.ac.jp/info/enex/251003002145.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/outline/index.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "大府キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県大府市江端町3-220",
+    "dates": "2025/12/7,2026/2/2,2026/2/6,2026/2/23,2026/3/10,2026/3/24",
+    "remarks": "特別奨学生・一般入試I〜IV期",
+    "source_url": "https://www.uhe.ac.jp/other/rinchi.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/outline/index.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "松山道後キャンパス",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市道後樋又9-12",
+    "dates": "2025/12/7,2026/2/2,2026/2/6,2026/2/23,2026/3/10,2026/3/24",
+    "remarks": "特別奨学生・一般入試I〜IV期",
+    "source_url": "https://www.uhe.ac.jp/info/enex/250130001992.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/outline/index.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般入試I期",
+    "source_url": "https://www.uhe.ac.jp/exam/outline/index.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/webentry_exp.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般入試I期",
+    "source_url": "https://www.uhe.ac.jp/exam/outline/index.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/webentry_exp.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2025/12/7,2026/2/2",
+    "remarks": "特別奨学生・一般I期",
+    "source_url": "https://www.uhe.ac.jp/exam/outline/index.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/webentry_exp.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "高知会場",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "",
+    "dates": "2025/12/7,2026/2/2",
+    "remarks": "特別奨学生・一般I期",
+    "source_url": "https://www.uhe.ac.jp/exam/outline/index.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/webentry_exp.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2025/12/7,2026/2/2",
+    "remarks": "特別奨学生・一般I期",
+    "source_url": "https://www.uhe.ac.jp/exam/outline/index.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/webentry_exp.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "沖縄会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2025/10/4,2025/12/7",
+    "remarks": "特別奨学生・沖縄県地域AO",
+    "source_url": "https://www.uhe.ac.jp/exam/outline/index.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/webentry_exp.html"
+  },
+  {
+    "univ_name": "人間環境大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2025/12/7",
+    "remarks": "特別奨学生選抜",
+    "source_url": "https://www.uhe.ac.jp/exam/outline/index.html",
+    "requirements_url": "https://www.uhe.ac.jp/exam/webentry_exp.html"
+  }
+]

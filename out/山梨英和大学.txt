@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "山梨英和大学",
+    "test_venue_name": "山梨英和大学（本学）",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県甲府市横根町888",
+    "dates": "2025/10/11,2025/11/15,2025/12/13,2026/1/17,2026/1/18,2026/2/5,2026/2/19,2026/3/19",
+    "remarks": "全入試の本学会場（共テ含む）",
+    "source_url": "https://www.yamanashi-eiwa.ac.jp/post-161714/",
+    "requirements_url": "https://www.yamanashi-eiwa.ac.jp/navi/adinfo/ippan/"
+  }
+]

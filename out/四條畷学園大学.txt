@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "四條畷学園大学",
+    "test_venue_name": "北条キャンパス（リハビリテーション学舎）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大東市北条5丁目11番10号",
+    "dates": "2026/1/25,2026/2/22",
+    "remarks": "一般選抜A・B日程（リハビリ）",
+    "source_url": "https://un.shijonawate-gakuen.ac.jp/ouen/examination/kango/schedule/",
+    "requirements_url": "https://un.shijonawate-gakuen.ac.jp/ouen/examination/file/guidelines_2026.pdf"
+  },
+  {
+    "univ_name": "四條畷学園大学",
+    "test_venue_name": "学園町キャンパス（看護学舎）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大東市学園町6番45号",
+    "dates": "2026/1/25,2026/2/22",
+    "remarks": "一般選抜A・B日程（看護）",
+    "source_url": "https://un.shijonawate-gakuen.ac.jp/ouen/examination/kango/schedule/",
+    "requirements_url": "https://un.shijonawate-gakuen.ac.jp/ouen/examination/file/guidelines_2026.pdf"
+  }
+]

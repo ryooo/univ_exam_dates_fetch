@@ -1,0 +1,142 @@
+[
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "豊洲キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都江東区豊洲3-7-5",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/2/21",
+    "remarks": "一般選抜（前期・後期一部）",
+    "source_url": "https://www.shibaura-it.ac.jp/examinee/undergraduate/exam_special/procedures/support.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "大宮キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市見沼区深作307",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/2/21",
+    "remarks": "一般選抜（前期・後期一部）",
+    "source_url": "https://www.shibaura-it.ac.jp/examinee/undergraduate/exam_special/procedures/support.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "北海道会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "宮城県会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "茨城県会場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "群馬県会場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "千葉県会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "神奈川県会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "静岡県会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "石川県会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "愛知県会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "岡山県会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "福岡県会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  },
+  {
+    "univ_name": "芝浦工業大学",
+    "test_venue_name": "沖縄県会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜（前期/全学統一）",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3251/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.entryexam.shibaura-it.ac.jp/entrance_examination_2026/"
+  }
+]

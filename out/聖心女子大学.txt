@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "聖心女子大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区広尾4-3-1",
+    "dates": "2025/10/26,2025/11/29,2025/12/14,2026/2/1,2026/2/2,2026/2/16,2026/3/12",
+    "remarks": "AO/探究/英外/一般3教科/総合小論",
+    "source_url": "https://www.u-sacred-heart.ac.jp/examination/depart/experiment/general-a/",
+    "requirements_url": "https://www.u-sacred-heart.ac.jp/assets/images/examination/depart/experiment/general-a/main4-09.pdf"
+  }
+]

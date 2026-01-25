@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "清和大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県木更津市東太田3丁目4-5",
+    "dates": "2026/2/3,2026/3/12",
+    "remarks": "一般選抜 I期・II期",
+    "source_url": "https://search.keinet.ne.jp/2190/general/schedule",
+    "requirements_url": "https://www.seiwa-univ.ac.jp/exam/exam_04.html"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "長岡崇徳大学",
+    "test_venue_name": "長岡崇徳大学",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県長岡市深沢町2278番地8",
+    "dates": "2025/10/4,2025/10/25,2025/11/22,2025/12/20,2026/2/8,2026/3/7,2026/3/14",
+    "remarks": "全選抜の試験会場（共テ利用除く）",
+    "source_url": "https://sutoku-u.ac.jp/entranceexam/essentialpoint/",
+    "requirements_url": "https://sutoku-u.ac.jp/cms/wp-content/uploads/2025/07/26-002.jpg"
+  }
+]

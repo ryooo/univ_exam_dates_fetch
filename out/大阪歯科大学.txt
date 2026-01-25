@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "大阪歯科大学",
+    "test_venue_name": "大阪（楠葉）会場（大阪歯科大学 楠葉学舎）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府枚方市楠葉花園町8-1",
+    "dates": "2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜 前期/全学部日程/後期",
+    "source_url": "https://www.osaka-dent.ac.jp/access.html",
+    "requirements_url": "https://www.osaka-dent.ac.jp/admission/td4sin000000058a-att/dent_2026admission_guidelines02.pdf"
+  },
+  {
+    "univ_name": "大阪歯科大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜 前期/全学部日程/後期",
+    "source_url": "https://www.osaka-dent.ac.jp/admission/dent_admission.html",
+    "requirements_url": "https://www.osaka-dent.ac.jp/admission/td4sin000000058a-att/dent_2026admission_guidelines02.pdf"
+  },
+  {
+    "univ_name": "大阪歯科大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://www.osaka-dent.ac.jp/admission/dent_admission.html",
+    "requirements_url": "https://www.osaka-dent.ac.jp/admission/td4sin000000058a-att/dent_2026admission_guidelines02.pdf"
+  },
+  {
+    "univ_name": "大阪歯科大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://www.osaka-dent.ac.jp/admission/dent_admission.html",
+    "requirements_url": "https://www.osaka-dent.ac.jp/admission/td4sin000000058a-att/dent_2026admission_guidelines02.pdf"
+  },
+  {
+    "univ_name": "大阪歯科大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/3/3",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://www.osaka-dent.ac.jp/admission/dent_admission.html",
+    "requirements_url": "https://www.osaka-dent.ac.jp/admission/td4sin000000058a-att/dent_2026admission_guidelines02.pdf"
+  }
+]

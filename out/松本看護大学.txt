@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "松本看護大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市笹賀3118（〒399-0033）",
+    "dates": "2025/10/18,2025/11/15,2025/12/13,2026/2/7,2026/2/28,2026/3/9",
+    "remarks": "全選抜の試験場は本学のみ",
+    "source_url": "https://www.mcon.ac.jp/admissions/",
+    "requirements_url": "https://www.mcon.ac.jp/wp/wp-content/themes/kango2025/img/admissions/2025/guideline.pdf"
+  }
+]

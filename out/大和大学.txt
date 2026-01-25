@@ -1,0 +1,322 @@
+[
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "大和大学 大阪吹田キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府吹田市片山町2-5-1",
+    "dates": "2025/11/15,2026/1/27,2026/1/28,2026/1/29,2026/2/15,2026/2/16,2026/3/2",
+    "remarks": "公募,一般前期A(1/27-29),前期B,後期",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "駿台予備学校 札幌校",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北6条西6丁目1-7",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "駿台予備学校 仙台校",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡1-5-11",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "駿台予備学校 お茶の水校２号館",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田駿河台2-1",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "富山育英センター 富山本部校（中学部）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新桜町2-18",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "金沢商工会議所",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市尾山町9番13号",
+    "dates": "2025/11/15,2026/1/27,2026/1/28",
+    "remarks": "公募(11/15),一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "福井商工会議所",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市西木田2-8-1",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "秀英予備校 浜松本部校",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区連尺町309番地11",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "秀英予備校 名古屋本部校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3丁目23番12号",
+    "dates": "2025/11/15,2026/1/27,2026/1/28",
+    "remarks": "公募(11/15),一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "HOTEL 津 Center Palace",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市大門7-15",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "キラリエ草津（草津市民総合交流センター）",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "滋賀県草津市大路2丁目1番35号",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "駿台予備学校 現役フロンティア京都駅前校",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市南区東九条上殿田町43",
+    "dates": "2025/11/15",
+    "remarks": "公募(11/15)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "市民交流プラザふくちやま",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府福知山市駅前町400番地",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "姫路商工会議所",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市下寺町43",
+    "dates": "2025/11/15,2026/1/27,2026/1/28",
+    "remarks": "公募(11/15),一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "大和大学 白鳳短期大学部キャンパス",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県北葛城郡王寺町葛下1-7-17",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "和歌山英数学館本館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市太田2-13-12",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "松江テレサ（松江勤労者総合福祉センター）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市朝日町478-18",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "岡山進研学院 2号館・3号館",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2丁目10-27",
+    "dates": "2025/11/15,2026/1/27",
+    "remarks": "公募(11/15),一般前期A(1/27)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "第一セントラルビル１号館",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区本町6-36",
+    "dates": "2026/1/28",
+    "remarks": "一般前期A(1/28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "広島コンベンションホール",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市東区二葉の里3丁目5番4号 広テレビル",
+    "dates": "2025/11/15",
+    "remarks": "公募(11/15)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "エールエールA館（６階会議室）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市南区松原町9-1",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "北九州予備校 山口校",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市新山口駅新幹線口",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "TEC予備校 八百屋町校",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市八百屋町3丁目15番地 サンコーポ徳島ビル",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "高松高等予備校 本校・２号館",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市観光町547-1",
+    "dates": "2025/11/15,2026/1/27,2026/1/28",
+    "remarks": "公募(11/15),一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "えひめ共済会館",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市三番町5丁目13-1",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "土佐塾予備校 本館",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市はりまや町3-7-8",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "北九州予備校 小倉駅校",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉駅新幹線口",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "北九州予備校 博多駅校",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前1-21-4",
+    "dates": "2025/11/15,2026/1/27,2026/1/28",
+    "remarks": "公募(11/15),一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "北九州予備校 熊本校",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市JR熊本駅白川口正面",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "北九州予備校 大分校",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市金池町2-7",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "北九州予備校 鹿児島校",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市西田1-7-3",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  },
+  {
+    "univ_name": "大和大学",
+    "test_venue_name": "北九州予備校 沖縄校",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市安里102",
+    "dates": "2026/1/27,2026/1/28",
+    "remarks": "一般前期A(1/27-28)",
+    "source_url": "https://www.yamato-u.ac.jp/entrance/exam/place/",
+    "requirements_url": "https://www.yamato-u.ac.jp/assets/pdf/entrance/ee.pdf"
+  }
+]

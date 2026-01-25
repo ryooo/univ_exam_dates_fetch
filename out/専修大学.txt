@@ -1,0 +1,242 @@
+[
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "TKPガーデンシティ札幌駅前",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北2条西2-19 アパホテル〈TKP札幌駅前〉内 TKP札幌ビル 2〜5階",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "東北福祉大学 仙台駅東口キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡2-5-26",
+    "dates": "2026/2/2",
+    "remarks": "スカラシップ・全国入試",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "駿優予備学校 郡山校",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市駅前1-12-6",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "水戸駿優予備学校 本部校舎（駿優教育会館）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "TKP宇都宮カンファレンスセンター",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市駅前通り1-3-1 KDX宇都宮ビル B1階",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "Gメッセ群馬",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市岩押町12-24",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "JA共済埼玉ビル",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区土手町1-2",
+    "dates": "2026/2/10,2026/2/13",
+    "remarks": "前期 学部個別",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "千葉工業大学 津田沼キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県習志野市津田沼2-17-1",
+    "dates": "2026/2/10",
+    "remarks": "前期 学部個別",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "ビジョンセンター横浜（西口）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区北幸2-5-15 プレミア横浜西口ビル 2F〜4F",
+    "dates": "2026/2/9,2026/2/10,2026/2/13",
+    "remarks": "前期 全学部/学部個別",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "朱鷺メッセ 新潟コンベンションセンター",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区万代島6-1",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "ホテル金沢",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市堀川新町1-1",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "秀英予備学校 山梨本部校",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県甲府市丸の内2-15-12",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "ホテル信濃路",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市中御所岡田町131-4",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "JA長野県ビル アクティーホール",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市南長野北石堂町1177-3",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "グランシップ（静岡県コンベンションアーツセンター）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区東静岡2-3-1",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "静岡学園 なごみ高等学校",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区八幡1-1-1",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "imy会議室",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市東区葵3-7-14",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "TKP名古屋駅前カンファレンスセンター",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅2-41-5 CK20名駅前ビル 5〜6階・8階",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "新梅田研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島6-22-20",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "広島国際会議場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区中島町1-5",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "TKPカンファレンスシティ博多",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-19-5 博多石川ビル1階",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "沖縄県市町村自治会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市旭町116-37",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "専修大学 神田キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田神保町3-8",
+    "dates": "2026/2/10,2026/2/13",
+    "remarks": "前期 学部個別ほか",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  },
+  {
+    "univ_name": "専修大学",
+    "test_venue_name": "専修大学 生田キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県川崎市多摩区東三田2-1-1",
+    "dates": "2026/2/13",
+    "remarks": "E方式等 一部方式限定",
+    "source_url": "https://www.senshu-u.ac.jp/admission/place.html",
+    "requirements_url": "https://www.senshu-u.ac.jp/admission/shikenseido/nyushiyokodl.html"
+  }
+]

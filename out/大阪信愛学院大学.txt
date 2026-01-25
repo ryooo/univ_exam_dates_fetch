@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "大阪信愛学院大学",
+    "test_venue_name": "本学（大学1号館・城東学舎）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市城東区古市2-7-30",
+    "dates": "2025/9/28,2025/10/18,2025/10/25,2025/11/8,2025/12/14,2026/1/28,2026/2/14,2026/3/7",
+    "remarks": "一般/公募推薦/総合/特別/編入",
+    "source_url": "https://www.osgu.ac.jp/admissions/guidelines/ippan_early/",
+    "requirements_url": "https://www.osgu.ac.jp/admissions/outline/"
+  }
+]

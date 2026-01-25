@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "四日市看護医療大学",
+    "test_venue_name": "本学（四日市看護医療大学）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県四日市市萱生町1200",
+    "dates": "2026/1/29,2026/1/30,2026/3/6",
+    "remarks": "一般選抜A日程・B日程・後期",
+    "source_url": "https://www.y-nm.ac.jp/jyukensei/nursing/examination/exam-general/",
+    "requirements_url": "https://www.y-nm.ac.jp/jyukensei/wp-content/themes/y-nm-exam/assets/digital_book/recruitment_2026/"
+  },
+  {
+    "univ_name": "四日市看護医療大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.y-nm.ac.jp/jyukensei/nursing/examination/exam-general/",
+    "requirements_url": "https://www.y-nm.ac.jp/jyukensei/wp-content/themes/y-nm-exam/assets/digital_book/recruitment_2026/"
+  },
+  {
+    "univ_name": "四日市看護医療大学",
+    "test_venue_name": "松本会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.y-nm.ac.jp/jyukensei/nursing/examination/exam-general/",
+    "requirements_url": "https://www.y-nm.ac.jp/jyukensei/wp-content/themes/y-nm-exam/assets/digital_book/recruitment_2026/"
+  },
+  {
+    "univ_name": "四日市看護医療大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/3/6",
+    "remarks": "一般選抜A日程・後期",
+    "source_url": "https://www.y-nm.ac.jp/jyukensei/nursing/examination/exam-general/",
+    "requirements_url": "https://www.y-nm.ac.jp/jyukensei/wp-content/themes/y-nm-exam/assets/digital_book/recruitment_2026/"
+  },
+  {
+    "univ_name": "四日市看護医療大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/1/30,2026/3/6",
+    "remarks": "一般選抜A日程・B日程・後期",
+    "source_url": "https://www.y-nm.ac.jp/jyukensei/nursing/examination/exam-general/",
+    "requirements_url": "https://www.y-nm.ac.jp/jyukensei/wp-content/themes/y-nm-exam/assets/digital_book/recruitment_2026/"
+  },
+  {
+    "univ_name": "四日市看護医療大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.y-nm.ac.jp/jyukensei/nursing/examination/exam-general/",
+    "requirements_url": "https://www.y-nm.ac.jp/jyukensei/wp-content/themes/y-nm-exam/assets/digital_book/recruitment_2026/"
+  }
+]

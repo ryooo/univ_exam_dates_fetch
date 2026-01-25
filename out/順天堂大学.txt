@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "本郷・お茶の水キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都文京区本郷2-1-1",
+    "dates": "2025/10/18,2025/11/15,2026/2/2,2026/2/5,2026/2/13,2026/2/14,2026/2/15,2026/2/16,2026/3/2,2026/3/3,2026/3/5",
+    "remarks": "国際教養前期/中期/後期・医学部二次",
+    "source_url": "https://www.juntendo.ac.jp/admission/exam/nyushi/ila/ippan/chuki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "ベルサール高田馬場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区大久保3-8-2 住友不動産新宿ガーデンタワーB2・1F",
+    "dates": "2026/2/2,2026/2/5",
+    "remarks": "保健医療一般A/B日程",
+    "source_url": "https://www.juntendo.ac.jp/admission/exam/nyushi/hs/ippan/index.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "ベルサール東京日本橋",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区日本橋2-7-1 東京日本橋タワーB2・4F・5F",
+    "dates": "2026/2/2",
+    "remarks": "医療看護一般A日程一次",
+    "source_url": "https://www.juntendo.ac.jp/admission/exam/nyushi/hsn/examinfo/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "三島キャンパス",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県三島市大宮町3-7-33",
+    "dates": "2025/10/4,2025/11/15,2025/11/16,2026/2/2,2026/2/5,2026/2/13,2026/2/14,2026/2/26",
+    "remarks": "保健看護AO/推薦/一般A/B/共テ二次",
+    "source_url": "https://www.juntendo.ac.jp/admission/exam/nyushi/hsn/examinfo/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "浦安キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県浦安市高洲2-5-1",
+    "dates": "2026/2/12,2026/2/13,2026/2/21",
+    "remarks": "医療看護一般二次",
+    "source_url": "https://www.juntendo.ac.jp/admission/exam/nyushi/nurs/outline/index.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "浦安・日の出キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県浦安市日の出6-8-1",
+    "dates": "2025/10/18,2025/11/22,2026/2/2,2026/2/5",
+    "remarks": "薬学部総合型/推薦/一般A/B",
+    "source_url": "https://www.juntendo.ac.jp/admission/exam/nyushi/pha/outline/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "幕張メッセ",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市美浜区中瀬2-1",
+    "dates": "2026/2/3",
+    "remarks": "薬学S日程・医学部一次",
+    "source_url": "https://www.juntendo.ac.jp/admission/exam/nyushi/pha/outline/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "順天堂大学",
+    "test_venue_name": "さくらキャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県印西市平賀学園台1-1",
+    "dates": "",
+    "remarks": "スポ健各種選抜会場",
+    "source_url": "https://www.juntendo.ac.jp/access/index.html",
+    "requirements_url": "https://www.juntendo.ac.jp/assets/2026-HSS_Rev1.0.pdf"
+  }
+]

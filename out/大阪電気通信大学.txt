@@ -1,0 +1,112 @@
+[
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "本学（寝屋川キャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府寝屋川市初町18-8",
+    "dates": "2026/1/31,2026/2/1,2026/2/21,2026/3/9",
+    "remarks": "一般A/B/中期/後期・特別入試",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "京都会場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般前期A/B・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "神戸会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般前期A/B・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "姫路会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般前期A/B・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "和歌山会場",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般前期A/B・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "津会場",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般前期A・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般前期A・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般前期A・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般前期B",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般前期B・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  },
+  {
+    "univ_name": "大阪電気通信大学",
+    "test_venue_name": "徳島会場",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般前期B・推薦",
+    "source_url": "https://www.osakac.ac.jp/examinee/lp/general/",
+    "requirements_url": "https://www.osakac.ac.jp/examinee/admission/shutsugan/files/other_general_2026.pdf"
+  }
+]

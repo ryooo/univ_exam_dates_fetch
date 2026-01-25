@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "大阪女学院大学",
+    "test_venue_name": "本学（大阪女学院大学・短期大学）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区玉造2-26-54",
+    "dates": "2025/10/12,2025/10/26,2025/11/23,2025/12/14,2026/2/1,2026/2/25,2026/3/23",
+    "remarks": "全入試を本学で実施（一般選抜ほか）",
+    "source_url": "https://www.oj-navi.net/exam-info/juken_chuijiko",
+    "requirements_url": "https://www.oj-navi.net/exam-info/university"
+  }
+]

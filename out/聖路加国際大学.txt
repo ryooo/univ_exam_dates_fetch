@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "聖路加国際大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区明石町10-1",
+    "dates": "2026/2/2,2026/2/9,2026/2/17",
+    "remarks": "一般選抜A方式(1次・2次)/B方式",
+    "source_url": "https://search.keinet.ne.jp/2232/general/schedule",
+    "requirements_url": ""
+  }
+]

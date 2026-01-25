@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "高松大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市春日町960番地",
+    "dates": "2026/2/7,2026/3/9",
+    "remarks": "一般選抜前期・後期（奨学生・一般）",
+    "source_url": "https://www.takamatsu-u.ac.jp/exam/application-requirements/youkou/",
+    "requirements_url": "https://www.takamatsu-u.ac.jp/wp-content/uploads/2025/06/2026ippan_all.pdf"
+  },
+  {
+    "univ_name": "高松大学",
+    "test_venue_name": "岡山会場（岡山シティホテル桑田町 別館）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区桑田町2-21",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜前期（奨学生・一般）",
+    "source_url": "https://www.takamatsu-u.ac.jp/exam/application-requirements/youkou/",
+    "requirements_url": "https://www.takamatsu-u.ac.jp/wp-content/uploads/2025/06/2026ippan_all.pdf"
+  },
+  {
+    "univ_name": "高松大学",
+    "test_venue_name": "広島会場（RCC文化センター）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区橋本町5-11",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜前期（奨学生・一般）",
+    "source_url": "https://www.takamatsu-u.ac.jp/exam/application-requirements/youkou/",
+    "requirements_url": "https://www.takamatsu-u.ac.jp/wp-content/uploads/2025/06/2026ippan_all.pdf"
+  },
+  {
+    "univ_name": "高松大学",
+    "test_venue_name": "徳島会場（シビックセンター）",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市元町1-24",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜前期（奨学生・一般）",
+    "source_url": "https://www.takamatsu-u.ac.jp/exam/application-requirements/youkou/",
+    "requirements_url": "https://www.takamatsu-u.ac.jp/wp-content/uploads/2025/06/2026ippan_all.pdf"
+  },
+  {
+    "univ_name": "高松大学",
+    "test_venue_name": "松山会場（レンタルオフィスいよてつ大手町駅）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市大手町1-7-4 伊予鉄大手町ビル3階",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜前期（奨学生・一般）",
+    "source_url": "https://www.takamatsu-u.ac.jp/exam/application-requirements/youkou/",
+    "requirements_url": "https://www.takamatsu-u.ac.jp/wp-content/uploads/2025/06/2026ippan_all.pdf"
+  },
+  {
+    "univ_name": "高松大学",
+    "test_venue_name": "高知会場（高知城ホール）",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市丸ノ内2-1-10",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜前期（奨学生・一般）",
+    "source_url": "https://www.takamatsu-u.ac.jp/exam/application-requirements/youkou/",
+    "requirements_url": "https://www.takamatsu-u.ac.jp/wp-content/uploads/2025/06/2026ippan_all.pdf"
+  }
+]

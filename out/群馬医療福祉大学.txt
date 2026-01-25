@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "群馬医療福祉大学",
+    "test_venue_name": "本学（前橋キャンパス）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県前橋市川曲町191-1",
+    "dates": "2026/2/3,2026/2/4,2026/2/26,2026/3/19",
+    "remarks": "一般選抜 前期・中期・後期",
+    "source_url": "https://search.keinet.ne.jp/2140/general/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "群馬医療福祉大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://search.keinet.ne.jp/2140/general/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "群馬医療福祉大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://search.keinet.ne.jp/2140/general/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "群馬医療福祉大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://search.keinet.ne.jp/2140/general/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "群馬医療福祉大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://search.keinet.ne.jp/2140/general/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "群馬医療福祉大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://search.keinet.ne.jp/2140/general/schedule",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "群馬医療福祉大学",
+    "test_venue_name": "盛岡会場",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://search.keinet.ne.jp/2140/general/schedule",
+    "requirements_url": ""
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "本学 八尾駅前キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府八尾市北本町2-10-45",
+    "dates": "2025/10/11,2025/11/01,2025/11/02,2025/11/22,2025/12/22,2026/01/21,2026/01/22,2026/01/31,2026/02/01,2026/03/03,2026/03/04,2026/03/21",
+    "remarks": "AO/特色・公募・一般前中後期等",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "TKP大阪梅田カンファレンスセンター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区角田町1-12 阪急ファイブアネックス",
+    "dates": "2026/01/21,2026/01/22,2026/01/31,2026/02/01",
+    "remarks": "一般前期A/B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "TKP金沢カンファレンスセンター",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市上堤町1-33 アパ金沢ビル6～9階",
+    "dates": "2026/01/21,2026/01/22,2026/01/31,2026/02/01",
+    "remarks": "一般前期A/B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "オフィスパーク 名駅カンファレンスセンター",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅3丁目22番4号 名駅前みどりビル5階・7階",
+    "dates": "2026/01/21,2026/01/22,2026/01/31,2026/02/01",
+    "remarks": "一般前期A/B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "京都経済センター貸会議室",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区四条通室町東入函谷鉾町78番地",
+    "dates": "2025/11/01,2025/11/02,2026/01/21,2026/01/22,2026/03/03,2026/03/04",
+    "remarks": "公募前期・一般前期A・中期",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "TKP京都四条カンファレンスセンター",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区立売中之町99 四条SETビル 6階",
+    "dates": "2026/01/31,2026/02/01",
+    "remarks": "一般前期B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "三宮コンベンションセンター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区磯辺通2-2-10 ワンノットトレーズビル5F",
+    "dates": "2026/01/21,2026/01/22,2026/01/31,2026/02/01",
+    "remarks": "一般前期A/B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "神戸駅前研修センター",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区中町通2-3-1 SK HOTEL神戸駅前内 3階受付",
+    "dates": "2025/11/01,2025/11/02,2026/03/03,2026/03/04",
+    "remarks": "公募前期・一般中期",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "和歌山県勤労福祉会館プラザホープ",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市北出島1丁目5-47",
+    "dates": "2025/11/01,2025/11/02,2026/01/21,2026/01/22,2026/01/31,2026/02/01,2026/03/03,2026/03/04",
+    "remarks": "公募前期・一般前期A/B・中期",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "ピギー貸会議室",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区磨屋町2-5 安田岡山磨屋町ビル",
+    "dates": "2025/11/01,2025/11/02,2026/01/21,2026/01/22,2026/01/31,2026/02/01",
+    "remarks": "公募前期・一般前期A/B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "TKPガーデンシティ岡山",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区中山下1-8-45 NTTクレド岡山4階",
+    "dates": "2025/11/22,2026/03/03,2026/03/04",
+    "remarks": "指定校推薦・一般中期",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "TKPガーデンシティ広島",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中央区中町8-18 広島クリスタルプラザ2〜3階",
+    "dates": "2026/01/21,2026/01/22,2026/01/31,2026/02/01",
+    "remarks": "一般前期A/B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "TKP高松カンファレンスセンター",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市浜町1-20 TAKAMATSU ORNE 南館",
+    "dates": "2025/11/01,2025/11/02,2025/11/22,2026/01/21,2026/01/22",
+    "remarks": "公募前期・一般前期A・指定校",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "サン・イレブン高松",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市松福町2丁目15-24",
+    "dates": "2026/01/31,2026/02/01",
+    "remarks": "一般前期B",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "エイムアテイン博多駅前貸会議室",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-25-24 八百治ビル",
+    "dates": "2025/11/01,2025/11/02,2026/01/21,2026/01/22,2026/01/31,2026/02/01,2026/03/03,2026/03/04",
+    "remarks": "公募前期・一般前期A/B・中期",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "みんなの貸会議室那覇泉崎店",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泉崎1-13-3 資格の大原沖縄校ビル内",
+    "dates": "2025/11/22,2026/01/21,2026/01/22,2026/01/31,2026/02/01",
+    "remarks": "一般前期A/B・指定校推薦",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "ウインクあいち（愛知県産業労働センター）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4丁目4-38",
+    "dates": "2026/03/03,2026/03/04",
+    "remarks": "一般中期",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "サンポートホール高松",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市サンポート2-1 高松シンボルタワー・ホール棟",
+    "dates": "2026/03/03,2026/03/04",
+    "remarks": "一般中期",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "TKPガーデンシティ京都タワーホテル",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区烏丸通七条下ル東塩小路町721-1",
+    "dates": "2025/11/22",
+    "remarks": "指定校推薦",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "ホテルアバローム紀の国",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市湊通丁北2丁目1-2",
+    "dates": "2025/11/22",
+    "remarks": "指定校推薦",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  },
+  {
+    "univ_name": "大阪経済法科大学",
+    "test_venue_name": "秋葉原コンベンションホール",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区外神田1-18-13 秋葉原ダイビル5Ｆ",
+    "dates": "2025/10/11,2026/01/31",
+    "remarks": "留学生推薦試験",
+    "source_url": "https://www.keiho-u.ac.jp/admission/guidance/map.html",
+    "requirements_url": "https://www.keiho-u.ac.jp/admission/guidance/otsaen00000002qy-att/keiho2026yoko.pdf"
+  }
+]

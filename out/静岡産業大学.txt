@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "静岡産業大学",
+    "test_venue_name": "藤枝キャンパス",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県藤枝市駿河台4丁目1番1号",
+    "dates": "2025/11/15,2025/11/16,2025/12/13,2026/2/5,2026/2/20,2026/3/13",
+    "remarks": "一般・特待・編入・社会人・留学生",
+    "source_url": "https://www.ssu.ac.jp/for-applicants/admission/",
+    "requirements_url": "https://www.ssu.ac.jp/for-applicants/assets/pdf/admission/admission-guide.pdf"
+  },
+  {
+    "univ_name": "静岡産業大学",
+    "test_venue_name": "磐田キャンパス",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県磐田市大原1572番地1",
+    "dates": "2025/11/15,2025/11/16,2025/12/13,2026/2/5,2026/2/20,2026/3/13",
+    "remarks": "一般・特待・編入・社会人・留学生",
+    "source_url": "https://www.ssu.ac.jp/for-applicants/admission/",
+    "requirements_url": "https://www.ssu.ac.jp/for-applicants/assets/pdf/admission/admission-guide.pdf"
+  },
+  {
+    "univ_name": "静岡産業大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/20",
+    "remarks": "外国人留学生入試（2月期）",
+    "source_url": "https://www.ssu.ac.jp/for-applicants/admission/",
+    "requirements_url": "https://www.ssu.ac.jp/for-applicants/assets/pdf/admission/foreign-form0.pdf"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "札幌試験場（札幌大学）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市豊平区西岡3条7丁目3-1",
+    "dates": "2026/2/5,2026/3/7",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "旭川試験場（旭川市ときわ市民ホール）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道旭川市5条通4丁目",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "北見試験場（サンライフ北見）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道北見市東三輪5丁目1-16",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "帯広試験場（帯広商工会議所・帯広経済センター4F）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西3条南9丁目23 帯広経済センター4F",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "釧路試験場（釧路ロイヤルイン）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道釧路市黒金町14丁目9-2",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "函館試験場（函館市民会館）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市湯川町1-32-1",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "青森試験場（青森県観光物産館アスパム）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市安方1丁目1-40",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "仙台試験場（宮城婦人会館）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡5 3F",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  },
+  {
+    "univ_name": "札幌大学",
+    "test_venue_name": "東京試験場（TKP神田ビジネスセンター）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田美土代町3-2 神田アベビル4～8F",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程（特待生含む）",
+    "source_url": "https://www.sapporo-u.ac.jp/prospect/admission/map.html",
+    "requirements_url": "https://www.sapporo-u.ac.jp/e-book/2026-senbatsuyoukou/"
+  }
+]

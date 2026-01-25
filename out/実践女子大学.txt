@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "渋谷キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区東1-1-49",
+    "dates": "2026/1/22,2026/2/2,2026/2/26",
+    "remarks": "一般選抜Ⅰ〜Ⅲ期",
+    "source_url": "https://www.jissen.ac.jp/request/onlv02000000a9vi-att/nyushiguide2026.pdf",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  },
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "日野キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都日野市大坂上4-1-1",
+    "dates": "2026/1/22,2026/2/2,2026/2/26",
+    "remarks": "一般選抜Ⅰ〜Ⅲ期",
+    "source_url": "https://www.jissen.ac.jp/request/onlv02000000a9vi-att/nyushiguide2026.pdf",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  },
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/1/22",
+    "remarks": "一般選抜Ⅰ期のみ",
+    "source_url": "https://jissen-admissions.jp/admission/general.html",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  },
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/1/22",
+    "remarks": "一般選抜Ⅰ期のみ",
+    "source_url": "https://jissen-admissions.jp/admission/general.html",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  },
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/1/22",
+    "remarks": "一般選抜Ⅰ期のみ",
+    "source_url": "https://jissen-admissions.jp/admission/general.html",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  },
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/22",
+    "remarks": "一般選抜Ⅰ期のみ",
+    "source_url": "https://jissen-admissions.jp/admission/general.html",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  },
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/1/22",
+    "remarks": "一般選抜Ⅰ期のみ",
+    "source_url": "https://jissen-admissions.jp/admission/general.html",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  },
+  {
+    "univ_name": "実践女子大学",
+    "test_venue_name": "高崎会場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "2026/1/22",
+    "remarks": "一般選抜Ⅰ期のみ",
+    "source_url": "https://jissen-admissions.jp/admission/general.html",
+    "requirements_url": "https://www.jissen.ac.jp/admission_guidance/information/ippansenbatsu.html"
+  }
+]

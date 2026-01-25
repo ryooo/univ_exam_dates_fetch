@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "熊本保健科学大学",
+    "test_venue_name": "本学（熊本保健科学大学）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市北区和泉町325",
+    "dates": "2026/2/4,2026/3/6",
+    "remarks": "一般選抜（一般）,共テ利用後期",
+    "source_url": "https://www.kumamoto-hsu.ac.jp/admission/guideline.html",
+    "requirements_url": "https://www.kumamoto-hsu.ac.jp/hsu-info/wp-content/uploads/2025/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E4%B8%80%E8%88%AC%EF%BC%88%E4%B8%80%E8%88%AC%E3%83%BB%E5%85%B1%E3%83%86%E5%88%A9%E7%94%A8%EF%BC%89-%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "熊本保健科学大学",
+    "test_venue_name": "福岡県中小企業振興センター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区吉塚本町9-15",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜（一般）",
+    "source_url": "https://www.kumamoto-hsu.ac.jp/admission/guideline.html",
+    "requirements_url": "https://www.kumamoto-hsu.ac.jp/hsu-info/wp-content/uploads/2025/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E4%B8%80%E8%88%AC%EF%BC%88%E4%B8%80%E8%88%AC%E3%83%BB%E5%85%B1%E3%83%86%E5%88%A9%E7%94%A8%EF%BC%89-%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "熊本保健科学大学",
+    "test_venue_name": "長崎県勤労福祉会館",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市桜町9-6",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜（一般）",
+    "source_url": "https://www.kumamoto-hsu.ac.jp/admission/guideline.html",
+    "requirements_url": "https://www.kumamoto-hsu.ac.jp/hsu-info/wp-content/uploads/2025/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E4%B8%80%E8%88%AC%EF%BC%88%E4%B8%80%E8%88%AC%E3%83%BB%E5%85%B1%E3%83%86%E5%88%A9%E7%94%A8%EF%BC%89-%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "熊本保健科学大学",
+    "test_venue_name": "アートホテル大分",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市都町2-1-7",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜（一般）",
+    "source_url": "https://www.kumamoto-hsu.ac.jp/admission/guideline.html",
+    "requirements_url": "https://www.kumamoto-hsu.ac.jp/hsu-info/wp-content/uploads/2025/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E4%B8%80%E8%88%AC%EF%BC%88%E4%B8%80%E8%88%AC%E3%83%BB%E5%85%B1%E3%83%86%E5%88%A9%E7%94%A8%EF%BC%89-%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "熊本保健科学大学",
+    "test_venue_name": "アートホテル宮崎 スカイタワー",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市高千穂通2-1-26",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜（一般）",
+    "source_url": "https://www.kumamoto-hsu.ac.jp/admission/guideline.html",
+    "requirements_url": "https://www.kumamoto-hsu.ac.jp/hsu-info/wp-content/uploads/2025/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E4%B8%80%E8%88%AC%EF%BC%88%E4%B8%80%E8%88%AC%E3%83%BB%E5%85%B1%E3%83%86%E5%88%A9%E7%94%A8%EF%BC%89-%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "熊本保健科学大学",
+    "test_venue_name": "ホテルリブマックス鹿児島",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市小川町15-1",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜（一般）",
+    "source_url": "https://www.kumamoto-hsu.ac.jp/admission/guideline.html",
+    "requirements_url": "https://www.kumamoto-hsu.ac.jp/hsu-info/wp-content/uploads/2025/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E4%B8%80%E8%88%AC%EF%BC%88%E4%B8%80%E8%88%AC%E3%83%BB%E5%85%B1%E3%83%86%E5%88%A9%E7%94%A8%EF%BC%89-%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "熊本保健科学大学",
+    "test_venue_name": "沖縄県市町村自治会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市旭町116-37",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜（一般）",
+    "source_url": "https://www.kumamoto-hsu.ac.jp/admission/guideline.html",
+    "requirements_url": "https://www.kumamoto-hsu.ac.jp/hsu-info/wp-content/uploads/2025/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E4%B8%80%E8%88%AC%EF%BC%88%E4%B8%80%E8%88%AC%E3%83%BB%E5%85%B1%E3%83%86%E5%88%A9%E7%94%A8%EF%BC%89-%E5%85%A5%E5%AD%A6%E8%A9%A6%E9%A8%93%E8%A6%81%E9%A0%85.pdf"
+  }
+]

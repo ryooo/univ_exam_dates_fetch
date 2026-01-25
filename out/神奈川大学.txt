@@ -1,0 +1,292 @@
+[
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "横浜キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市神奈川区六角橋3-27-1",
+    "dates": "2025/12/21,2026/2/4,2026/2/6,2026/2/7,2026/2/8,2026/3/4",
+    "remarks": "給費生・一般前期/後期",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/general/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "みなとみらいキャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区みなとみらい4-5-3",
+    "dates": "2025/12/21",
+    "remarks": "給費生試験（外語・国際日本）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/access/minatomirai/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "代々木ゼミナール 札幌校",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北7条西2-5",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "にぎわい交流館AU",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市中通1-4-1",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "TKPガーデンシティ仙台（AER）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区中央1-3-1 AER 30F（給費生は21F/30F）",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "駿優予備学校 郡山校",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市駅前1-12-6",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "代々木ゼミナール 新潟校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "富山県民会館",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4-18",
+    "dates": "2025/12/21",
+    "remarks": "給費生試験",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "TKP金沢カンファレンスセンター（アパ金沢ビル）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市上堤町1-33 アパ金沢ビル3階・6階",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "信学会長野予備学校",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市北石堂町1022",
+    "dates": "2026/2/4",
+    "remarks": "一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/general/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "長野ターミナル会館",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市中御所岡田178-2",
+    "dates": "2025/12/21",
+    "remarks": "給費生試験",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "松本市勤労者福祉センター",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市中央4-7-26",
+    "dates": "2025/12/21",
+    "remarks": "給費生試験",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "秀英予備校 山梨本部校",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県甲府市丸の内2-15-12",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "ビエント高崎（問屋街センター）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市問屋町2-7",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "TKP宇都宮カンファレンスセンター",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市駅前通り1-3-1 KDX宇都宮ビルB1階",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "水戸駿優予備学校",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "ソニックシティビル",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区桜木町1-7-5",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "TKP千葉駅東口ビジネスセンター",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市中央区新町1-20 江澤ビル3・4階",
+    "dates": "2026/2/4",
+    "remarks": "一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/general/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "千葉工業大学 津田沼キャンパス 7号館",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県習志野市津田沼2-17-1",
+    "dates": "2025/12/21",
+    "remarks": "給費生試験",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "プラサヴェルデ（コンベンションぬまづ）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県沼津市大手町1-1-4",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "ツインメッセ静岡",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区曲金3-1-10",
+    "dates": "2026/2/4",
+    "remarks": "一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/general/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "秀英予備校 静岡校",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区鷹匠2-7-1",
+    "dates": "2025/12/21",
+    "remarks": "給費生試験",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "IMY",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市東区葵3-7-14",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "CIVI北梅田研修センター（LUCID SQUARE UMEDA 5F）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区芝田2-7-18 LUCID SQUARE UMEDA 5F",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "広島YMCA国際文化センター（3号館）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "代々木ゼミナール 福岡校",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前4-2-25",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "高松市生涯学習センター",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市片原町11-1",
+    "dates": "2025/12/21,2026/2/4",
+    "remarks": "給費生・一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "那覇尚学院 別館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泊2-16-3",
+    "dates": "2026/2/4",
+    "remarks": "一般前期（全学統一）",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/general/file/general02_2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/general/"
+  },
+  {
+    "univ_name": "神奈川大学",
+    "test_venue_name": "資格の大原 沖縄校",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泉崎1-13-3",
+    "dates": "2025/12/21",
+    "remarks": "給費生試験",
+    "source_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/file/kyuhi_yoko2026.pdf",
+    "requirements_url": "https://www.kanagawa-u.ac.jp/admissions/faculty/about_application/stipendiary/"
+  }
+]

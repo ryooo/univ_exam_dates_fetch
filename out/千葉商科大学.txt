@@ -1,0 +1,112 @@
+[
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "千葉商科大学 市川キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県市川市国府台1-3-1",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "盛岡会場（マリオス）",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅西通2-9-1",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "仙台会場（フォレスト仙台）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区柏木1-2-45",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "郡山会場（駿優予備学校郡山校）",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市駅前1-12-6",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "新潟会場（新潟県民会館）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区一番堀通町3-13",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "水戸会場（駿優教育会館）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "高崎会場（ビエント高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市問屋町2-7",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "大宮会場（JA共済埼玉ビル）",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区土手町1-2",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "長野会場（長野ターミナル会館）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市中御所岡田178-2",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "松本会場（松本商工会館）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市中央1-23-1",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  },
+  {
+    "univ_name": "千葉商科大学",
+    "test_venue_name": "静岡会場（レイアップ御幸町ビル）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区御幸町11-8",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜個別試験型(前期3科目・給費生)",
+    "source_url": "https://www.cuc.ac.jp/prospective/admission/exam/ippanzenki/index.html",
+    "requirements_url": "https://www.cuc.ac.jp/prospective/admission/process/apply/internet/hehsvn0000000p03-att/2026yoko.pdf"
+  }
+]

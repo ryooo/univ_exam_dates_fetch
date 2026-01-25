@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "青山学院大学",
+    "test_venue_name": "青山キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区渋谷4-4-25",
+    "dates": "2026/2/7,2026/2/9,2026/2/10,2026/2/11,2026/2/13,2026/2/14,2026/2/15,2026/2/17,2026/2/18,2026/2/19",
+    "remarks": "全学部日程・個別学部日程",
+    "source_url": "https://search.keinet.ne.jp/2200/general/schedule",
+    "requirements_url": "https://www.aoyama.ac.jp/wp-content/uploads/2025/11/ad_2026_ippan_kyotsutest_20251112_M02k8.pdf"
+  },
+  {
+    "univ_name": "青山学院大学",
+    "test_venue_name": "横浜会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "2026/2/7",
+    "remarks": "全学部日程のみ",
+    "source_url": "https://search.keinet.ne.jp/2200/general/schedule",
+    "requirements_url": "https://www.aoyama.ac.jp/wp-content/uploads/2025/11/ad_2026_ippan_kyotsutest_20251112_M02k8.pdf"
+  },
+  {
+    "univ_name": "青山学院大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/7",
+    "remarks": "全学部日程のみ",
+    "source_url": "https://search.keinet.ne.jp/2200/general/schedule",
+    "requirements_url": "https://www.aoyama.ac.jp/wp-content/uploads/2025/11/ad_2026_ippan_kyotsutest_20251112_M02k8.pdf"
+  },
+  {
+    "univ_name": "青山学院大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/7",
+    "remarks": "全学部日程のみ",
+    "source_url": "https://search.keinet.ne.jp/2200/general/schedule",
+    "requirements_url": "https://www.aoyama.ac.jp/wp-content/uploads/2025/11/ad_2026_ippan_kyotsutest_20251112_M02k8.pdf"
+  }
+]

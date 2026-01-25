@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "純真学園大学",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市南区筑紫丘1-1-1",
+    "dates": "2026/2/7,2026/3/4",
+    "remarks": "一般選抜一期・二期",
+    "source_url": "https://www.junshin-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  },
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "出島メッセ長崎",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市尾上町4-1",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜一期",
+    "source_url": "https://www.junshin-u.ac.jp/news/1076/202627-1.html",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  },
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "熊本城ホール",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区桜町3番40号",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜一期",
+    "source_url": "https://www.junshin-u.ac.jp/news/1076/202627-1.html",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  },
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "J:COMホルトホール大分",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市金池南一丁目5番1号",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜一期",
+    "source_url": "https://www.junshin-u.ac.jp/news/1076/202627-1.html",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  },
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "KITENビル",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市錦町1-10",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜一期",
+    "source_url": "https://www.junshin-u.ac.jp/news/1076/202627-1.html",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  },
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "サンプラザ天文館",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市東千石町2-30",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜一期",
+    "source_url": "https://www.junshin-u.ac.jp/news/1076/202627-1.html",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  },
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "沖縄県青年会館",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市久米2-15-23",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜一期",
+    "source_url": "https://www.junshin-u.ac.jp/news/1076/202627-1.html",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  },
+  {
+    "univ_name": "純真学園大学",
+    "test_venue_name": "KDDI維新ホール",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡令和1丁目1番1号",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜一期",
+    "source_url": "https://www.junshin-u.ac.jp/news/1076/202627-1.html",
+    "requirements_url": "https://www.junshin-u.ac.jp/assets/files/guide2026.pdf"
+  }
+]

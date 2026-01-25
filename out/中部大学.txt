@@ -1,0 +1,182 @@
+[
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "本学試験場（春日井キャンパス）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県春日井市松本町1200番地",
+    "dates": "2025/12/14,2026/2/1,2026/2/2,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "本学実施の各日程",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/schedule/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/1,2026/2/2",
+    "remarks": "特別奨学生・前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "富山会場",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/4,2026/2/5",
+    "remarks": "特別奨学生・前期AM/BM",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/1,2026/2/2",
+    "remarks": "特別奨学生・前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "飯田会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2025/12/14",
+    "remarks": "特別奨学生入試",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "岐阜会場",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "特別奨学生・前期AM/BM・後期",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "高山会場",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "",
+    "dates": "2025/12/14",
+    "remarks": "特別奨学生入試",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/1,2026/2/2",
+    "remarks": "特別奨学生・前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "特別奨学生・前期AM/BM・後期",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "豊橋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "特別奨学生・前期AM/BM・後期",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "津会場",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "2025/12/14,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "特別奨学生・前期AM/BM・後期",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2025/12/14",
+    "remarks": "特別奨学生入試",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "松本会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "彦根会場",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  },
+  {
+    "univ_name": "中部大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "前期A/B・共通テ+",
+    "source_url": "https://www.chubu.ac.jp/admissions/entrance-exams/exam-site/",
+    "requirements_url": "https://www.chubu.ac.jp/admissions/entrance-exams/guide/"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "聖マリアンナ医科大学",
+    "test_venue_name": "パシフィコ横浜ノース",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区みなとみらい1-1-2",
+    "dates": "2026/2/5,2026/3/3",
+    "remarks": "一般選抜1次（前期・後期）",
+    "source_url": "https://www.marianna-u.ac.jp/univ/ent_info/ent_general.html",
+    "requirements_url": "https://www.marianna-u.ac.jp/univ/ent_info/pdf/selection_guidelines_2026.pdf"
+  },
+  {
+    "univ_name": "聖マリアンナ医科大学",
+    "test_venue_name": "聖マリアンナ医科大学（本学校舎）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県川崎市宮前区菅生2-16-1",
+    "dates": "2026/2/14,2026/2/15,2026/3/13",
+    "remarks": "一般・共テ利用の2次試験",
+    "source_url": "https://www.marianna-u.ac.jp/univ/ent_info/ent_general.html",
+    "requirements_url": "https://www.marianna-u.ac.jp/univ/ent_info/pdf/selection_guidelines_2026.pdf"
+  },
+  {
+    "univ_name": "聖マリアンナ医科大学",
+    "test_venue_name": "聖マリアンナ医科大学（本学教育棟）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県川崎市宮前区菅生2-16-1",
+    "dates": "2025/11/15",
+    "remarks": "学校推薦型選抜",
+    "source_url": "https://www.marianna-u.ac.jp/univ/ent_info/ent_exam.html",
+    "requirements_url": "https://www.marianna-u.ac.jp/univ/ent_info/pdf/selection_guidelines_2026.pdf"
+  }
+]

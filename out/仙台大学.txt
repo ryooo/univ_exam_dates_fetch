@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "本学会場（仙台大学 本学キャンパス）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県柴田郡柴田町船岡南2丁目2-18",
+    "dates": "2025/10/18,2025/10/19,2025/10/25,2025/11/21,2025/12/13,2026/2/6,2026/2/7,2026/2/20,2026/3/12",
+    "remarks": "自己推薦・総合型・一般前期/後期",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "青森会場",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "秋田会場",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "盛岡会場",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "山形会場",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "郡山会場",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  },
+  {
+    "univ_name": "仙台大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜前期A方式",
+    "source_url": "https://www.sendaidaigaku.jp/admission/exam.html?post=32",
+    "requirements_url": "https://www.sendaidaigaku.jp/dnt2/_sendaidaigaku/access/nic_img/5/files/2026_ippan.pdf"
+  }
+]

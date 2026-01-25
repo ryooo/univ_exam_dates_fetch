@@ -1,0 +1,452 @@
+[
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "本学（呉キャンパス）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県呉市広古新開5-1-1",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松江会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福山会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "山口会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "熊本会場",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "那覇会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "学校推薦型選抜〈併願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_heigan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "本学（呉キャンパス）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県呉市広古新開5-1-1",
+    "dates": "2025/11/23",
+    "remarks": "学校推薦型選抜〈専願型〉",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/public_recommend_sengan/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "本学（呉キャンパス）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県呉市広古新開5-1-1",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜（手続期間長期型）",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_long/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松江会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜（手続期間長期型）",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_long/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福山会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜（手続期間長期型）",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_long/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "山口会場（山口市）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜（手続期間長期型）",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_long/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜（手続期間長期型）",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_long/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜（手続期間長期型）",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_long/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "本学（呉キャンパス）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県呉市広古新開5-1-1",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期A日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_a/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松江会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期A日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_a/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福山会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期A日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_a/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "山口会場（山口市）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期A日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_a/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期A日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_a/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期A日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_a/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "本学（呉キャンパス）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県呉市広古新開5-1-1",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松江会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "広島会場（広島市）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福山会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "三次会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "山口会場（山口市）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "岩国会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "高知会場",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "長崎会場",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "大分会場",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "宮崎会場",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "鹿児島会場",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "那覇会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7",
+    "remarks": "一般選抜前期B日程〔特待生選抜〕",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_prior_b/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "本学（呉キャンパス）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県呉市広古新開5-1-1",
+    "dates": "2026/2/27",
+    "remarks": "一般選抜後期日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_posterior/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "山口会場（山口市）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/27",
+    "remarks": "一般選抜後期日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_posterior/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/27",
+    "remarks": "一般選抜後期日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_posterior/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  },
+  {
+    "univ_name": "広島国際大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/27",
+    "remarks": "一般選抜後期日程",
+    "source_url": "https://www.hirokoku-u.ac.jp/admission/examination/general_posterior/",
+    "requirements_url": "https://www.hirokoku-u.ac.jp/admission/cms/wp-content/themes/admission_theme/files/examination/2026_senbatsuyouko_senbatsu.pdf"
+  }
+]

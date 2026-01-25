@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "広島文化学園大学",
+    "test_venue_name": "呉 阿賀キャンパス",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県呉市阿賀南二丁目10番3号",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.hbg.ac.jp/admissions/nyushi_univ.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島文化学園大学",
+    "test_venue_name": "広島 長束キャンパス",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市安佐南区長束西三丁目5番1号",
+    "dates": "2026/2/3,2026/2/17,2026/3/18",
+    "remarks": "一般前期,共テ利用（音楽）",
+    "source_url": "https://www.hbg.ac.jp/admissions/nyushi_univ.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島文化学園大学",
+    "test_venue_name": "広島 坂キャンパス",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県安芸郡坂町平成ヶ浜三丁目3番20号",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.hbg.ac.jp/admissions/nyushi_univ.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島文化学園大学",
+    "test_venue_name": "松江会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.hbg.ac.jp/admissions/nyushi_univ.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島文化学園大学",
+    "test_venue_name": "徳山会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.hbg.ac.jp/admissions/nyushi_univ.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島文化学園大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.hbg.ac.jp/admissions/nyushi_univ.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "広島文化学園大学",
+    "test_venue_name": "福岡試験場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://www.hbg.ac.jp/admissions/nyushi_univ.html",
+    "requirements_url": ""
+  }
+]

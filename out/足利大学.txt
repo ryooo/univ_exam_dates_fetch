@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "足利大学",
+    "test_venue_name": "大前キャンパス",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県足利市大前町268-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/14,2026/3/4,2026/3/24",
+    "remarks": "一般選抜A/B/C/D（工学部）",
+    "source_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/exam-map2026.pdf",
+    "requirements_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/2026_bosyuyoukou.pdf"
+  },
+  {
+    "univ_name": "足利大学",
+    "test_venue_name": "本城キャンパス",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県足利市本城3-2100-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/14,2026/3/4,2026/3/24",
+    "remarks": "一般選抜A/B/C/D（看護学部）",
+    "source_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/exam-map2026.pdf",
+    "requirements_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/2026_bosyuyoukou.pdf"
+  },
+  {
+    "univ_name": "足利大学",
+    "test_venue_name": "宇都宮試験場（ライトキューブ宇都宮）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市宮みらい1-20",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A（工・看）",
+    "source_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/exam-map2026.pdf",
+    "requirements_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/2026_bosyuyoukou.pdf"
+  },
+  {
+    "univ_name": "足利大学",
+    "test_venue_name": "水戸試験場（三の丸ホテル）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸2-1-1",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A（工学部）",
+    "source_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/exam-map2026.pdf",
+    "requirements_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/2026_bosyuyoukou.pdf"
+  },
+  {
+    "univ_name": "足利大学",
+    "test_venue_name": "郡山試験場（郡山商工会議所）",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市清水台1-3-8",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A（工学部）",
+    "source_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/exam-map2026.pdf",
+    "requirements_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/2026_bosyuyoukou.pdf"
+  },
+  {
+    "univ_name": "足利大学",
+    "test_venue_name": "大宮試験場（マロウドイン大宮）",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区桜木町2-173",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A（工学部）",
+    "source_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/exam-map2026.pdf",
+    "requirements_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/2026_bosyuyoukou.pdf"
+  },
+  {
+    "univ_name": "足利大学",
+    "test_venue_name": "高崎試験場（ビエント高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市問屋町2-7",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A（工学部）",
+    "source_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/exam-map2026.pdf",
+    "requirements_url": "https://ashikaga.ac.jp/exam_site/wp-content/themes/inspiro-child/assets/img/2026_bosyuyoukou.pdf"
+  }
+]

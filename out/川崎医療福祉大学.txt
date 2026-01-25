@@ -1,0 +1,142 @@
+[
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "本学会場（川崎医療福祉大学）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県倉敷市松島288",
+    "dates": "2025/12/14,2025/12/15,2026/2/1,2026/2/2,2026/3/7",
+    "remarks": "推後A・B/一般前期A・B/一般後期",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "津山会場（津山中央病院 医療研修センター）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県津山市川崎1756",
+    "dates": "2025/12/14,2026/2/1",
+    "remarks": "推後A・一般前期A",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "大阪会場（TKP新大阪ビジネスセンター）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市淀川区西中島5-13-9 新大阪MTビル1号館",
+    "dates": "2025/12/14,2026/2/1",
+    "remarks": "推後A・一般前期A",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "姫路会場（BIZ SPACE HIMEJI）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市本町127 大手前ダイネンBLD.Ⅱ",
+    "dates": "2025/12/14,2026/2/1",
+    "remarks": "推後A・一般前期A",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "鳥取会場（ホテルモナーク鳥取）",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県鳥取市永楽温泉町403",
+    "dates": "2025/12/14",
+    "remarks": "推後Aのみ",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "米子会場（スマイルホテル米子）",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県米子市西福原1-1-55",
+    "dates": "2025/12/14,2026/2/1",
+    "remarks": "推後A・一般前期A",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "松江会場（島根県労働会館）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市御手船場町557-7",
+    "dates": "2025/12/14",
+    "remarks": "推後Aのみ",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "広島会場（TKP広島本通駅前カンファレンスセンター）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区紙屋町2-2-12 信和広島ビル",
+    "dates": "2025/12/14,2026/2/1",
+    "remarks": "推後A・一般前期A",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "山口会場（山口グランドホテル）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡黄金町1-1",
+    "dates": "2025/12/14,2026/2/1",
+    "remarks": "推後A・一般前期A",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "周南会場（ホテルサンルート徳山）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県周南市築港町8-33",
+    "dates": "2026/2/1",
+    "remarks": "一般前期Aのみ",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "高松会場（ホテルマリンパレスさぬき）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市福岡町2-3-4",
+    "dates": "2025/12/14,2026/2/2",
+    "remarks": "推後A・一般前期B",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "松山会場（ホテルアイスル松山）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市宮田町391-8",
+    "dates": "2025/12/14,2026/2/2",
+    "remarks": "推後A・一般前期B",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "高知会場（高知共済会館 COMMUNITY SQUARE）",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市本町5-3-20",
+    "dates": "2025/12/14,2026/2/2",
+    "remarks": "推後A・一般前期B",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  },
+  {
+    "univ_name": "川崎医療福祉大学",
+    "test_venue_name": "福岡会場（TKP博多駅筑紫口ビジネスセンター）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街4-8 ユーコウビル",
+    "dates": "2025/12/14,2026/2/2",
+    "remarks": "推後A・一般前期B",
+    "source_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-map.pdf",
+    "requirements_url": "https://w.kawasaki-m.ac.jp/exam/pdf/02-day.pdf"
+  }
+]

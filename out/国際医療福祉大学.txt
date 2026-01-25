@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "国際医療福祉大学",
+    "test_venue_name": "成田試験場（国際医療福祉大学 成田キャンパス）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県成田市公津の杜4-3",
+    "dates": "2026/1/21,2026/1/28,2026/1/29,2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "医学部 一般選抜一次・二次",
+    "source_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app_10.pdf",
+    "requirements_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app.pdf"
+  },
+  {
+    "univ_name": "国際医療福祉大学",
+    "test_venue_name": "東京試験場①（東京赤坂キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区赤坂4-1-26",
+    "dates": "2026/1/21,2026/1/28,2026/1/29,2026/1/30,2026/1/31,2026/2/1,2026/2/2",
+    "remarks": "医学部 一般選抜一次・二次",
+    "source_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app_10.pdf",
+    "requirements_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app.pdf"
+  },
+  {
+    "univ_name": "国際医療福祉大学",
+    "test_venue_name": "東京試験場②（五反田TOCビル 13階）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都品川区西五反田7-22-17",
+    "dates": "2026/1/21",
+    "remarks": "医学部 一次のみ（定員超過時）",
+    "source_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app_10.pdf",
+    "requirements_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app.pdf"
+  },
+  {
+    "univ_name": "国際医療福祉大学",
+    "test_venue_name": "大阪試験場（TKPガーデンシティ大阪リバーサイドホテル）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市都島区中野町5-12-30",
+    "dates": "2026/1/21",
+    "remarks": "医学部 一般選抜一次",
+    "source_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app_10.pdf",
+    "requirements_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app.pdf"
+  },
+  {
+    "univ_name": "国際医療福祉大学",
+    "test_venue_name": "福岡試験場（国際医療福祉大学 大学院 福岡キャンパス）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市早良区百道浜2-4-16",
+    "dates": "2026/1/21",
+    "remarks": "医学部 一般選抜一次",
+    "source_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app_10.pdf",
+    "requirements_url": "https://narita.iuhw.ac.jp/gakubu/igakubu/admission/doc/guideline_app.pdf"
+  }
+]

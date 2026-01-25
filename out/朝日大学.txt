@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "朝日大学",
+    "test_venue_name": "朝日大学（本学試験場）",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県瑞穂市穂積1851",
+    "dates": "2025/10/19,2025/11/15,2025/11/16,2025/12/13,2026/02/04,2026/02/05,2026/02/06,2026/02/20,2026/03/14,2026/03/23",
+    "remarks": "本学試験場。全学部の各日程",
+    "source_url": "https://nyuusi.asahi-u.ac.jp/examination/exam/",
+    "requirements_url": "https://nyuusi.asahi-u.ac.jp/examination/detail/"
+  },
+  {
+    "univ_name": "朝日大学",
+    "test_venue_name": "CIVI研修センター新大阪東",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市東淀川区東中島1-19-4（6階）",
+    "dates": "2026/03/14",
+    "remarks": "入学試験（一般Ⅲ期等）",
+    "source_url": "https://nyuusi.asahi-u.ac.jp/examination/exam/",
+    "requirements_url": "https://nyuusi.asahi-u.ac.jp/examination/detail/"
+  },
+  {
+    "univ_name": "朝日大学",
+    "test_venue_name": "八重洲博多ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東2丁目18-30",
+    "dates": "",
+    "remarks": "地方試験場",
+    "source_url": "https://nyuusi.asahi-u.ac.jp/examination/exam/",
+    "requirements_url": "https://nyuusi.asahi-u.ac.jp/examination/detail/"
+  },
+  {
+    "univ_name": "朝日大学",
+    "test_venue_name": "尚学院公務員法律大学校",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泊2-16-3（3階、4階）",
+    "dates": "2025/12/13",
+    "remarks": "入学試験（12/13実施）",
+    "source_url": "https://nyuusi.asahi-u.ac.jp/examination/exam/",
+    "requirements_url": "https://nyuusi.asahi-u.ac.jp/examination/detail/"
+  }
+]

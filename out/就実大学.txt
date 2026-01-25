@@ -1,0 +1,132 @@
+[
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "本学会場（就実大学キャンパス）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市中区西川原1-6-1",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/access/index.html",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "津山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "姫路会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "鳥取会場",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "松江会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "防府会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "高知会場",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  },
+  {
+    "univ_name": "就実大学",
+    "test_venue_name": "那覇会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.shujitsu.ac.jp/admissions_site/img/nyushi/satellite.pdf",
+    "requirements_url": "https://www.shujitsu.ac.jp/admissions_site/news/detail/6030"
+  }
+]

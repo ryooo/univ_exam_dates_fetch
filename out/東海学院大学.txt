@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "東海学院大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県各務原市那加桐野町5-68",
+    "dates": "2026/2/4,2026/2/21,2026/3/13",
+    "remarks": "AO IV/V・特待生選考ほか本学実施",
+    "source_url": "https://tokaigakuin-u.ac.jp/nyushi-guide/",
+    "requirements_url": "https://www.tokaigakuin-u.ac.jp/digital/nyuushiyoukou2026/"
+  }
+]

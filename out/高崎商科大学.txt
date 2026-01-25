@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "高崎商科大学",
+    "test_venue_name": "高崎商科大学／高崎商科大学短期大学部",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市根小屋町741",
+    "dates": "2025/10/11,2025/10/25,2025/11/8,2025/11/22,2025/12/6,2025/12/13,2025/12/17,2026/2/5,2026/3/5",
+    "remarks": "全入試会場（一般は前期・後期実施）",
+    "source_url": "https://www.tuc.ac.jp/admissions/faculty/recommendation/",
+    "requirements_url": "https://www.tuc.ac.jp/docs/tuc_2026nyushiyoukou0501.pdf"
+  },
+  {
+    "univ_name": "高崎商科大学",
+    "test_venue_name": "ホテルサンシャイン宇都宮（2階 会議室2）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市東宿郷2-3-3",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.tuc.ac.jp/admissions/place/",
+    "requirements_url": "https://www.tuc.ac.jp/docs/tuc_2026nyushiyoukou0501.pdf"
+  },
+  {
+    "univ_name": "高崎商科大学",
+    "test_venue_name": "新潟東映ホテル（3階）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天2-1-6",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.tuc.ac.jp/admissions/place/",
+    "requirements_url": "https://www.tuc.ac.jp/docs/tuc_2026nyushiyoukou0501.pdf"
+  },
+  {
+    "univ_name": "高崎商科大学",
+    "test_venue_name": "ホテル信濃路（2階：黒姫）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市中御所岡田町131-4",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.tuc.ac.jp/admissions/place/",
+    "requirements_url": "https://www.tuc.ac.jp/docs/tuc_2026nyushiyoukou0501.pdf"
+  },
+  {
+    "univ_name": "高崎商科大学",
+    "test_venue_name": "ホテルJALシティ仙台（2階：ローズⅡ）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区花京院1-2-12",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜（前期）のみ",
+    "source_url": "https://www.tuc.ac.jp/admissions/place/",
+    "requirements_url": "https://www.tuc.ac.jp/docs/tuc_2026nyushiyoukou0501.pdf"
+  }
+]

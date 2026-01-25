@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "池袋キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区東池袋2-51-4",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/20,2026/2/21,2026/3/6,2026/3/7",
+    "remarks": "一般Ⅰ・Ⅱ・Ⅲ／奨学特待生",
+    "source_url": "https://www.thu.ac.jp/access/access_ike",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "中野キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中野区中野4-21-2",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/20,2026/2/21,2026/3/6,2026/3/7",
+    "remarks": "一般Ⅰ・Ⅱ・Ⅲ／奨学特待生",
+    "source_url": "https://www.thu.ac.jp/access/access_nakano",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "千葉キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県市原市うるいど南4-1",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/2/20,2026/2/21,2026/3/6,2026/3/7",
+    "remarks": "一般Ⅰ・Ⅱ・Ⅲ／奨学特待生",
+    "source_url": "https://www.thu.ac.jp/access/access_chiba",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "仙台会場（ショーケー本館ビル）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区五橋2-11-1",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ期・奨学特待生",
+    "source_url": "https://www.thu.ac.jp/exam/examination_hall",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "つくば会場（つくば国際会議場）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県つくば市竹園2-20-3",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ期・奨学特待生",
+    "source_url": "https://www.thu.ac.jp/exam/examination_hall",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "宇都宮会場（ホテルマイステイズ宇都宮）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市東宿郷2-4-1",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ期・奨学特待生",
+    "source_url": "https://www.thu.ac.jp/exam/examination_hall",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "高崎会場（エテルナ高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市栄町22-30",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ期・奨学特待生",
+    "source_url": "https://www.thu.ac.jp/exam/examination_hall",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "長野会場（JA長野県ビル）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市大字南長野北石堂町1177-3",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ期・奨学特待生",
+    "source_url": "https://www.thu.ac.jp/exam/examination_hall",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "静岡会場（クーポール会館）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区紺屋町2-2",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ期・奨学特待生",
+    "source_url": "https://www.thu.ac.jp/exam/examination_hall",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  },
+  {
+    "univ_name": "帝京平成大学",
+    "test_venue_name": "博多会場（TKPカンファレンスシティ博多）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-19-5 博多石川ビル1階",
+    "dates": "2026/1/26,2026/1/27,2026/1/28",
+    "remarks": "一般Ⅰ期・奨学特待生",
+    "source_url": "https://www.thu.ac.jp/exam/examination_hall",
+    "requirements_url": "https://data.thu.ac.jp/7117/6169/7836/youkou_faculty_02_2026.pdf"
+  }
+]

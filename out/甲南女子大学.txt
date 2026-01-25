@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "甲南女子大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市東灘区森北町6-2-23",
+    "dates": "2025/11/1,2025/11/8,2025/11/27,2025/12/13,2026/1/20,2026/1/21,2026/2/15,2026/3/7",
+    "remarks": "一般Ⅰ〜Ⅳ・推薦Ⅰ〜Ⅲ・S日程",
+    "source_url": "https://www.konan-wu.ac.jp/admission/exam/",
+    "requirements_url": "https://www.konan-wu.ac.jp/admission/exam/manual/pdf/2026guideline.pdf"
+  },
+  {
+    "univ_name": "甲南女子大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2026/1/20,2026/1/21",
+    "remarks": "一般選抜Ⅰ・Ⅱ日程（外部会場）",
+    "source_url": "https://www.konan-wu.ac.jp/admission/exam/general/a/",
+    "requirements_url": "https://www.konan-wu.ac.jp/admission/exam/manual/pdf/2026guideline.pdf"
+  },
+  {
+    "univ_name": "甲南女子大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/1/20,2026/1/21",
+    "remarks": "一般選抜Ⅰ・Ⅱ日程（外部会場）",
+    "source_url": "https://www.konan-wu.ac.jp/admission/exam/general/a/",
+    "requirements_url": "https://www.konan-wu.ac.jp/admission/exam/manual/pdf/2026guideline.pdf"
+  },
+  {
+    "univ_name": "甲南女子大学",
+    "test_venue_name": "難波会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2025/11/27",
+    "remarks": "学校推薦型S日程（外部会場）",
+    "source_url": "https://www.konan-wu.ac.jp/admission/exam/recommendation/ab/",
+    "requirements_url": "https://www.konan-wu.ac.jp/admission/exam/manual/pdf/2026guideline.pdf"
+  },
+  {
+    "univ_name": "甲南女子大学",
+    "test_venue_name": "姫路会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2025/11/27",
+    "remarks": "学校推薦型S日程（外部会場）",
+    "source_url": "https://www.konan-wu.ac.jp/admission/exam/recommendation/ab/",
+    "requirements_url": "https://www.konan-wu.ac.jp/admission/exam/manual/pdf/2026guideline.pdf"
+  }
+]

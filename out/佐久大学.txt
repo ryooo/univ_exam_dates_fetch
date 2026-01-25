@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "佐久大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県佐久市岩村田2384",
+    "dates": "",
+    "remarks": "全入試の主会場（本学実施）",
+    "source_url": "https://www.saku.ac.jp/human_welfare/examination/",
+    "requirements_url": "https://www.saku.ac.jp/wp_saku/wp-content/uploads/2025/06/f9817e5722271c22164c3395f226f7a4.pdf"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "大阪常磐会大学",
+    "test_venue_name": "本学（北キャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市平野区平野南4-6-7",
+    "dates": "2026/2/1,2026/3/5",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://search.keinet.ne.jp/2548/general/schedule",
+    "requirements_url": "https://www.osaka-tokiwakai.ac.jp/digital_pamph/gakuseibosyu/pageindices/index.html"
+  }
+]

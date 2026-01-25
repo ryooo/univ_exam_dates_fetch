@@ -1,0 +1,192 @@
+[
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "自由が丘キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都世田谷区等々力6-39-15",
+    "dates": "2026/2/1,2026/2/5,2026/2/12,2026/2/19,2026/3/6",
+    "remarks": "一般選抜全日程（未来構想含む）",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "湘南キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県伊勢原市上粕屋1573",
+    "dates": "2026/2/1,2026/2/5,2026/2/12,2026/2/19,2026/3/6",
+    "remarks": "一般選抜全日程（未来構想含む）",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "秋葉原会場（河合塾 秋葉原館）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区岩本町3-11-11 プルータスビル3階",
+    "dates": "2026/2/1,2026/2/5,2026/2/12,2026/2/19",
+    "remarks": "前期3・前期2・英語4・中期",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "池袋会場（河合塾 池袋校［西館］）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区西池袋1-3-12",
+    "dates": "2026/2/1,2026/2/12,2026/2/19",
+    "remarks": "前期3・英語4・中期",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "池袋会場（駿台予備学校 池袋校）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区南池袋2-19-8",
+    "dates": "2026/2/5",
+    "remarks": "前期2・未来構想第1日程",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "町田会場（駿台予備学校 町田校）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都町田市原町田6-16-8",
+    "dates": "2026/2/1,2026/2/5,2026/2/12",
+    "remarks": "前期3・前期2・英語4",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "横浜会場（駿台予備学校 横浜校 1号館）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市神奈川区鶴屋町2-23-7",
+    "dates": "2026/2/1",
+    "remarks": "前期3のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "横浜会場（河合塾 横浜校）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区北幸2-11-6",
+    "dates": "2026/2/5,2026/2/12,2026/2/19",
+    "remarks": "前期2・英語4・中期",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "津田沼会場（河合塾 津田沼校）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県習志野市谷津1-15-33",
+    "dates": "2026/2/1,2026/2/12",
+    "remarks": "前期3・英語4",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "千葉会場（河合塾 千葉現役館）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市中央区新町17-13 第12東ビル2階",
+    "dates": "2026/2/5",
+    "remarks": "前期2のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "大宮会場（駿台予備学校 大宮校）",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区桜木町1-235-3",
+    "dates": "2026/2/1,2026/2/5,2026/2/12,2026/2/19",
+    "remarks": "前期3・前期2・英語4・中期",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "札幌会場（代々木ゼミナール 札幌校）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北7条西2-5",
+    "dates": "2026/2/1",
+    "remarks": "前期3のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "仙台会場（大樹生命仙台本町ビル〈アジュール仙台〉4階会議室）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区本町1-1-1",
+    "dates": "2026/2/1,2026/2/12",
+    "remarks": "前期3・英語4",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "水戸会場（河合塾 水戸校）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市宮町1-2-22",
+    "dates": "2026/2/1",
+    "remarks": "前期3のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "長野会場（JA長野県ビル）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市大字南長野北石堂町1177-3",
+    "dates": "2026/2/1",
+    "remarks": "前期3のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "静岡会場（秀英予備校 静岡校1号館）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区鷹匠2-7-1",
+    "dates": "2026/2/1",
+    "remarks": "前期3のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "静岡会場（静岡商工会議所）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区黒金町20-8",
+    "dates": "2026/2/12",
+    "remarks": "英語4技能利用のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "名古屋会場（産業能率大学 中部事業部）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4-5-28 桜通豊田ビル18F",
+    "dates": "2026/2/1",
+    "remarks": "前期3のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "産業能率大学",
+    "test_venue_name": "吉祥寺会場（河合塾 吉祥寺現役館）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都武蔵野市吉祥寺本町1-8-12",
+    "dates": "2026/2/5,2026/2/12",
+    "remarks": "前期2・英語4のみ",
+    "source_url": "https://www.sanno.ac.jp/exam/system/place.html",
+    "requirements_url": ""
+  }
+]

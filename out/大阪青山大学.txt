@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "大阪青山大学",
+    "test_venue_name": "本学（箕面キャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "〒562-8580 大阪府箕面市新稲2-11-1",
+    "dates": "2026/2/1,2026/2/17,2026/3/11",
+    "remarks": "一般A/B/C、総合D、社会人B",
+    "source_url": "https://www.osaka-aoyama.ac.jp/prospective/admission/overview/",
+    "requirements_url": "https://www.osaka-aoyama.ac.jp/wp-content/uploads/2025/05/admin_list2026.pdf"
+  }
+]

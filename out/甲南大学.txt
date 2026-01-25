@@ -1,0 +1,132 @@
+[
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "甲南大学岡本キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市東灘区岡本8-9-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/4,2026/2/5,2026/2/17,2026/2/18",
+    "remarks": "一般選抜（前期・中期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "グランフロント大阪北館 ナレッジキャピタル コングレコンベンションセンター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区大深町3-1 グランフロント大阪北館地下2階",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/4,2026/2/5",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "なんばスカイオ コンベンションホール",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区難波5丁目1-60",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "TKPガーデンシティ京都タワーホテル（京都タワーホテル2階）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区烏丸通七条下ル東塩小路町721-1 京都タワーホテル2階",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "imy会議室",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市東区葵3-7-14",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "TKPガーデンシティ岡山（NTTクレド岡山ビル4階）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区中山下1-8-45 NTTクレド岡山ビル4階",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/4,2026/2/5,2026/2/17,2026/2/18",
+    "remarks": "一般選抜（前期・中期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "広島YMCA国際文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/4,2026/2/5",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "四国電力株式会社 総合研修所",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市屋島西町1850-1",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/4,2026/2/5",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "兵庫県立武道館",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市西延末504番地",
+    "dates": "2026/1/30,2026/1/31,2026/2/1,2026/2/4,2026/2/5",
+    "remarks": "一般選抜（前期）文系のみ",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "兵庫県立姫路労働会館",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市北条1丁目98番地",
+    "dates": "2026/1/30,2026/1/31,2026/2/1",
+    "remarks": "一般選抜（前期）理系のみ",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "人事労務会館",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都品川区大崎2-4-3",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM金沢駅西口",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市広岡2-13-33 JR金沢駅西第三NKビル2〜3階",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  },
+  {
+    "univ_name": "甲南大学",
+    "test_venue_name": "TKPカンファレンスシティ博多（博多石川ビル1階）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前3-19-5 博多石川ビル1階",
+    "dates": "2026/1/30",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://ch.konan-u.ac.jp/2954.html",
+    "requirements_url": "https://ch.konan-u.ac.jp/themes/konan/admission/assets/pdf/2025form/2025_ippan.pdf"
+  }
+]

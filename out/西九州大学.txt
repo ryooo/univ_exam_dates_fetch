@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "西九州大学",
+    "test_venue_name": "本学会場（神埼キャンパス）",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県神埼市神埼町尾崎4490-9",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜Ⅰ・Ⅱ期",
+    "source_url": "https://www.nisikyu-u.ac.jp/examination/pamphlet_2026/pageindices/index24.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "西九州大学",
+    "test_venue_name": "佐賀キャンパス",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県佐賀市神園3-18-15",
+    "dates": "",
+    "remarks": "総合型・推薦の一部で使用",
+    "source_url": "https://www.nisikyu-u.ac.jp/admission/",
+    "requirements_url": "https://www.nisikyu-u.ac.jp/examination/pamphlet_2026/pageindices/index44.html"
+  },
+  {
+    "univ_name": "西九州大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜Ⅰ期 地方会場",
+    "source_url": "https://www.nisikyu-u.ac.jp/examination/pamphlet_2026/pageindices/index24.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "西九州大学",
+    "test_venue_name": "熊本会場",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜Ⅰ期 地方会場",
+    "source_url": "https://www.nisikyu-u.ac.jp/examination/pamphlet_2026/pageindices/index24.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "西九州大学",
+    "test_venue_name": "那覇会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2025/11/15",
+    "remarks": "スポーツ特別推薦 地方会場",
+    "source_url": "https://www.nisikyu-u.ac.jp/examination/pamphlet_2026/pageindices/index20.html",
+    "requirements_url": ""
+  }
+]

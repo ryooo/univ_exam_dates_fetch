@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "健康科学大学",
+    "test_venue_name": "健康科学大学（富士山キャンパス）",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県南都留郡富士河口湖町小立7187",
+    "dates": "2025/10/4,2025/11/22",
+    "remarks": "総合型Ⅰ期・指定校/公募推薦・編入",
+    "source_url": "https://www.kenkoudai.ac.jp/admissions/1090/",
+    "requirements_url": "https://www.kenkoudai.ac.jp/admissions/23095/"
+  },
+  {
+    "univ_name": "健康科学大学",
+    "test_venue_name": "健康科学大学（桂川キャンパス）",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県都留市四日市場909-2",
+    "dates": "2025/10/4,2025/11/22,2025/12/13,2026/1/29,2026/2/12,2026/3/11",
+    "remarks": "総合型Ⅱ・Ⅲ期、推薦、一般Ⅰ・Ⅱ期等",
+    "source_url": "https://www.kenkoudai.ac.jp/admissions/1090/",
+    "requirements_url": "https://www.kenkoudai.ac.jp/admissions/23095/"
+  },
+  {
+    "univ_name": "健康科学大学",
+    "test_venue_name": "甲府会場（シャトレーゼホテル談露館）",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県甲府市丸の内1-19-16",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kenkoudai.ac.jp/admissions/1090/",
+    "requirements_url": "https://www.kenkoudai.ac.jp/admissions/23095/"
+  },
+  {
+    "univ_name": "健康科学大学",
+    "test_venue_name": "甲府会場（甲斐大学予備校）",
+    "test_venue_pref": "山梨県",
+    "test_venue_address": "山梨県甲府市武田1-2-20",
+    "dates": "2026/2/12",
+    "remarks": "一般選抜Ⅱ期",
+    "source_url": "https://www.kenkoudai.ac.jp/admissions/1090/",
+    "requirements_url": "https://www.kenkoudai.ac.jp/admissions/23095/"
+  },
+  {
+    "univ_name": "健康科学大学",
+    "test_venue_name": "東京会場（アルカディア市ヶ谷）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区九段北4-2-25",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kenkoudai.ac.jp/admissions/1090/",
+    "requirements_url": "https://www.kenkoudai.ac.jp/admissions/23095/"
+  },
+  {
+    "univ_name": "健康科学大学",
+    "test_venue_name": "松本会場（ホテルブエナビスタ）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県松本市本庄1-2-1",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kenkoudai.ac.jp/admissions/1090/",
+    "requirements_url": "https://www.kenkoudai.ac.jp/admissions/23095/"
+  },
+  {
+    "univ_name": "健康科学大学",
+    "test_venue_name": "沼津会場（沼津リバーサイドホテル）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県沼津市上土町100-1",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://www.kenkoudai.ac.jp/admissions/1090/",
+    "requirements_url": "https://www.kenkoudai.ac.jp/admissions/23095/"
+  }
+]

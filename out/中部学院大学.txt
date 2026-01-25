@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "中部学院大学",
+    "test_venue_name": "関キャンパス",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県関市桐ヶ丘二丁目1番地",
+    "dates": "",
+    "remarks": "一般選抜（本学会場）",
+    "source_url": "https://www.chubu-gu.ac.jp/nyushi/exam/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "中部学院大学",
+    "test_venue_name": "各務原キャンパス",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県各務原市那加甥田町30-1",
+    "dates": "",
+    "remarks": "一般選抜（本学会場）",
+    "source_url": "https://www.chubu-gu.ac.jp/nyushi/exam/",
+    "requirements_url": ""
+  }
+]

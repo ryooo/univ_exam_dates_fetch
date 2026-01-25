@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "松本歯科大学",
+    "test_venue_name": "松本歯科大学（創立30年記念棟）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県塩尻市広丘郷原1780",
+    "dates": "2026/2/2,2026/2/3,2026/2/24,2026/3/17",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期・Ⅲ期",
+    "source_url": "https://www.mdu.ac.jp/faculty/admissions/exam_station.html",
+    "requirements_url": "https://www.mdu.ac.jp/faculty/docs/f57858f87a6a199a4fd4c1163ac4b1efdb1f0e71.pdf"
+  },
+  {
+    "univ_name": "松本歯科大学",
+    "test_venue_name": "トラストシティカンファレンス・丸の内",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区丸の内1-8-1 丸の内トラストタワーN館 11階",
+    "dates": "2026/2/2,2026/2/3,2026/2/24,2026/3/17",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期・Ⅲ期",
+    "source_url": "https://www.mdu.ac.jp/faculty/admissions/exam_station.html",
+    "requirements_url": "https://www.mdu.ac.jp/faculty/docs/f57858f87a6a199a4fd4c1163ac4b1efdb1f0e71.pdf"
+  },
+  {
+    "univ_name": "松本歯科大学",
+    "test_venue_name": "ブリーゼプラザ",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区梅田2-4-9 ブリーゼタワー 8階",
+    "dates": "2026/2/2,2026/2/3,2026/2/24,2026/3/17",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期・Ⅲ期",
+    "source_url": "https://www.mdu.ac.jp/faculty/admissions/exam_station.html",
+    "requirements_url": "https://www.mdu.ac.jp/faculty/docs/f57858f87a6a199a4fd4c1163ac4b1efdb1f0e71.pdf"
+  }
+]

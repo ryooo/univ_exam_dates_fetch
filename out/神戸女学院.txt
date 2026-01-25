@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "神戸女学院大学",
+    "test_venue_name": "本学（西宮）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県西宮市岡田山4-1",
+    "dates": "2026/1/28,2026/1/29,2026/2/13,2026/3/10",
+    "remarks": "一般選抜 前期A/B・前期C・後期",
+    "source_url": "https://www.kobe-c.ac.jp/admissions/upload/5.%E5%8F%97%E9%A8%93.pdf",
+    "requirements_url": "https://www.kobe-c.ac.jp/admissions/upload/nyushiyoukou2026.pdf"
+  },
+  {
+    "univ_name": "神戸女学院大学",
+    "test_venue_name": "名古屋会場（ミーティングスペース AP 名古屋）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4-10-25 名駅IMAIビル",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般選抜 前期A/B日程",
+    "source_url": "https://www.kobe-c.ac.jp/admissions/upload/5.%E5%8F%97%E9%A8%93.pdf",
+    "requirements_url": "https://www.kobe-c.ac.jp/admissions/upload/nyushiyoukou2026.pdf"
+  },
+  {
+    "univ_name": "神戸女学院大学",
+    "test_venue_name": "大阪会場（難波御堂筋ホール）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区難波4丁目2-1 難波御堂筋ビルディング",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般選抜 前期A/B日程",
+    "source_url": "https://www.kobe-c.ac.jp/admissions/upload/5.%E5%8F%97%E9%A8%93.pdf",
+    "requirements_url": "https://www.kobe-c.ac.jp/admissions/upload/nyushiyoukou2026.pdf"
+  },
+  {
+    "univ_name": "神戸女学院大学",
+    "test_venue_name": "姫路会場（BIZ SPACE 姫路）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市本町127番地 大手前ダイネンBLD.II",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般選抜 前期A/B日程",
+    "source_url": "https://www.kobe-c.ac.jp/admissions/upload/5.%E5%8F%97%E9%A8%93.pdf",
+    "requirements_url": "https://www.kobe-c.ac.jp/admissions/upload/nyushiyoukou2026.pdf"
+  },
+  {
+    "univ_name": "神戸女学院大学",
+    "test_venue_name": "岡山会場（第一セントラルビル2号館）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区本町6-30",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般選抜 前期A/B日程",
+    "source_url": "https://www.kobe-c.ac.jp/admissions/upload/5.%E5%8F%97%E9%A8%93.pdf",
+    "requirements_url": "https://www.kobe-c.ac.jp/admissions/upload/nyushiyoukou2026.pdf"
+  },
+  {
+    "univ_name": "神戸女学院大学",
+    "test_venue_name": "高松会場（高松センタービル）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般選抜 前期A/B日程",
+    "source_url": "https://www.kobe-c.ac.jp/admissions/upload/5.%E5%8F%97%E9%A8%93.pdf",
+    "requirements_url": "https://www.kobe-c.ac.jp/admissions/upload/nyushiyoukou2026.pdf"
+  },
+  {
+    "univ_name": "神戸女学院大学",
+    "test_venue_name": "福岡会場（博多バスターミナル）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街2-1",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般選抜 前期A/B日程",
+    "source_url": "https://www.kobe-c.ac.jp/admissions/upload/5.%E5%8F%97%E9%A8%93.pdf",
+    "requirements_url": "https://www.kobe-c.ac.jp/admissions/upload/nyushiyoukou2026.pdf"
+  }
+]

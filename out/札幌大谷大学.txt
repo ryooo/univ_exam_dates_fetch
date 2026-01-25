@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "札幌大谷大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市東区北16条東9丁目1-1",
+    "dates": "2026/2/7,2026/2/8,2026/3/5",
+    "remarks": "一般選抜I・II期、特待生試験",
+    "source_url": "https://www.sapporo-otani.ac.jp/access/",
+    "requirements_url": "https://www.sapporo-otani.ac.jp/wp/wp-content/uploads/2025/07/7a8c9b82a248f9610376801c479d54a2-2.pdf"
+  }
+]

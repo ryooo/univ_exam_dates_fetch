@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "至学館大学",
+    "test_venue_name": "本学（至学館大学）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県大府市横根町名高山55",
+    "dates": "2026/1/30,2026/1/31,2026/2/7,2026/2/28",
+    "remarks": "一般前期/共通テストプラス/一般後期",
+    "source_url": "https://navi.sgk-u.net/nyushi/guide/schedule.html",
+    "requirements_url": "https://navi.sgk-u.net/nyushi/yoko/shikenjyou.html"
+  },
+  {
+    "univ_name": "至学館大学",
+    "test_venue_name": "金沢勤労者プラザ",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市北安江3-2-20",
+    "dates": "2026/1/30,2026/1/31",
+    "remarks": "一般入試（前期）",
+    "source_url": "https://navi.sgk-u.net/nyushi/guide/schedule.html",
+    "requirements_url": "https://navi.sgk-u.net/nyushi/yoko/shikenjyou.html"
+  },
+  {
+    "univ_name": "至学館大学",
+    "test_venue_name": "ワークプラザ岐阜",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県岐阜市鶴舞町2-6-7",
+    "dates": "2026/1/30,2026/1/31,2026/2/7",
+    "remarks": "一般前期/共通テストプラス",
+    "source_url": "https://navi.sgk-u.net/nyushi/guide/schedule.html",
+    "requirements_url": "https://navi.sgk-u.net/nyushi/yoko/shikenjyou.html"
+  },
+  {
+    "univ_name": "至学館大学",
+    "test_venue_name": "じばさん（四日市市地場産業振興センター）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県四日市市安島1-3-18",
+    "dates": "2026/1/30,2026/1/31,2026/2/7",
+    "remarks": "一般前期/共通テストプラス",
+    "source_url": "https://navi.sgk-u.net/nyushi/guide/schedule.html",
+    "requirements_url": "https://navi.sgk-u.net/nyushi/yoko/shikenjyou.html"
+  },
+  {
+    "univ_name": "至学館大学",
+    "test_venue_name": "遠鉄百貨店 新館13階（貸会議室）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区旭町12-1 新館13階",
+    "dates": "2026/1/30,2026/1/31",
+    "remarks": "一般入試（前期）",
+    "source_url": "https://navi.sgk-u.net/nyushi/guide/schedule.html",
+    "requirements_url": "https://navi.sgk-u.net/nyushi/yoko/shikenjyou.html"
+  },
+  {
+    "univ_name": "至学館大学",
+    "test_venue_name": "アクトシティ浜松 コングレスセンター",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区板屋町111-1",
+    "dates": "2026/2/7",
+    "remarks": "共通テストプラス入試",
+    "source_url": "https://navi.sgk-u.net/nyushi/guide/schedule.html",
+    "requirements_url": "https://navi.sgk-u.net/nyushi/yoko/shikenjyou.html"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "多摩大学",
+    "test_venue_name": "多摩キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都多摩市聖ヶ丘4-1-1",
+    "dates": "2026/1/24,2026/1/25,2026/2/6,2026/3/8",
+    "remarks": "一般選抜Ⅰ〜Ⅲ期／総合問題",
+    "source_url": "https://www.tama.ac.jp/admissions/exam/general-satellite/",
+    "requirements_url": "https://www.tama.ac.jp/admissions/wp-content/uploads/2025/10/976c011b45574d165540c9096463a70a.pdf"
+  },
+  {
+    "univ_name": "多摩大学",
+    "test_venue_name": "湘南キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県藤沢市円行802",
+    "dates": "2026/1/24,2026/1/25,2026/2/6,2026/3/8",
+    "remarks": "一般選抜Ⅰ〜Ⅲ期／総合問題",
+    "source_url": "https://www.tama.ac.jp/admissions/exam/general-satellite/",
+    "requirements_url": "https://www.tama.ac.jp/admissions/wp-content/uploads/2025/10/976c011b45574d165540c9096463a70a.pdf"
+  },
+  {
+    "univ_name": "多摩大学",
+    "test_venue_name": "品川サテライトキャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区港南2-14-14 品川インターシティフロント5階",
+    "dates": "2026/1/25",
+    "remarks": "一般選抜Ⅰ期（1/25のみ）",
+    "source_url": "https://www.tama.ac.jp/admissions/exam/general-satellite/",
+    "requirements_url": "https://www.tama.ac.jp/admissions/wp-content/uploads/2025/10/976c011b45574d165540c9096463a70a.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "神奈川歯科大学",
+    "test_venue_name": "本学校舎（横須賀）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横須賀市稲岡町82",
+    "dates": "2025/10/19,2025/11/15,2025/12/6,2026/1/10,2026/2/1,2026/2/8,2026/2/21,2026/3/15",
+    "remarks": "総合型・推薦・一般（1〜3期）",
+    "source_url": "https://www.kdu.ac.jp/dental/examinfo/exams/general02.html",
+    "requirements_url": "https://www.kdu.ac.jp/dental/assets/examinfo/exams/pdf/dental_literature-2026.pdf"
+  },
+  {
+    "univ_name": "神奈川歯科大学",
+    "test_venue_name": "埼玉会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区宮町4-144 古賀屋SKビル3F",
+    "dates": "2026/2/1,2026/2/8",
+    "remarks": "一般選抜1期 A・B日程",
+    "source_url": "https://www.kdu.ac.jp/dental/examinfo/exams/general01.html",
+    "requirements_url": "https://www.kdu.ac.jp/dental/assets/examinfo/exams/pdf/dental_literature-2026.pdf"
+  },
+  {
+    "univ_name": "神奈川歯科大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区梅田1-11-4 大阪駅前第４ビル23F",
+    "dates": "2026/2/8",
+    "remarks": "一般選抜1期 B日程",
+    "source_url": "https://www.kdu.ac.jp/dental/examinfo/exams/general01.html",
+    "requirements_url": "https://www.kdu.ac.jp/dental/assets/examinfo/exams/pdf/dental_literature-2026.pdf"
+  },
+  {
+    "univ_name": "神奈川歯科大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東1-16-14 リファレンス駅東ビル",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜1期 A日程",
+    "source_url": "https://www.kdu.ac.jp/dental/examinfo/exams/general01.html",
+    "requirements_url": "https://www.kdu.ac.jp/dental/assets/examinfo/exams/pdf/dental_literature-2026.pdf"
+  }
+]

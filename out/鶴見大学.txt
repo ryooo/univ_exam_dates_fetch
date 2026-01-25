@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "鶴見大学",
+    "test_venue_name": "鶴見大学会場（本学キャンパス）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市鶴見区鶴見2-1-3",
+    "dates": "2026/1/27,2026/1/28,2026/2/25,2026/2/26,2026/3/12",
+    "remarks": "歯学部一般選抜(個別)1〜3期",
+    "source_url": "https://support.tsurumi-u.ac.jp/shigaku_overview/",
+    "requirements_url": "https://secure.nanaop-web.com/tsurumi-u/youkou-dental-2026/"
+  },
+  {
+    "univ_name": "鶴見大学",
+    "test_venue_name": "名古屋会場（名古屋会議室 プライムセントラルタワー店）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市西区名駅2-27-8 名古屋プライムセントラルタワー13階",
+    "dates": "2026/1/27",
+    "remarks": "歯学部一般選抜1期サテライト",
+    "source_url": "https://support.tsurumi-u.ac.jp/information/8518/",
+    "requirements_url": "https://secure.nanaop-web.com/tsurumi-u/youkou-dental-2026/"
+  },
+  {
+    "univ_name": "鶴見大学",
+    "test_venue_name": "福岡会場（JR博多シティ会議室／アミュプラザ博多10階）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街1-1 アミュプラザ博多10階",
+    "dates": "2026/1/27",
+    "remarks": "歯学部一般選抜1期サテライト",
+    "source_url": "https://support.tsurumi-u.ac.jp/information/8518/",
+    "requirements_url": "https://secure.nanaop-web.com/tsurumi-u/youkou-dental-2026/"
+  }
+]

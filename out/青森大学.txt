@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "青森会場（青森大学青森キャンパス）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市幸畑2-3-1",
+    "dates": "2026/2/1,2026/2/28,2026/3/17",
+    "remarks": "一般選抜I期・II期・III期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "むつ会場（青森大学むつキャンパス）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県むつ市金谷1-10-1 下北文化会館2F",
+    "dates": "2026/2/1,2026/2/28,2026/3/17",
+    "remarks": "一般選抜I期・II期・III期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "東京会場（青森大学東京キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都江戸川区清新町2-10-1",
+    "dates": "2026/2/1,2026/2/28,2026/3/17",
+    "remarks": "一般選抜I期・II期・III期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "弘前会場（ヘアーアーチスト専門学校）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県弘前市表町6-4",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜I期・II期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "八戸会場（八戸ユートリー）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県八戸市一番町一丁目9番地22",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜I期・II期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "函館会場（フレックステイイン函館駅前）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市若松町20-11",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜I期・II期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "盛岡会場（岩手県産業会館）",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市大通1丁目2番1号",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜I期・II期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "仙台会場（ベルエア会館）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区一番町一丁目4番8号",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜I期・II期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "秋田会場（秋田県総合保健センター）",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市千秋久保田町6-6",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜I期・II期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  },
+  {
+    "univ_name": "青森大学",
+    "test_venue_name": "大館会場（ほくしか鹿鳴ホール（大館文化会館））",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県大館市桜町南45-1",
+    "dates": "2026/2/1,2026/2/28",
+    "remarks": "一般選抜I期・II期",
+    "source_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/",
+    "requirements_url": "https://www.aomori-u-aplus.jp/admission/nyugakushikenyoko/yoko_general-all/"
+  }
+]

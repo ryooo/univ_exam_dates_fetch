@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "本学（柏崎）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県柏崎市藤橋1719番地",
+    "dates": "2025/9/27,2025/10/18,2025/11/16,2025/11/22,2025/12/14,2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "総合型A/B/C,推薦A/B,一般A/B",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": "https://www.niit.ac.jp/entrance/entrance-recruit-sogo/"
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "コープシティ花園 GARESSO",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区花園1-2-2",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "山形国際ホテル",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市香澄町3-4-5",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "TKP郡山カンファレンスセンター",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市大町1-3-3 郡山ワシントンホテル1階",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "高崎白銀ビル 貸し会議室",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市白銀街9番地 白銀ビル2階",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "AP秋葉原（秋葉原ビジネスセンター）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都台東区秋葉原1番1号 秋葉原ビジネスセンター",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "ボルファートとやま",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市奥田新町8-1",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "長野ターミナル会館",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市岡田178-2",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-ippan/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "新潟工科大学",
+    "test_venue_name": "代々木ゼミナール新潟校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2025/11/16",
+    "remarks": "学校推薦型選抜A日程",
+    "source_url": "https://www.niit.ac.jp/entrance/entrance-recruit-suisen/",
+    "requirements_url": ""
+  }
+]

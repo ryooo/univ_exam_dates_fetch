@@ -1,0 +1,112 @@
+[
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "本学試験場（大谷大学 本部キャンパス）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市北区小山上総町",
+    "dates": "2026/2/4,2026/2/5,2026/2/6,2026/2/26,2026/2/27",
+    "remarks": "一般入試第1期・第2期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "東京試験場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入試第1期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "金沢試験場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入試第1期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "名古屋試験場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般入試第1期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "彦根試験場",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5,2026/2/26",
+    "remarks": "一般入試第1期・第2期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "大阪試験場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5,2026/2/26",
+    "remarks": "一般入試第1期・第2期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "神戸試験場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入試第1期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "広島試験場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入試第1期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "高松試験場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入試第1期",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "京都駅前試験場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "要項掲載の学外会場（詳細未公表）",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  },
+  {
+    "univ_name": "大谷大学",
+    "test_venue_name": "草津試験場",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "要項掲載の学外会場（詳細未公表）",
+    "source_url": "https://www.otani.ac.jp/admission/index.html",
+    "requirements_url": "https://www.otani.ac.jp/admission/exam/u10fi900000088mm-att/2026youkou.pdf"
+  }
+]

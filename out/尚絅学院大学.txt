@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "尚絅学院大学",
+    "test_venue_name": "尚絅学院大学",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県名取市ゆりが丘4-10-1",
+    "dates": "2026/2/6,2026/3/4",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://www.shokei.jp/admission/exam/files/venue.pdf",
+    "requirements_url": "https://www.shokei.jp/request/files/guidelines.pdf?2026v3="
+  },
+  {
+    "univ_name": "尚絅学院大学",
+    "test_venue_name": "青森県観光物産館アスパム",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市安方1-1-40",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜 前期（地方会場）",
+    "source_url": "https://www.shokei.jp/admission/exam/files/venue.pdf",
+    "requirements_url": "https://www.shokei.jp/request/files/guidelines.pdf?2026v3="
+  },
+  {
+    "univ_name": "尚絅学院大学",
+    "test_venue_name": "マリオス",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅西通2-9-1",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜 前期（地方会場）",
+    "source_url": "https://www.shokei.jp/admission/exam/files/venue.pdf",
+    "requirements_url": "https://www.shokei.jp/request/files/guidelines.pdf?2026v3="
+  },
+  {
+    "univ_name": "尚絅学院大学",
+    "test_venue_name": "秋田予備校",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市中通4-3-32",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜 前期（地方会場）",
+    "source_url": "https://www.shokei.jp/admission/exam/files/venue.pdf",
+    "requirements_url": "https://www.shokei.jp/request/files/guidelines.pdf?2026v3="
+  },
+  {
+    "univ_name": "尚絅学院大学",
+    "test_venue_name": "山交ビル",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市香澄町3-2-1",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜 前期（地方会場）",
+    "source_url": "https://www.shokei.jp/admission/exam/files/venue.pdf",
+    "requirements_url": "https://www.shokei.jp/request/files/guidelines.pdf?2026v3="
+  },
+  {
+    "univ_name": "尚絅学院大学",
+    "test_venue_name": "駿優予備学校郡山校",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市駅前1-12-6",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜 前期（地方会場）",
+    "source_url": "https://www.shokei.jp/admission/exam/files/venue.pdf",
+    "requirements_url": "https://www.shokei.jp/request/files/guidelines.pdf?2026v3="
+  }
+]

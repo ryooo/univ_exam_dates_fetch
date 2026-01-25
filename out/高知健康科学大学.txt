@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "高知健康科学大学",
+    "test_venue_name": "本学会場（高知健康科学大学）",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市大津乙2500-2",
+    "dates": "2025/10/18,2025/11/15,2025/12/13,2026/2/7",
+    "remarks": "総合型・推薦・社会人・一般A日程",
+    "source_url": "https://ko-ken-k3.ac.jp/admission/",
+    "requirements_url": "https://ko-ken-k3.ac.jp/img/admission_pdf/guideline2026.pdf"
+  },
+  {
+    "univ_name": "高知健康科学大学",
+    "test_venue_name": "四万十会場（新ロイヤルホテル四万十）",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県四万十市中村小姓町26",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程のみ",
+    "source_url": "https://ko-ken-k3.ac.jp/admission/",
+    "requirements_url": "https://ko-ken-k3.ac.jp/img/admission_pdf/guideline2026.pdf"
+  },
+  {
+    "univ_name": "高知健康科学大学",
+    "test_venue_name": "香川会場（リーガホテルゼスト高松）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市古新町9-1",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程のみ",
+    "source_url": "https://ko-ken-k3.ac.jp/admission/",
+    "requirements_url": "https://ko-ken-k3.ac.jp/img/admission_pdf/guideline2026.pdf"
+  },
+  {
+    "univ_name": "高知健康科学大学",
+    "test_venue_name": "徳島会場（徳島ワシントンホテルプラザ）",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市大道1丁目61-1",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程のみ",
+    "source_url": "https://ko-ken-k3.ac.jp/admission/",
+    "requirements_url": "https://ko-ken-k3.ac.jp/img/admission_pdf/guideline2026.pdf"
+  },
+  {
+    "univ_name": "高知健康科学大学",
+    "test_venue_name": "愛媛会場（ホテルアイスル松山）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市宮田町391番地8号",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程のみ",
+    "source_url": "https://ko-ken-k3.ac.jp/admission/",
+    "requirements_url": "https://ko-ken-k3.ac.jp/img/admission_pdf/guideline2026.pdf"
+  }
+]

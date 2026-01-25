@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "四国学院大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県善通寺市文京町3-2-1",
+    "dates": "2026/2/7,2026/3/9,2026/3/18",
+    "remarks": "一般選抜A/B/C日程",
+    "source_url": "https://www.sg-u.ac.jp/admissions_and_aid/admissions/admissions03/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542200-2-11"
+  },
+  {
+    "univ_name": "四国学院大学",
+    "test_venue_name": "徳島県労働福祉会館（わーくぴあ徳島）",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "徳島県徳島市昭和町3丁目35-1",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.sg-u.ac.jp/admissions_and_aid/admissions/admissions03/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542200-2-11"
+  },
+  {
+    "univ_name": "四国学院大学",
+    "test_venue_name": "清和女子中高等学校",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県南国市明見98",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.sg-u.ac.jp/admissions_and_aid/admissions/admissions03/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542200-2-11"
+  },
+  {
+    "univ_name": "四国学院大学",
+    "test_venue_name": "愛媛県県民文化会館（別館）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市道後町2丁目9-14",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.sg-u.ac.jp/admissions_and_aid/admissions/admissions03/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542200-2-11"
+  },
+  {
+    "univ_name": "四国学院大学",
+    "test_venue_name": "岡山シティホテル桑田町 別館",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区桑田町3-30",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.sg-u.ac.jp/admissions_and_aid/admissions/admissions03/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542200-2-11"
+  },
+  {
+    "univ_name": "四国学院大学",
+    "test_venue_name": "RCC文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区橋本町5-11",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.sg-u.ac.jp/admissions_and_aid/admissions/admissions03/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542200-2-11"
+  },
+  {
+    "univ_name": "四国学院大学",
+    "test_venue_name": "四万十市社会福祉センター",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県四万十市右山五月町8-3",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.sg-u.ac.jp/admissions_and_aid/admissions/admissions03/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7542200-2-11"
+  }
+]

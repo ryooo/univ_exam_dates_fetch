@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "常磐大学",
+    "test_venue_name": "常磐大学（水戸会場）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市見和1-430-1",
+    "dates": "2025/9/14,2025/10/25,2025/11/16,2025/12/14,2026/2/4,2026/3/4",
+    "remarks": "総合型/推薦/社会人/編入/転入/外帰/一般A・B",
+    "source_url": "https://navi.tokiwa.ac.jp/admissions/outline/university/general/",
+    "requirements_url": "https://www.tokiwa.ac.jp/pdf/2026-requirements_u.pdf"
+  },
+  {
+    "univ_name": "常磐大学",
+    "test_venue_name": "TKP 東京駅カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区八重洲1-8-16 新槇町ビル",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A方式（東京会場）",
+    "source_url": "https://navi.tokiwa.ac.jp/admissions/outline/university/general/",
+    "requirements_url": "https://www.tokiwa.ac.jp/pdf/2026-requirements_u.pdf"
+  },
+  {
+    "univ_name": "常磐大学",
+    "test_venue_name": "ホテル仙台ガーデンパレス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡4-1-5",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A方式（仙台会場）",
+    "source_url": "https://navi.tokiwa.ac.jp/admissions/outline/university/general/",
+    "requirements_url": "https://www.tokiwa.ac.jp/pdf/2026-requirements_u.pdf"
+  },
+  {
+    "univ_name": "常磐大学",
+    "test_venue_name": "宇都宮東武ホテルグランデ",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市本町5-12",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜A方式（宇都宮会場）",
+    "source_url": "https://navi.tokiwa.ac.jp/admissions/outline/university/general/",
+    "requirements_url": "https://www.tokiwa.ac.jp/pdf/2026-requirements_u.pdf"
+  }
+]

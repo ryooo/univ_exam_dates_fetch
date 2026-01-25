@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "仙台白百合女子大学",
+    "test_venue_name": "本学会場（仙台白百合女子大学）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市泉区本田町6-1",
+    "dates": "2025/10/4,2025/11/8,2025/11/15,2025/12/20,2026/2/5,2026/2/9,2026/3/3,2026/3/16",
+    "remarks": "一般A/B/C、推薦・総合型・編入等",
+    "source_url": "https://sendai-shirayuri.ac.jp/examinee/summary/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "仙台白百合女子大学",
+    "test_venue_name": "青森会場（青森県観光物産館アスパム）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市安方1-1-40",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://sendai-shirayuri.ac.jp/examinee/general_a/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "仙台白百合女子大学",
+    "test_venue_name": "盛岡会場（マリオス）",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市駅前西通2-9-1",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://sendai-shirayuri.ac.jp/examinee/general_a/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "仙台白百合女子大学",
+    "test_venue_name": "秋田会場（秋田県総合保健センター）",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市千秋久保田町6-6",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://sendai-shirayuri.ac.jp/examinee/general_a/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "仙台白百合女子大学",
+    "test_venue_name": "山形会場（ヤマコーホール）",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市香澄町3-2-1",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://sendai-shirayuri.ac.jp/examinee/general_a/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "仙台白百合女子大学",
+    "test_venue_name": "郡山会場（郡山商工会議所）",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市清水台1-3-8",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://sendai-shirayuri.ac.jp/examinee/general_a/",
+    "requirements_url": ""
+  }
+]

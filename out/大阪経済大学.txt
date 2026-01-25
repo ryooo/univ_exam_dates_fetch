@@ -1,0 +1,202 @@
+[
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "本学（大隅キャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市東淀川区大隅2-2-8",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "公募推薦・一般A/B/D",
+    "source_url": "https://www.osaka-ue.ac.jp/profile/access01/areamap/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "大阪南試験場（難波御堂筋ホール）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区難波4-2-1 難波御堂筋ビルディング",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "公募推薦・一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "大阪南試験場（夕陽丘予備校）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市天王寺区堀越町7-4",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般B",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "京都試験場（京都リサーチパーク 東地区1号館）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区中堂寺南町134",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30,2026/2/4,2026/2/5",
+    "remarks": "公募推薦・一般A/B",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "京都試験場（京都リサーチパーク 西地区4号館）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区中堂寺粟田町93",
+    "dates": "2026/3/4",
+    "remarks": "一般D",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "神戸試験場（ラッセホール）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区中山手通4-10-8",
+    "dates": "2026/1/28,2026/1/29,2026/1/30,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "一般A/B/D",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "神戸試験場（三宮研修センター）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区八幡通4-2-12 FRⅡビル",
+    "dates": "2025/11/26,2025/11/27",
+    "remarks": "公募推薦",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "姫路試験場（じばさんびる）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市南駅前町123",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "公募推薦・一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "奈良試験場（奈良県コンベンションセンター）",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県奈良市三条大路1-691-1",
+    "dates": "2025/11/26,2025/11/27",
+    "remarks": "公募推薦",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "奈良試験場（エルトピア奈良）",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県奈良市西木辻町93-6",
+    "dates": "2026/1/28,2026/1/29,2026/1/30,2026/3/4",
+    "remarks": "一般A/D",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "和歌山試験場（フォルテワジマ）",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市本町2-1",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "公募推薦・一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "岡山試験場（オルガホール）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区奉還町1-7-7",
+    "dates": "2025/11/26,2025/11/27,2026/2/4,2026/2/5,2026/3/4",
+    "remarks": "公募推薦・一般B/D",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "岡山試験場（第一セントラルビル2号館）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区本町6-30",
+    "dates": "2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "広島試験場（広島YMCA国際文化センター 3号館）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "公募推薦・一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "高松試験場（高松センタービル）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30,2026/3/4",
+    "remarks": "公募推薦・一般A/D",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "高松試験場（高松商工会議所）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市番町2-2-2",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般B",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "金沢試験場（ISIS金沢医療技術専門学校）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市堀川新町7-1",
+    "dates": "2025/11/26,2025/11/27,2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "公募推薦・一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "米子試験場（国際ファミリープラザ）",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県米子市加茂町2-180",
+    "dates": "2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "福岡試験場（リファレンス駅東ビル）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東1-16-14",
+    "dates": "2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  },
+  {
+    "univ_name": "大阪経済大学",
+    "test_venue_name": "名古屋試験場（リファレンス名古屋栄（ナディアパーク））",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中区栄3-18-1 ナディアパークビジネスセンタービル",
+    "dates": "2026/1/28,2026/1/29,2026/1/30",
+    "remarks": "一般A",
+    "source_url": "https://www.osaka-ue.ac.jp/entrance/admissions/place/",
+    "requirements_url": "https://www.osaka-ue.ac.jp/entrance/file/general/4130"
+  }
+]

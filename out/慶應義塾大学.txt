@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "慶應義塾大学",
+    "test_venue_name": "日吉キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "〒223-8521 神奈川県横浜市港北区日吉4-1-1",
+    "dates": "2026/2/9,2026/2/10,2026/2/11,2026/2/12,2026/2/13,2026/2/14,2026/2/15,2026/2/16,2026/2/17,2026/2/18,2026/3/1",
+    "remarks": "一般選抜。医学部第2次は日吉のみ",
+    "source_url": "https://www.keio.ac.jp/ja/admissions/docs/2026_ippan_kaijou.pdf",
+    "requirements_url": "https://www.keio.ac.jp/ja/admissions/docs/2026_ippan_youkou.pdf"
+  },
+  {
+    "univ_name": "慶應義塾大学",
+    "test_venue_name": "三田キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "〒108-8345 東京都港区三田2-15-45",
+    "dates": "2026/2/9,2026/2/10,2026/2/11,2026/2/12,2026/2/13,2026/2/14,2026/2/15,2026/2/16,2026/2/17,2026/2/18,2026/2/20",
+    "remarks": "一般選抜。看護医療学部第2次は三田",
+    "source_url": "https://www.keio.ac.jp/ja/admissions/docs/2026_ippan_kaijou.pdf",
+    "requirements_url": "https://www.keio.ac.jp/ja/admissions/docs/2026_ippan_youkou.pdf"
+  }
+]

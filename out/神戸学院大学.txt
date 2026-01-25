@@ -1,0 +1,192 @@
+[
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "神戸（ポートアイランド第1キャンパス）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区港島1-1-3",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "神戸（有瀬キャンパス）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市西区伊川谷町有瀬518",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "姫路会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23",
+    "remarks": "公募推薦",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "京都会場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "福知山会場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "和歌山会場",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "米子会場",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "徳島会場",
+    "test_venue_pref": "徳島県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "高知会場",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4",
+    "remarks": "公募推薦・一般(前/中期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2025/11/22,2025/11/23,2026/1/28,2026/1/29,2026/2/3,2026/2/4,2026/3/6",
+    "remarks": "公募推薦・一般(前/中/後期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  },
+  {
+    "univ_name": "神戸学院大学",
+    "test_venue_name": "鹿児島会場",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般(前期)",
+    "source_url": "https://admission.kobegakuin.ac.jp/nyushi/schedule/",
+    "requirements_url": "https://admission.kobegakuin.ac.jp/kobegakuin_cms/wp-content/uploads/2026youkou.pdf"
+  }
+]

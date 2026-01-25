@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "星槎道都大学",
+    "test_venue_name": "星槎道都大学",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道北広島市中の沢149番地",
+    "dates": "",
+    "remarks": "本学会場",
+    "source_url": "https://www.seisadohto.ac.jp/admission/guide/schedule/",
+    "requirements_url": "https://www.seisadohto.ac.jp/20026/nyushi/nyushi_2026schedule.pdf"
+  },
+  {
+    "univ_name": "星槎道都大学",
+    "test_venue_name": "星槎国際高等学校 旭川学習センター",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道旭川市2条通11丁目237-1",
+    "dates": "",
+    "remarks": "旭川会場",
+    "source_url": "https://www.seisadohto.ac.jp/admission/guide/schedule/",
+    "requirements_url": "https://www.seisadohto.ac.jp/20026/nyushi/nyushi_2026schedule.pdf"
+  },
+  {
+    "univ_name": "星槎道都大学",
+    "test_venue_name": "サン・リフレ函館",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市大森町2番14号",
+    "dates": "",
+    "remarks": "函館会場",
+    "source_url": "https://www.seisadohto.ac.jp/admission/guide/schedule/",
+    "requirements_url": "https://www.seisadohto.ac.jp/20026/nyushi/nyushi_2026schedule.pdf"
+  },
+  {
+    "univ_name": "星槎道都大学",
+    "test_venue_name": "とかち館",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西7条南6丁目2番地",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "帯広会場",
+    "source_url": "https://www.seisadohto.ac.jp/admission/guide/schedule/",
+    "requirements_url": "https://www.seisadohto.ac.jp/20026/nyushi/nyushi_2026schedule.pdf"
+  },
+  {
+    "univ_name": "星槎道都大学",
+    "test_venue_name": "星槎大学大学院（横浜情報文化センター5階）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市中区日本大通11番 横浜情報文化センター5階",
+    "dates": "2025/10/11,2025/12/13,2026/2/3,2026/3/6",
+    "remarks": "関東(横浜)会場",
+    "source_url": "https://www.seisadohto.ac.jp/admission/guide/schedule/",
+    "requirements_url": "https://www.seisadohto.ac.jp/20026/nyushi/nyushi_2026schedule.pdf"
+  },
+  {
+    "univ_name": "星槎道都大学",
+    "test_venue_name": "星槎国際高等学校 横浜鴨居学習センター",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市都筑区池辺町4654",
+    "dates": "2026/2/2",
+    "remarks": "関東(横浜)会場",
+    "source_url": "https://www.seisadohto.ac.jp/admission/guide/schedule/",
+    "requirements_url": "https://www.seisadohto.ac.jp/20026/nyushi/nyushi_2026schedule.pdf"
+  }
+]
