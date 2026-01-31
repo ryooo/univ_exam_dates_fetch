@@ -1,0 +1,162 @@
+[
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "白金キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区白金5-9-1",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/campus-guide/sirokane.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "相模原キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県相模原市南区北里1-15-1",
+    "dates": "2026/3/7",
+    "remarks": "医学部 共通テ後期 二次試験",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/undergraduate_ad/system/newfolder/changes_med.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "十和田キャンパス",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/campus-guide/towada.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "仙台サンプラザ",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡5-11-1",
+    "dates": "2026/2/1",
+    "remarks": "獣医学部・海洋生命 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/sendai.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "パシフィコ横浜ノース",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区みなとみらい1-1-2",
+    "dates": "2026/2/3",
+    "remarks": "医学部 第一次試験",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/tokyo.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "駿台予備学校大宮校",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区桜木町1-235-3",
+    "dates": "2026/2/3",
+    "remarks": "理学部 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/omiya.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "JA共済埼玉ビル",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区土手町1丁目2番地",
+    "dates": "2026/2/1,2026/3/1",
+    "remarks": "健康科学部 一般 前期・後期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/omiya.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "日本こども福祉専門学校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区花園1-4-8",
+    "dates": "2025/10/18",
+    "remarks": "健康科学部 総合型選抜 前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/tokyo_copy_copy.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "新潟法律大学校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天2-4-21",
+    "dates": "2026/2/1",
+    "remarks": "健康科学部 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/tokyo_copy_copy.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "代々木ゼミナール新潟校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2026/3/1",
+    "remarks": "健康科学部 一般後期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/tokyo_copy_copy.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "長野市生涯学習センター（TOiGO WEST）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市大字鶴賀問御所町1271-3（TOiGO WEST3・4階）",
+    "dates": "2026/2/1",
+    "remarks": "健康科学部 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/nagano.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM名古屋駅前",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市西区名駅1-1-17 名駅ダイヤメイテツビル3階",
+    "dates": "2026/2/1",
+    "remarks": "獣医学部・海洋生命 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/nagoya.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "JEC日本研修センター 心斎橋",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区南船場1-18-11 SRビル長堀2F・4F・5F",
+    "dates": "2026/2/1",
+    "remarks": "獣医学部・海洋生命 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/osaka.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "CIVI研修センター新大阪東",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市東淀川区東中島1-19-4 LUCID SQUARE SHIN-OSAKA 6･7階",
+    "dates": "2026/3/7",
+    "remarks": "獣医学部 一般後期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/osaka.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "河合塾上本町校",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市天王寺区上汐3-1-11",
+    "dates": "2026/2/3",
+    "remarks": "理学部 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/osaka.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北里大学",
+    "test_venue_name": "アクア博多",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区中洲5-3-8",
+    "dates": "2026/2/1",
+    "remarks": "獣医学部・海洋生命 一般前期",
+    "source_url": "https://www.kitasato-u.ac.jp/jp/goukaku/place/place/fukuoka.html",
+    "requirements_url": ""
+  }
+]

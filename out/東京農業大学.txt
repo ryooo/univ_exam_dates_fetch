@@ -1,0 +1,212 @@
+[
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "TKPガーデンシティ札幌駅前（札幌会場）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北2条西2-19 TKP札幌ビル",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM仙台西口（仙台会場）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区花京院1-2-15 ソララプラザ",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/3/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "河合塾 水戸校（水戸会場）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市宮町1-2-22",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "ライトキューブ宇都宮（宇都宮会場）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市宮みらい1-20",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "TKP大宮駅西口カンファレンスセンター（大宮会場）",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区桜木町1-8-1 ベルヴュオフィス大宮",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/3/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "河合塾 津田沼校（津田沼会場）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県習志野市谷津1-15-33",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/3/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "河合塾 池袋校 西館（池袋会場）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区西池袋1-3-12",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "me:rise立川 Conference Room（立川会場）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都立川市曙町2-8-28 TAMA MIRAI SQUARE",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM横浜ランドマークタワー（横浜会場A）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区みなとみらい2-2-1 横浜ランドマークタワー25F",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "河合塾 横浜校（横浜会場B）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区北幸2-11-6",
+    "dates": "2026/3/2",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "看護リハビリ新潟保健医療専門学校（新潟会場）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区花園2-2-19",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "秀英予備校 静岡本部校（静岡会場）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区鷹匠2-7-1",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "imy会議室（名古屋会場・A日程）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市東区葵3-7-14",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "ホテルメルパルク名古屋（名古屋会場・B日程）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市東区葵3-16-16",
+    "dates": "2026/3/2",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "河合塾 天王寺校（大阪会場A）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市天王寺区南河堀町3-23",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "河合塾 上本町校（大阪会場B）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市天王寺区上汐3-1-11",
+    "dates": "2026/3/2",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "九州ビル会議室（福岡会場A）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅南1-8-31",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "河合塾 福岡校（福岡会場B）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区渡辺通4-2-11",
+    "dates": "2026/3/2",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "沖縄産業支援センター（那覇会場）",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市小禄1831-1",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "世田谷キャンパス（本学会場）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都世田谷区桜丘1-1-1",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/3/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東京農業大学",
+    "test_venue_name": "北海道オホーツクキャンパス（本学会場）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道網走市八坂196",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/3/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nodai.ac.jp/application/files/8317/6353/5856/2026ippan__.pdf",
+    "requirements_url": ""
+  }
+]

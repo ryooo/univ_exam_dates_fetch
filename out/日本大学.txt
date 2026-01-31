@@ -1,0 +1,192 @@
+[
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "札幌試験場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "仙台試験場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "郡山試験場",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/3/4",
+    "remarks": "N全学統一方式第1期・第2期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "つくば試験場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "佐野試験場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "高崎試験場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "千葉試験場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/3/4",
+    "remarks": "N全学統一方式第1期・第2期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "東京試験場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/3/4",
+    "remarks": "N全学統一方式第1期・第2期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "横浜試験場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "湘南試験場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/3/4",
+    "remarks": "N全学統一方式第1期・第2期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "新潟試験場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "長野試験場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "三島試験場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "名古屋試験場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "大阪試験場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "広島試験場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "福岡試験場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "長崎試験場",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  },
+  {
+    "univ_name": "日本大学",
+    "test_venue_name": "宮崎試験場",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "N全学統一方式第1期",
+    "source_url": "https://www.cit.nihon-u.ac.jp/admission/information/type-n/",
+    "requirements_url": "https://www.nihon-u.ac.jp/admission_info/application/general_information/general/"
+  }
+]

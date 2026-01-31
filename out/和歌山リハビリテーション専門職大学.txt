@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "和歌山リハビリテーション専門職大学",
+    "test_venue_name": "和歌山リハビリテーション専門職大学（本学）",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市湊本町三丁目1番地",
+    "dates": "2025/9/14,2025/10/12,2025/11/9,2025/11/16,2025/12/14,2026/1/25,2026/2/22,2026/3/6",
+    "remarks": "総合型・推薦・一般・共テ・社会人",
+    "source_url": "https://wakayama.kyowa.ac.jp/entrance-exam-information/entrance-exam/",
+    "requirements_url": "https://wakayama.kyowa.ac.jp/entrance-exam-information/application-requirements/"
+  }
+]

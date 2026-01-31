@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "日本獣医生命科学大学",
+    "test_venue_name": "日本獣医生命科学大学 第一校舎",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都武蔵野市境南町1-7-1",
+    "dates": "2025/10/19,2025/11/15,2025/12/14,2026/2/4,2026/2/5,2026/2/6,2026/3/10",
+    "remarks": "総合・推薦・一般A/B/C・第Ⅱ期",
+    "source_url": "https://www.nvlu.ac.jp/nichijyunavi/admissions/guideline/index.html",
+    "requirements_url": "https://www.nvlu.ac.jp/nichijyunavi/wp-content/uploads/sites/20/2025/11/Admission-Guidelines_2026.pdf"
+  },
+  {
+    "univ_name": "日本獣医生命科学大学",
+    "test_venue_name": "天満研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区錦町2-21",
+    "dates": "2026/2/5,2026/2/6",
+    "remarks": "一般選抜B/C日程",
+    "source_url": "https://www.nvlu.ac.jp/nichijyunavi/admissions/guideline/18.html",
+    "requirements_url": "https://www.nvlu.ac.jp/nichijyunavi/wp-content/uploads/sites/20/2025/11/Admission-Guidelines_2026.pdf"
+  },
+  {
+    "univ_name": "日本獣医生命科学大学",
+    "test_venue_name": "福岡ガーデンパレス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区天神4-8-15",
+    "dates": "2026/2/5,2026/2/6",
+    "remarks": "一般選抜B/C日程",
+    "source_url": "https://www.nvlu.ac.jp/nichijyunavi/admissions/guideline/18.html",
+    "requirements_url": "https://www.nvlu.ac.jp/nichijyunavi/wp-content/uploads/sites/20/2025/11/Admission-Guidelines_2026.pdf"
+  }
+]

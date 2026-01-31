@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "名古屋学芸大学",
+    "test_venue_name": "日進キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県日進市岩崎町竹ノ山57",
+    "dates": "2026/2/6,2026/2/7,2026/2/8,2026/3/4",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://www.nuas.ac.jp/profile/access.html",
+    "requirements_url": "https://www.nagoyagakugei.com/examination/module/pdf/guidelines/2026_nuas_ippan_01.pdf"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "渋谷キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区東四丁目10-28",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/3/2",
+    "remarks": "一般選抜A日程・B日程",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "横浜たまプラーザキャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市青葉区新石川三丁目22-1",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/3/2",
+    "remarks": "一般選抜A日程・B日程",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "青山学院大学 青山キャンパス（女子短期大学北校舎・南校舎）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区渋谷4-4-25",
+    "dates": "2026/2/2",
+    "remarks": "渋谷近隣会場（2/2のみ実施の可能性）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "札幌会場（代々木ゼミナール札幌校）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北7条西2-5",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "仙台会場（TKPガーデンシティPREMIUM仙台西口）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区花京院1-2-15 ソララプラザ",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "新潟会場（代々木ゼミナール新潟校）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "長野会場（長野ターミナル会館）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市中御所岡田178-2",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "静岡会場（レイアップ御幸町ビル）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区御幸町11-8",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "名古屋会場（TKP名古屋栄カンファレンスセンター）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中区栄3-2-3 名古屋日興證券ビル7階",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "大阪会場（ハートンホール日本生命御堂筋ビル12F）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区南船場4-2-4 日本生命御堂筋ビル12F",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  },
+  {
+    "univ_name": "國學院大学",
+    "test_venue_name": "福岡会場（博多バスターミナル）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街2",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜A日程（地方会場）",
+    "source_url": "https://www.kokugakuin.ac.jp/admission/admissions/q5",
+    "requirements_url": "https://img-kokugakuin.com/wp/wp-content/uploads/2025/10/87526e3efbf5f13f644dffe78dda7392.pdf"
+  }
+]

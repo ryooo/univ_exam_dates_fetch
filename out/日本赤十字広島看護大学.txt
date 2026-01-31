@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "日本赤十字広島看護大学",
+    "test_venue_name": "日本赤十字広島看護大学（本学会場）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県廿日市市阿品台東1番2号",
+    "dates": "2025/11/15,2025/11/16,2026/2/7",
+    "remarks": "総合・学校推薦・一般・社会人学士",
+    "source_url": "https://www.jrchcn.ac.jp/site/examination/35.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本赤十字広島看護大学",
+    "test_venue_name": "サンポートホール高松（高松会場）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市サンポート2-1 高松シンボルタワー・ホール棟（5階）",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜（高松会場）",
+    "source_url": "https://www.jrchcn.ac.jp/site/examination/35.html",
+    "requirements_url": ""
+  }
+]

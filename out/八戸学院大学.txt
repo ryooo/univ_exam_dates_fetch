@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "八戸学院大学",
+    "test_venue_name": "本学（美保野キャンパス）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県八戸市美保野13-98",
+    "dates": "2026/2/6,2026/3/6",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期",
+    "source_url": "https://www.hachinohe-u.ac.jp/nyushi/h-human/ippan/",
+    "requirements_url": "https://www.hachinohe-u.ac.jp/wp-content/uploads/2025/07/0fdd38b0c7afe3ea51f8fcbca9cbd5c5.pdf"
+  },
+  {
+    "univ_name": "八戸学院大学",
+    "test_venue_name": "",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜Ⅰ期（青森会場）",
+    "source_url": "https://www.hachinohe-u.ac.jp/nyushi/h-human/ippan/",
+    "requirements_url": "https://www.hachinohe-u.ac.jp/wp-content/uploads/2025/07/0fdd38b0c7afe3ea51f8fcbca9cbd5c5.pdf"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "新宿キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区中落合4-31-1",
+    "dates": "2026/1/31,2026/2/4,2026/2/19,2026/3/6",
+    "remarks": "全学部統一/一般A・B・C",
+    "source_url": "https://www.mejiro.ac.jp/univ/jyukensei/access/shinjuku/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "さいたま岩槻キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市岩槻区浮谷320",
+    "dates": "2026/2/4,2026/2/19,2026/3/6",
+    "remarks": "一般A・B・C（保健医療・看護）",
+    "source_url": "https://www.mejiro.ac.jp/univ/jyukensei/access/iwatsuki/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "春日部会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "さいたま会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "千葉会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "柏会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "横浜会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  },
+  {
+    "univ_name": "目白大学",
+    "test_venue_name": "松本会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "全学部統一",
+    "source_url": "https://www.mejiro.ac.jp/univ/about/jyukensei_hogosya/",
+    "requirements_url": "https://www.mejiro.ac.jp/univ/jyukensei/pdf/univ_general_youkou2026.pdf"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "本学（比治山大学）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市東区牛田新町4丁目1-1",
+    "dates": "2026/2/1,2026/2/4,2026/2/6",
+    "remarks": "一般選抜A・B・C日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  },
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "福山（穴吹ビジネス専門学校）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市東町2-3-6",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  },
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "三次（三次グランドホテル）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県三次市十日市南1-10-1",
+    "dates": "2026/2/1,2026/2/4",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  },
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "周南（ホテルサンルート徳山）",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県周南市築港町8-33",
+    "dates": "2026/2/1,2026/2/4",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  },
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "松江（松江労働会館［ろうかん］）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市御手船場町557-7",
+    "dates": "2026/2/1,2026/2/4",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  },
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "松山（アイテムえひめ［愛媛国際貿易センター］）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市大可賀2丁目1番28号",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  },
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "福山（福山ニューキャッスルホテル）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市三之丸町8-16",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  },
+  {
+    "univ_name": "比治山大学",
+    "test_venue_name": "浜田（いわみーる）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県浜田市野原町1826-1",
+    "dates": "2026/2/4",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.hijiyama-u.ac.jp/exam/page411.html",
+    "requirements_url": "https://hijiyama-u.inet-entry.com/ebook/guidebook/index.html"
+  }
+]

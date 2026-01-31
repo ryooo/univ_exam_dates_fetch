@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "東京歯科大学",
+    "test_venue_name": "水道橋校舎本館（東京会場）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田三崎町2-9-18",
+    "dates": "2025/11/23,2026/2/2,2026/3/7",
+    "remarks": "全入試の東京会場（推薦～一般I/II等）",
+    "source_url": "https://www.tdc.ac.jp/college/applicants/tabid/180/Default.aspx",
+    "requirements_url": "https://www.tdc.ac.jp/Portals/0/images/college/kyoumu/sikenyoukou_20251003.pdf"
+  },
+  {
+    "univ_name": "東京歯科大学",
+    "test_venue_name": "TKP新大阪ビジネスセンター（大阪会場）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市淀川区西中島5-13-9 新大阪MTビル1号館4階",
+    "dates": "2026/2/2",
+    "remarks": "一般I・共通テストIの大阪会場",
+    "source_url": "https://www.tdc.ac.jp/college/applicants/tabid/180/Default.aspx",
+    "requirements_url": "https://www.tdc.ac.jp/Portals/0/images/college/kyoumu/sikenyoukou_20251003.pdf"
+  },
+  {
+    "univ_name": "東京歯科大学",
+    "test_venue_name": "TKP博多駅筑紫口ビジネスセンター（福岡会場）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街4-8 ユーコウビル7～9階",
+    "dates": "2026/2/2",
+    "remarks": "一般I・共通テストIの福岡会場",
+    "source_url": "https://www.tdc.ac.jp/college/applicants/tabid/180/Default.aspx",
+    "requirements_url": "https://www.tdc.ac.jp/Portals/0/images/college/kyoumu/sikenyoukou_20251003.pdf"
+  }
+]

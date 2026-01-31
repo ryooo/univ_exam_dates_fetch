@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "奈良大学（本学キャンパス）",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良県奈良市山陵町1500",
+    "dates": "2025/11/12,2025/11/13,2026/1/28,2026/1/29,2026/2/18,2026/3/16",
+    "remarks": "推薦・一般全日程（後期含む）",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2025/11/12,2025/11/13,2026/1/28,2026/1/29,2026/2/18",
+    "remarks": "推薦・一般 前期A/B・中期",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般 前期A/B",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2025/11/12,2025/11/13,2026/1/28,2026/1/29,2026/2/18",
+    "remarks": "推薦・一般 前期A/B・中期",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2025/11/12,2025/11/13,2026/1/28,2026/1/29",
+    "remarks": "推薦・一般 前期A/B",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2025/11/12,2025/11/13,2026/1/28,2026/1/29,2026/2/18",
+    "remarks": "推薦・一般 前期A/B・中期",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2025/11/12,2025/11/13,2026/1/28,2026/1/29",
+    "remarks": "推薦・一般 前期A/B",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般 前期A/B",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/1/28,2026/1/29",
+    "remarks": "一般 前期A/B",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  },
+  {
+    "univ_name": "奈良大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/28,2026/1/29,2026/2/18",
+    "remarks": "一般 前期A/B・中期",
+    "source_url": "https://www.nara-u.ac.jp/admission/about/",
+    "requirements_url": "https://www.nara-u.ac.jp/admission/2026_youkou_ippan.pdf"
+  }
+]

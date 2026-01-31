@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "本学：八木山キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市太白区八木山香澄町35-1",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程（全/指定）",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "青森会場",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "八戸会場",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "盛岡会場（マリオス）",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅西通2-9-1",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/topics/admission/48068.html",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "秋田会場",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "山形会場",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "郡山会場",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "さいたま（大宮）会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程サテライト",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/general/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannAkyoutu12026_2.pdf"
+  },
+  {
+    "univ_name": "東北工業大学",
+    "test_venue_name": "本学：八木山キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市太白区八木山香澄町35-1",
+    "dates": "2026/3/5",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.tohtech.ac.jp/admission/outline/generalb/",
+    "requirements_url": "https://www.tohtech.ac.jp/admission/requirements/pdf/ippannBkyoutu22026.pdf"
+  }
+]

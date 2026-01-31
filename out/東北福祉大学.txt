@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "東北福祉大学 国見キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区国見1-8-1",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/3/5,2026/3/6",
+    "remarks": "A日程統一・分割、B日程",
+    "source_url": "https://www.tfu.jp/admissions/ippan_B/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "アスパム",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市安方1-1-40",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "ユートリー・VISIT はちのへ",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県八戸市一番町1-9-22",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "アイーナ",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅前西通1-7-1",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "ゲストハウス気仙沼アーバン",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県気仙沼市本郷22-5",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "秋田予備校",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市中通4-3-32",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "大手門パルズ",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市木の実町12-37",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "鶴岡市勤労者会館",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県鶴岡市泉町8-57",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "郡山商工会議所",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市清水台1-3-8",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  },
+  {
+    "univ_name": "東北福祉大学",
+    "test_venue_name": "東京グランドホテル",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区芝2-5-2",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "A日程統一・分割",
+    "source_url": "https://www.tfu.jp/admissions/ippan_A/",
+    "requirements_url": "https://www.tfu.jp/admissions/ippan_A/pdf/ippan_yoko2026.pdf"
+  }
+]

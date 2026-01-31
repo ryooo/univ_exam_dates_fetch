@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "日本赤十字東北看護大学",
+    "test_venue_name": "本学キャンパス（日本赤十字東北看護大学）",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市上北手猿田字苗代沢17-3",
+    "dates": "2025/10/28,2025/11/15,2026/2/3",
+    "remarks": "総合型・学校推薦・一般/前期B",
+    "source_url": "https://www.rctohoku.ac.jp/examination/e_faculty/",
+    "requirements_url": "https://www.rctohoku.ac.jp/wp/wp-content/uploads/2025/07/R8_bosyuyoko_suisen.pdf"
+  },
+  {
+    "univ_name": "日本赤十字東北看護大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般・共テ前期B（小論文）",
+    "source_url": "https://www.rctohoku.ac.jp/examination/e_faculty/",
+    "requirements_url": "https://www.rctohoku.ac.jp/wp/wp-content/uploads/2025/07/R8_bosyuyoko_ippan.pdf"
+  }
+]

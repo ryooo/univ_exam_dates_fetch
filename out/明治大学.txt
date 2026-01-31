@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "駿河台キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区神田駿河台1-1",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/koho/campus_guide/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "和泉キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都杉並区永福1-9-1",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/koho/campus_guide/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "生田キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県川崎市多摩区東三田1-1-1",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/koho/campus_guide/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "中野キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中野区中野4-21-1",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/koho/campus_guide/nakano/access.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/exam/information/guidelines/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/exam/information/guidelines/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/exam/information/guidelines/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/exam/information/guidelines/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/exam/information/guidelines/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  },
+  {
+    "univ_name": "明治大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "全学部統一入学試験",
+    "source_url": "https://www.meiji.ac.jp/exam/information/guidelines/index.html",
+    "requirements_url": "https://www.meiji.ac.jp/exam/information/guidelines/2026-meiji_guidelines.pdf"
+  }
+]

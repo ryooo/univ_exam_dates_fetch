@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "埼玉キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県南埼玉郡宮代町学園台4-1",
+    "dates": "2026/1/29,2026/1/30,2026/2/17",
+    "remarks": "一般選抜A,B/英語外部試験",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  },
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  },
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "水戸会場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  },
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  },
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "高崎会場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  },
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "柏会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/2/17",
+    "remarks": "一般選抜A,B/英語外部試験",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  },
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "千葉会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜A",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  },
+  {
+    "univ_name": "日本工業大学",
+    "test_venue_name": "池袋会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/1/29,2026/2/17",
+    "remarks": "一般選抜A,B/英語外部試験",
+    "source_url": "https://juken.nit.ac.jp/examination/info/ippan",
+    "requirements_url": "https://juken.nit.ac.jp/images/examination/apl_requir/2026/guidelines/ippan_kyotsu.pdf"
+  }
+]

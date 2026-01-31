@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "流通科学大学",
+    "test_venue_name": "神戸会場（本学）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市西区学園西町3丁目1番",
+    "dates": "2025/11/15,2025/11/16,2026/2/3,2026/2/4,2026/3/10",
+    "remarks": "公募推薦・一般(中期/後期)等",
+    "source_url": "https://www.umds.ac.jp/admission/info/",
+    "requirements_url": "https://www.umds.ac.jp/wp-content/themes/umds/files/admission/admission-info/2026/recruitment-recommendation_bosyu.pdf"
+  },
+  {
+    "univ_name": "流通科学大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/3",
+    "remarks": "公募推薦・一般(中期)",
+    "source_url": "https://www.umds.ac.jp/admission/info/",
+    "requirements_url": "https://www.umds.ac.jp/wp-content/themes/umds/files/admission/admission-info/2026/recruitment-recommendation_bosyu.pdf"
+  },
+  {
+    "univ_name": "流通科学大学",
+    "test_venue_name": "姫路会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/3",
+    "remarks": "公募推薦・一般(中期)",
+    "source_url": "https://www.umds.ac.jp/admission/info/",
+    "requirements_url": "https://www.umds.ac.jp/wp-content/themes/umds/files/admission/admission-info/2026/recruitment-recommendation_bosyu.pdf"
+  },
+  {
+    "univ_name": "流通科学大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/3,2026/3/10",
+    "remarks": "公募推薦・一般(中期/後期)",
+    "source_url": "https://www.umds.ac.jp/admission/info/",
+    "requirements_url": "https://www.umds.ac.jp/wp-content/themes/umds/files/admission/admission-info/2026/recruitment-recommendation_bosyu.pdf"
+  },
+  {
+    "univ_name": "流通科学大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2025/11/15,2026/2/3,2026/3/10",
+    "remarks": "公募推薦・一般(中期/後期)",
+    "source_url": "https://www.umds.ac.jp/admission/info/",
+    "requirements_url": "https://www.umds.ac.jp/wp-content/themes/umds/files/admission/admission-info/2026/recruitment-recommendation_bosyu.pdf"
+  },
+  {
+    "univ_name": "流通科学大学",
+    "test_venue_name": "米子会場",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "",
+    "dates": "2025/11/15",
+    "remarks": "公募推薦 前期",
+    "source_url": "https://www.umds.ac.jp/admission/info/",
+    "requirements_url": "https://www.umds.ac.jp/wp-content/themes/umds/files/admission/admission-info/2026/recruitment-recommendation_bosyu.pdf"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "越谷キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県越谷市南荻島3337",
+    "dates": "2026/2/1,2026/2/2,2026/2/7,2026/2/8,2026/2/9,2026/2/10,2026/3/4",
+    "remarks": "全国/文理2/A/C日程",
+    "source_url": "https://www.bunkyo.ac.jp/access/koshigaya/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/download_ippan/index.php"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "湘南キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県茅ヶ崎市行谷1100",
+    "dates": "2026/2/2,2026/2/7,2026/2/8,2026/2/9,2026/2/10,2026/2/24,2026/3/4",
+    "remarks": "文理2/A/B/C日程",
+    "source_url": "https://www.bunkyo.ac.jp/access/shonan/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/download_ippan/index.php"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "東京あだちキャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都足立区花畑5-6-1",
+    "dates": "2026/2/2,2026/2/7,2026/2/8,2026/2/9,2026/2/10,2026/2/24,2026/3/4",
+    "remarks": "文理2/A/B/C日程",
+    "source_url": "https://www.bunkyo.ac.jp/access/adachi/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/download_ippan/index.php"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "水戸会場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "高崎会場",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "千葉会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "横浜会場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "富山会場",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "松本会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  },
+  {
+    "univ_name": "文教大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "全国入試",
+    "source_url": "https://www.bunkyo.ac.jp/admission/overview/general/whole/",
+    "requirements_url": "https://www.bunkyo.ac.jp/admission/overview/download/file/file_ippan_zenkoku.pdf"
+  }
+]

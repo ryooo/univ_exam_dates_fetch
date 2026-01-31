@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "梅花女子大学",
+    "test_venue_name": "本学キャンパス（茨木エレガンスキャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府茨木市宿久庄2-19-5",
+    "dates": "2025/9/27,2025/10/18,2025/11/15,2025/11/22,2025/12/14,2026/1/24,2026/1/25,2026/3/6",
+    "remarks": "AO・総合型・一般Ⅰ期A/B・Ⅲ期",
+    "source_url": "https://garden.baika.ac.jp/exam/calendar.html",
+    "requirements_url": "https://garden.baika.ac.jp/exam/general.html"
+  }
+]

@@ -1,55 +1,102 @@
-Error occurred: Net::ReadTimeout with #<TCPSocket:(closed)>
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/protocol.rb:217:in `rbuf_fill'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/protocol.rb:191:in `readuntil'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/protocol.rb:201:in `readline'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http/response.rb:42:in `read_status_line'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http/response.rb:31:in `read_new'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http.rb:1528:in `block in transport_request'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http.rb:1519:in `catch'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http.rb:1519:in `transport_request'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http.rb:1492:in `request'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rack-mini-profiler-2.3.4/lib/patches/net_patches.rb:19:in `block in request_with_mini_profiler'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rack-mini-profiler-2.3.4/lib/mini_profiler/profiling_methods.rb:46:in `step'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rack-mini-profiler-2.3.4/lib/patches/net_patches.rb:18:in `request_with_mini_profiler'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http.rb:1485:in `block in request'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http.rb:933:in `start'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/net/http.rb:1483:in `request'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rack-mini-profiler-2.3.4/lib/patches/net_patches.rb:19:in `block in request_with_mini_profiler'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rack-mini-profiler-2.3.4/lib/mini_profiler/profiling_methods.rb:46:in `step'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rack-mini-profiler-2.3.4/lib/patches/net_patches.rb:18:in `request_with_mini_profiler'
-/Users/ryooo/git/univ_exam_dates_fetch/lib/tasks/univ_fetch.rake:115:in `block (3 levels) in <main>'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv/parser.rb:1122:in `emit_row'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv/parser.rb:871:in `block in parse_quotable_loose'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv/parser.rb:52:in `block in each_line'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv/parser.rb:49:in `each_line'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv/parser.rb:49:in `each_line'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv/parser.rb:823:in `parse_quotable_loose'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv/parser.rb:336:in `parse'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv.rb:1280:in `each'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv.rb:1280:in `each'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv.rb:511:in `block in foreach'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv.rb:658:in `open'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/2.7.0/csv.rb:510:in `foreach'
-/Users/ryooo/git/univ_exam_dates_fetch/lib/tasks/univ_fetch.rake:82:in `block (2 levels) in <main>'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/task.rb:281:in `block in execute'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/task.rb:281:in `each'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/task.rb:281:in `execute'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/task.rb:219:in `block in invoke_with_call_chain'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/task.rb:199:in `synchronize'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/task.rb:199:in `invoke_with_call_chain'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/task.rb:188:in `invoke'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:188:in `invoke_task'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:138:in `block (2 levels) in top_level'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:138:in `each'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:138:in `block in top_level'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:147:in `run_with_threads'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:132:in `top_level'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:83:in `block in run'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:214:in `standard_exception_handling'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/lib/rake/application.rb:80:in `run'
-/Users/ryooo/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rake-13.3.1/exe/rake:27:in `<top (required)>'
-/Users/ryooo/.rbenv/versions/2.7.2/bin/rake:23:in `load'
-/Users/ryooo/.rbenv/versions/2.7.2/bin/rake:23:in `<main>'
-
-
-Response Data:
+[
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "本学入試会場（長崎国際大学）",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県佐世保市ハウステンボス町2825-7",
+    "dates": "2026/2/4,2026/2/5,2026/3/5",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "長崎会場（出島メッセ長崎）",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎市尾上町4番1号",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "佐賀会場（サンシティビル）",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀市神野東2丁目1-3",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "福岡会場（博多バスターミナル）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区博多駅中央街2-1 博多バスターミナル9F",
+    "dates": "2026/2/4,2026/2/5,2026/3/5",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "北九州会場（毎日西部会館）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "北九州市小倉北区紺屋町13番1号",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "熊本会場（ホテル熊本テルサ）",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本市中央区水前寺公園28-51",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "大分会場（大分県労働福祉会館〈ソレイユ〉）",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分市中央町4丁目2-5",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "宮崎会場（宮崎KITEN）",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎市錦町1番1号 8階コンベンションホール",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "鹿児島会場（サンプラザ天文館）",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島市東千石町2-30",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  },
+  {
+    "univ_name": "長崎国際大学",
+    "test_venue_name": "那覇会場（沖縄県市町村自治会館）",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "那覇市旭町116-37",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://niupr.jp/exam/place/",
+    "requirements_url": "https://niupr.jp/exam/papers/"
+  }
+]

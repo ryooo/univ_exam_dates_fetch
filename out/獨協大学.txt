@@ -1,0 +1,132 @@
+[
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県草加市学園町1-1",
+    "dates": "2026/2/1,2026/2/2,2026/3/6",
+    "remarks": "全学科統一前期/後期・学科別/外検+",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "札幌会場（代々木ゼミナール札幌校）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北七条西2-5",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "仙台会場（フォレスト仙台）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区柏木1丁目2-45",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "新潟会場（代々木ゼミナール新潟校）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "水戸会場（水戸駿優予備学校本部校舎）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "宇都宮会場（ホテルマイステイズ宇都宮）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市東宿郷2-4-1",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "高崎会場（Gメッセ群馬）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市岩押町12-24",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "千葉会場（幕張メッセ国際会議場）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市美浜区中瀬2-1",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "新宿会場（ベルサール新宿グランド）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区西新宿8丁目17-3",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "東京会場（サピアタワー）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区丸の内1丁目7-12",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "長野会場（信学会長野予備学校）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市北石堂町1022",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "静岡会場（ツインメッセ静岡）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区曲金3-1-10",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  },
+  {
+    "univ_name": "獨協大学",
+    "test_venue_name": "福岡会場（リファレンスヒューリックスクエア福岡天神）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区天神2-8-49 ヒューリック福岡ビル 4F・5F",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "全学科統一前期・学科別/外検+実施",
+    "source_url": "https://nyushi.dokkyo.ac.jp/nyushi/examination-hall",
+    "requirements_url": "https://nyushi.dokkyo.ac.jp/2026nyushi/"
+  }
+]

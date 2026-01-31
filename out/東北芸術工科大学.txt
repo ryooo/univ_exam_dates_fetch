@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "東北芸術工科大学",
+    "test_venue_name": "東北芸術工科大学（山形会場）",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形市上桜田3-4-5",
+    "dates": "2025/10/11,2025/10/12,2025/10/13,2025/12/14,2026/1/31,2026/3/14",
+    "remarks": "総合型・一般選抜・編入等の本学会場",
+    "source_url": "https://www.tuad.ac.jp/adm/information/exam/geb/",
+    "requirements_url": "https://www.tuad.ac.jp/adm/wp-content/uploads/2025/05/2026-tuad_guidelines-03.pdf"
+  },
+  {
+    "univ_name": "東北芸術工科大学",
+    "test_venue_name": "東北福祉大学 仙台駅東口キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡2-5-26",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜［前期］ 仙台会場",
+    "source_url": "https://www.tuad.ac.jp/adm/information/exam/geb/",
+    "requirements_url": "https://www.tuad.ac.jp/adm/wp-content/uploads/2025/05/2026-tuad_guidelines-03.pdf"
+  },
+  {
+    "univ_name": "東北芸術工科大学",
+    "test_venue_name": "AP秋葉原",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都台東区秋葉原1-1",
+    "dates": "2025/12/14,2026/1/31",
+    "remarks": "総合型併願/外国人/一般前期",
+    "source_url": "https://www.tuad.ac.jp/adm/information/exam/rea/",
+    "requirements_url": "https://www.tuad.ac.jp/adm/wp-content/uploads/2025/05/2026-tuad_guidelines-02.pdf"
+  },
+  {
+    "univ_name": "東北芸術工科大学",
+    "test_venue_name": "北海道青少年会館 コンパス",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市南区真駒内柏丘7丁目8-1",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜［前期］ 札幌会場",
+    "source_url": "https://www.tuad.ac.jp/adm/information/exam/geb/",
+    "requirements_url": "https://www.tuad.ac.jp/adm/wp-content/uploads/2025/05/2026-tuad_guidelines-03.pdf"
+  },
+  {
+    "univ_name": "東北芸術工科大学",
+    "test_venue_name": "外苑キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区北青山1-7-15",
+    "dates": "2026/3/14",
+    "remarks": "一般選抜［後期］ 東京会場",
+    "source_url": "https://www.tuad.ac.jp/adm/information/exam/gea/",
+    "requirements_url": "https://www.tuad.ac.jp/adm/wp-content/uploads/2025/05/2026-tuad_guidelines-05.pdf"
+  }
+]

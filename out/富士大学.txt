@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "富士大学",
+    "test_venue_name": "本学（富士大学）",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県花巻市下根子450-3",
+    "dates": "2026/2/6,2026/2/20,2026/3/13",
+    "remarks": "一般選抜 I期/II期/III期",
+    "source_url": "https://www.fuji-u.ac.jp/exam/senbatsu",
+    "requirements_url": "https://p1.ssl-dl.jp/dl/57228-64f92add4c2e5bd068410f5630dfad1f"
+  },
+  {
+    "univ_name": "富士大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/20,2026/3/13",
+    "remarks": "一般選抜 I期/II期/III期",
+    "source_url": "https://www.fuji-u.ac.jp/exam/senbatsu",
+    "requirements_url": "https://p1.ssl-dl.jp/dl/57228-64f92add4c2e5bd068410f5630dfad1f"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "東北医科薬科大学（小松島キャンパス）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区小松島4-4-1",
+    "dates": "2026/1/24,2026/2/7,2026/2/8,2026/2/21,2026/3/4",
+    "remarks": "医:一般/共テ2次, 薬:前期/後期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/medicine-application/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_medicine.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "TOC有明",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都江東区有明3-5-7",
+    "dates": "2026/1/24",
+    "remarks": "医:一般1次",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/medicine-application/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_medicine.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "ベルサール渋谷ガーデン",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区南平台町16-17 住友不動産渋谷ガーデンタワー",
+    "dates": "2026/1/24,2026/2/21",
+    "remarks": "医:一般1次, 薬:後期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/medicine-application/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_medicine.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "グランキューブ大阪（大阪府立国際会議場）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区中之島5-3-51",
+    "dates": "2026/1/24",
+    "remarks": "医:一般1次",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/medicine-application/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_medicine.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "ACU-A（アスティ45）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北4条西5丁目",
+    "dates": "2026/1/24",
+    "remarks": "医:一般1次, 薬:前期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/medicine-application/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_medicine.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "ＡＰ東京八重洲通り",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区京橋1丁目10番7号 KPP八重洲ビル",
+    "dates": "2026/1/24,2026/2/21",
+    "remarks": "薬:前期/後期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/pharmacy-venue/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_pharmacy.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "駿優予備学校郡山校",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市駅前1-12-6",
+    "dates": "2026/1/24",
+    "remarks": "薬:前期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/pharmacy-venue/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_pharmacy.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "大手門パルズ",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市木の実町12-37",
+    "dates": "2026/1/24",
+    "remarks": "薬:前期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/pharmacy-venue/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_pharmacy.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "アキタスクエア",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市中通4丁目14-16",
+    "dates": "2026/1/24",
+    "remarks": "薬:前期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/pharmacy-venue/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_pharmacy.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "マリオス",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅西通2-9-1",
+    "dates": "2026/1/24,2026/2/21",
+    "remarks": "薬:前期/後期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/pharmacy-venue/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_pharmacy.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "アラスカ（ホテルアベスト青森）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市新町1丁目11-22",
+    "dates": "2026/1/24",
+    "remarks": "薬:前期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/pharmacy-venue/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_pharmacy.pdf"
+  },
+  {
+    "univ_name": "東北医科薬科大学",
+    "test_venue_name": "水戸駿優予備学校",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2026/1/24",
+    "remarks": "薬:前期",
+    "source_url": "https://www.tohoku-mpu.ac.jp/admission/pharmacy-venue/",
+    "requirements_url": "https://www.tohoku-mpu.ac.jp/doc/application_pharmacy.pdf"
+  }
+]

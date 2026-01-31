@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "東北文化学園大学",
+    "test_venue_name": "仙台試験場（東北文化学園大学）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区国見6-45-1",
+    "dates": "2026/2/5,2026/3/5",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://www.tbgu.ac.jp/admissions-info/admissions/summary/general-selection-examination",
+    "requirements_url": "https://p1.ssl-dl.jp/dl/71120-e456df6f0af75778ab93d11d252fad8c"
+  },
+  {
+    "univ_name": "東北文化学園大学",
+    "test_venue_name": "盛岡試験場（アイーナ・いわて県民情報交流センター）",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅西通1-7-1",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.tbgu.ac.jp/admissions-info/admissions/summary/general-selection-examination",
+    "requirements_url": "https://p1.ssl-dl.jp/dl/71120-e456df6f0af75778ab93d11d252fad8c"
+  },
+  {
+    "univ_name": "東北文化学園大学",
+    "test_venue_name": "山形試験場（食糧会館）",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市旅篭町3-1-4",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.tbgu.ac.jp/admissions-info/admissions/summary/general-selection-examination",
+    "requirements_url": "https://p1.ssl-dl.jp/dl/71120-e456df6f0af75778ab93d11d252fad8c"
+  },
+  {
+    "univ_name": "東北文化学園大学",
+    "test_venue_name": "郡山試験場（ホテルハマツ）",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市虎丸町3-18",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.tbgu.ac.jp/admissions-info/admissions/summary/general-selection-examination",
+    "requirements_url": "https://p1.ssl-dl.jp/dl/71120-e456df6f0af75778ab93d11d252fad8c"
+  }
+]

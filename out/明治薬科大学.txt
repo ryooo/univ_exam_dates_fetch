@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "明治薬科大学",
+    "test_venue_name": "本学",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都清瀬市野塩2-522-1",
+    "dates": "2026/1/31,2026/2/5,2026/2/8",
+    "remarks": "B前期/C方式/B後期",
+    "source_url": "https://www.my-pharm.ac.jp/shiken/list/general/",
+    "requirements_url": "https://www.my-pharm.ac.jp/files/co/shiken/general_s_2026.pdf"
+  },
+  {
+    "univ_name": "明治薬科大学",
+    "test_venue_name": "横浜試験場（ビジョンセンター横浜）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区北幸2-5-15 プレミア横浜西口ビル3F",
+    "dates": "2026/1/31,2026/2/8",
+    "remarks": "B前期/B後期",
+    "source_url": "https://www.my-pharm.ac.jp/shiken/attention/",
+    "requirements_url": "https://www.my-pharm.ac.jp/files/co/shiken/general_s_2026.pdf"
+  }
+]

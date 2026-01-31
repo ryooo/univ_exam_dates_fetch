@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "東京聖栄大学",
+    "test_venue_name": "本学キャンパス（東京聖栄大学）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都葛飾区西新小岩1-4-6",
+    "dates": "2025/9/27,2025/10/18,2025/11/15,2025/12/13,2026/1/9,2026/1/29,2026/2/11,2026/2/27,2026/3/7,2026/3/18",
+    "remarks": "総合型/推薦/一般/編入/社会人",
+    "source_url": "https://www.tsc-05.ac.jp/admission_guidance/admission_list/",
+    "requirements_url": "https://www.tsc-05.ac.jp/pdf_admission/r8_admission.pdf"
+  },
+  {
+    "univ_name": "東京聖栄大学",
+    "test_venue_name": "宇都宮会場（栃木県青年会館コンセーレ）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市駒生1-1-6",
+    "dates": "2025/10/18",
+    "remarks": "総合型選抜2期のみ",
+    "source_url": "https://www.tsc-05.ac.jp/admission_guidance/ao_sp/",
+    "requirements_url": "https://www.tsc-05.ac.jp/pdf_admission/r8_admission.pdf"
+  }
+]

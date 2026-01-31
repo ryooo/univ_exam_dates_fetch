@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "文星芸術大学",
+    "test_venue_name": "文星芸術大学（本学）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市上戸祭4-8-15",
+    "dates": "2026/1/31,2026/2/4,2026/3/5,2026/3/9",
+    "remarks": "一般選抜 1期・2期",
+    "source_url": "https://geidai.bunsei.ac.jp/exam/exam-general/",
+    "requirements_url": "https://geidai.bunsei.ac.jp/wp-content/themes/bunseiuniversity/assets/pdf/exam/exam-general/app_2026_general.pdf"
+  }
+]

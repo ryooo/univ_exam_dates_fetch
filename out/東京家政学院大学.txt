@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "東京家政学院大学",
+    "test_venue_name": "千代田三番町キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区三番町22番地",
+    "dates": "",
+    "remarks": "一般選抜ほか各選抜会場",
+    "source_url": "https://www.kasei-gakuin.ac.jp/access/",
+    "requirements_url": "https://www.kasei-gakuin.ac.jp/tkgu_cms/wp-content/uploads/2025/10/23e7d69853df052c46d9b3274a0d8888-1.pdf"
+  },
+  {
+    "univ_name": "東京家政学院大学",
+    "test_venue_name": "町田キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都町田市相原町2600番地",
+    "dates": "",
+    "remarks": "一般選抜ほか各選抜会場",
+    "source_url": "https://www.kasei-gakuin.ac.jp/access/",
+    "requirements_url": "https://www.kasei-gakuin.ac.jp/tkgu_cms/wp-content/uploads/2025/10/23e7d69853df052c46d9b3274a0d8888-1.pdf"
+  }
+]

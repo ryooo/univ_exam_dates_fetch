@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "名古屋芸術大学",
+    "test_venue_name": "名古屋芸術大学 東キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県北名古屋市熊之庄古井281番地",
+    "dates": "2025/11/15,2026/2/3,2026/2/7,2026/3/3",
+    "remarks": "一般選抜1期・2期,総合型3期,推薦",
+    "source_url": "https://www.nua.ac.jp/about/access/",
+    "requirements_url": "https://www.nua.ac.jp/examinee/files/pdf/2026_bosyuyoko_nua20251203.pdf"
+  },
+  {
+    "univ_name": "名古屋芸術大学",
+    "test_venue_name": "名古屋芸術大学 西キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県北名古屋市徳重西沼65番地",
+    "dates": "2025/11/15,2026/2/3,2026/2/7,2026/3/3",
+    "remarks": "一般選抜1期・2期,総合型3期,推薦",
+    "source_url": "https://www.nua.ac.jp/about/access/",
+    "requirements_url": "https://www.nua.ac.jp/examinee/files/pdf/2026_bosyuyoko_nua20251203.pdf"
+  }
+]

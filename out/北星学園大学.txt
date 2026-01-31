@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "北星学園大学",
+    "test_venue_name": "札幌会場（本学校舎）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市厚別区大谷地西2-3-1",
+    "dates": "2026/2/6,2026/2/7,2026/2/8,2026/3/9",
+    "remarks": "一般選抜Ⅰ期・Ⅱ期",
+    "source_url": "https://entry.hokusei.ac.jp/admission-info2025/",
+    "requirements_url": "https://entry.hokusei.ac.jp/hgu/wp-content/uploads/2025/07/bd51ef5ff09e204fc744f6146d9f7828.pdf"
+  },
+  {
+    "univ_name": "北星学園大学",
+    "test_venue_name": "旭川会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7,2026/2/8",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://entry.hokusei.ac.jp/news/139683/",
+    "requirements_url": "https://entry.hokusei.ac.jp/hgu/wp-content/uploads/2025/07/bd51ef5ff09e204fc744f6146d9f7828.pdf"
+  },
+  {
+    "univ_name": "北星学園大学",
+    "test_venue_name": "帯広会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7,2026/2/8",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://entry.hokusei.ac.jp/news/139683/",
+    "requirements_url": "https://entry.hokusei.ac.jp/hgu/wp-content/uploads/2025/07/bd51ef5ff09e204fc744f6146d9f7828.pdf"
+  },
+  {
+    "univ_name": "北星学園大学",
+    "test_venue_name": "函館会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7,2026/2/8",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://entry.hokusei.ac.jp/news/139683/",
+    "requirements_url": "https://entry.hokusei.ac.jp/hgu/wp-content/uploads/2025/07/bd51ef5ff09e204fc744f6146d9f7828.pdf"
+  },
+  {
+    "univ_name": "北星学園大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/6,2026/2/7,2026/2/8",
+    "remarks": "一般選抜Ⅰ期",
+    "source_url": "https://entry.hokusei.ac.jp/news/139683/",
+    "requirements_url": "https://entry.hokusei.ac.jp/hgu/wp-content/uploads/2025/07/bd51ef5ff09e204fc744f6146d9f7828.pdf"
+  }
+]

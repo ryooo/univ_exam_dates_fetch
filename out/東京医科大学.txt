@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "東京医科大学",
+    "test_venue_name": "東京医科大学 新宿キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区新宿6-1-1",
+    "dates": "2025/11/29,2026/2/4,2026/2/14",
+    "remarks": "学士・推薦、一般/共テ小論文・2次",
+    "source_url": "https://admissions-tokyo-med.jp/med/exam/",
+    "requirements_url": "https://admissions-tokyo-med.jp/wp-content/uploads/2025/07/ippan_kyotsu2026.pdf"
+  },
+  {
+    "univ_name": "東京医科大学",
+    "test_venue_name": "ベルサール新宿グランド",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区西新宿8-17-3 住友不動産新宿グランドタワー1F",
+    "dates": "2026/2/4",
+    "remarks": "一般1次・小論文（受験票で指定）",
+    "source_url": "https://www.bellesalle.co.jp/shisetsu/shinjuku/bs_shinjukugrand/",
+    "requirements_url": "https://admissions-tokyo-med.jp/wp-content/uploads/2025/07/ippan_kyotsu2026.pdf"
+  }
+]

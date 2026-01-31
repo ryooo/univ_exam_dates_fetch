@@ -1,0 +1,182 @@
+[
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "日進キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県日進市米野木町三ヶ峯4-4",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/2/5,2026/3/6",
+    "remarks": "一般前期A/M・後期",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "名古屋会場（名古屋キャンパス伏見ビル）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中区錦1-20-1",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/2/5,2026/3/6",
+    "remarks": "一般前期A/M・後期",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "予備会場（名古屋キャンパス丸の内タワー）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中区錦1-3-1",
+    "dates": "",
+    "remarks": "名古屋予備会場（指定時使用）",
+    "source_url": "https://www.nucba.ac.jp/admission/place/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "東京会場（東京丸の内キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区丸の内2-4-1 丸の内ビルディング9F",
+    "dates": "2026/2/4",
+    "remarks": "一般前期A",
+    "source_url": "https://www.nucba.ac.jp/admission/exam.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "大阪会場（大阪うめきたキャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区大深町3-1 グランフロント大阪ナレッジキャピタル7F",
+    "dates": "2026/2/3",
+    "remarks": "一般前期A",
+    "source_url": "https://www.nucba.ac.jp/admission/exam.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "岐阜会場（岐阜市商工会議所）",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県岐阜市神田町2-2",
+    "dates": "2025/11/8,2026/1/26,2026/3/6",
+    "remarks": "後期ほか（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "岐阜会場（ダイワロイネットホテル岐阜）",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県岐阜市神田町8-5",
+    "dates": "2025/12/7,2026/2/4,2026/2/5",
+    "remarks": "前期A/M（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "津会場（三重県教育文化会館）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市桜橋2-142",
+    "dates": "2025/11/8,2026/1/26,2026/2/4,2026/2/5",
+    "remarks": "前期A/Mほか（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "津会場（三重県総合文化センター）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市一身田上津部田1234",
+    "dates": "2025/12/7",
+    "remarks": "他方式会場（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "浜松会場（アクトシティ浜松コングレスセンター）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区板屋町111-1",
+    "dates": "2025/11/8,2026/1/25,2026/2/3",
+    "remarks": "一般前期Aほか（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "浜松会場（浜松市福祉交流センター）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区成子町140-8",
+    "dates": "2025/12/7,2026/2/5",
+    "remarks": "一般Mほか（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "静岡会場（グランシップ）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区東静岡2-3-1",
+    "dates": "2026/2/4",
+    "remarks": "一般前期A",
+    "source_url": "https://www.nucba.ac.jp/admission/exam.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "飯田会場（シルクホテル）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県飯田市錦町1-10",
+    "dates": "2026/2/4",
+    "remarks": "一般前期A",
+    "source_url": "https://www.nucba.ac.jp/admission/exam.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "金沢会場（金沢勤労者プラザ）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市北安江3-2-20",
+    "dates": "2026/2/4",
+    "remarks": "一般前期A",
+    "source_url": "https://www.nucba.ac.jp/admission/exam.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "富山会場（富山県民会館）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4-18",
+    "dates": "2026/2/3",
+    "remarks": "一般前期A",
+    "source_url": "https://www.nucba.ac.jp/admission/exam.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "岡山会場（岡山国際交流センター）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区奉還町2-2-1",
+    "dates": "2026/2/2",
+    "remarks": "一般前期A",
+    "source_url": "https://www.nucba.ac.jp/admission/exam.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "福岡会場（JR博多シティ会議室）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅中央街1-1 JR博多シティ9F・10F",
+    "dates": "",
+    "remarks": "地方会場（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "名古屋商科大学",
+    "test_venue_name": "那覇会場（沖縄県青年会館）",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市久米2-15-23",
+    "dates": "",
+    "remarks": "地方会場（要項参照）",
+    "source_url": "https://www.nucba.ac.jp/access/examination.html",
+    "requirements_url": ""
+  }
+]

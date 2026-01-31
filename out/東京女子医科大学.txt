@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "東京女子医科大学",
+    "test_venue_name": "京王プラザホテル（東京会場）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区西新宿2-2-1",
+    "dates": "2026/2/1",
+    "remarks": "医学部 一般選抜 第1次（学科）",
+    "source_url": "https://lexus-ec.com/2026-tokyozyosiika-ippan01/",
+    "requirements_url": "https://www.twmu-u.jp/wp-content/uploads/2025/08/c43d57becc25447e0e1e87f7bdddba48.pdf"
+  },
+  {
+    "univ_name": "東京女子医科大学",
+    "test_venue_name": "東京女子医科大学 彌生記念教育棟",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区河田町8-1",
+    "dates": "2026/2/14,2026/2/15",
+    "remarks": "医学部 一般選抜 第2次（面接）",
+    "source_url": "https://lexus-ec.com/2026-tokyozyosiika-ippan01/",
+    "requirements_url": "https://www.twmu-u.jp/wp-content/uploads/2025/08/c43d57becc25447e0e1e87f7bdddba48.pdf"
+  },
+  {
+    "univ_name": "東京女子医科大学",
+    "test_venue_name": "東京女子医科大学 河田町キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区河田町8-1",
+    "dates": "2026/2/7",
+    "remarks": "看護学部 一般選抜",
+    "source_url": "https://www.twmu-u.jp/nursing-ent-ippan/",
+    "requirements_url": "https://www.twmu-u.jp/wp-content/uploads/2025/10/2026kango_boshuyoko_Ver4.pdf"
+  }
+]

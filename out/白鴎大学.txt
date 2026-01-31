@@ -1,0 +1,172 @@
+[
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "白鴎大学 本キャンパス",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県小山市駅東通り2-2-2",
+    "dates": "2025/12/6,2026/1/27,2026/2/6,2026/2/18,2026/3/4",
+    "remarks": "学業特待・一般選抜",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM仙台西口",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区花京院1-2-15 ソララプラザ 4～8階",
+    "dates": "2025/12/6,2026/1/27,2026/2/6,2026/2/18,2026/3/4",
+    "remarks": "学業特待・一般選抜",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "コラッセふくしま",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県福島市三河南町1-20",
+    "dates": "2026/1/27,2026/2/6",
+    "remarks": "学業特待・一般選抜",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "駿優予備学校 郡山校",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県郡山市駅前1-12-6",
+    "dates": "2025/12/6,2026/1/27,2026/2/6,2026/2/18,2026/3/4",
+    "remarks": "学業特待・一般選抜",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "駿優教育会館",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2025/12/6,2026/1/27,2026/2/6,2026/2/18,2026/3/4",
+    "remarks": "学業特待・一般選抜",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "高崎ワシントンホテルプラザ",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市八島町70",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜",
+    "source_url": "https://hakuoh.ac.jp/admission/admission_02_09.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "小野池学院",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市栄町15-3",
+    "dates": "2025/12/6,2026/1/27,2026/2/18,2026/3/4",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "駿台予備学校 大宮校",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区桜木町1-235-3",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜",
+    "source_url": "https://hakuoh.ac.jp/admission/admission_02_09.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "TKP大宮ビジネスセンター",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区仲町2-26 JMFビル大宮01 1・2・4階",
+    "dates": "2026/1/27,2026/2/18",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM秋葉原",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区外神田1-7-5 フロントプレイス秋葉原 2～3階",
+    "dates": "2025/12/6,2026/1/27",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "ホテルグローバルビュー新潟",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-2-4",
+    "dates": "2025/12/6,2026/1/27,2026/2/18",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "青森県観光物産館アスパム",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市安方1-1-40",
+    "dates": "2025/12/6",
+    "remarks": "学業特待",
+    "source_url": "https://jukensei.hakuoh.jp/news/gakutoku12_121401-53736/",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "マリオス（盛岡地域交流センター）",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市盛岡駅前西通2-9-1",
+    "dates": "2025/12/6,2026/1/27",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "大手門パルズ",
+    "test_venue_pref": "山形県",
+    "test_venue_address": "山形県山形市木の実町12-37",
+    "dates": "2025/12/6,2026/1/27",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "グランパークホテル パネックスいわき",
+    "test_venue_pref": "福島県",
+    "test_venue_address": "福島県いわき市平字白銀町9-1",
+    "dates": "2025/12/6,2026/1/27",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "ライトキューブ宇都宮",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市宮みらい1-20",
+    "dates": "2025/12/6,2026/1/27",
+    "remarks": "学業特待",
+    "source_url": "https://hakuoh.jp/admission/admission_02_06.html",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  },
+  {
+    "univ_name": "白鴎大学",
+    "test_venue_name": "TKPメトロポリタン秋田カンファレンスセンター",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田県秋田市中通7-2-1 ホテルメトロポリタン秋田 3～4階",
+    "dates": "2025/12/6",
+    "remarks": "学業特待",
+    "source_url": "https://jukensei.hakuoh.jp/news/gakutoku12_121401-53736/",
+    "requirements_url": "https://hakuoh.jp/admission/pdf/test-requirements_common.pdf"
+  }
+]

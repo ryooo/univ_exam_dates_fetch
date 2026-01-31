@@ -1,0 +1,102 @@
+[
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "本学会場（前田キャンパス）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市手稲区前田7条15丁目4-1",
+    "dates": "2026/2/1,2026/3/7",
+    "remarks": "一般選抜前期・後期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "旭川会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "北見会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "帯広会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "釧路会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "函館会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "青森会場",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "盛岡会場",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  },
+  {
+    "univ_name": "北海道科学大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜前期",
+    "source_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_selectedition_general_.pdf",
+    "requirements_url": "https://guidance-hus.campus-gate.com/guidefolder/2026guidebook_all_page_.pdf"
+  }
+]

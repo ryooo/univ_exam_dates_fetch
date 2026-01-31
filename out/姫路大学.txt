@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "姫路大学",
+    "test_venue_name": "本学（姫路）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県姫路市大塩町2042-2",
+    "dates": "2026/1/31,2026/2/1,2026/2/15,2026/3/15",
+    "remarks": "一般選抜A/B/C日程",
+    "source_url": "https://himedai.net/trial.html",
+    "requirements_url": "https://e-exam.jp/pdf/2026_youkou.pdf"
+  },
+  {
+    "univ_name": "姫路大学",
+    "test_venue_name": "豊岡会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1,2026/2/15,2026/3/15",
+    "remarks": "一般選抜A/B/C日程",
+    "source_url": "https://himedai.net/trial.html",
+    "requirements_url": "https://e-exam.jp/pdf/2026_youkou.pdf"
+  },
+  {
+    "univ_name": "姫路大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://himedai.net/trial.html",
+    "requirements_url": "https://e-exam.jp/pdf/2026_youkou.pdf"
+  },
+  {
+    "univ_name": "姫路大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://himedai.net/trial.html",
+    "requirements_url": "https://e-exam.jp/pdf/2026_youkou.pdf"
+  },
+  {
+    "univ_name": "姫路大学",
+    "test_venue_name": "福山会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://himedai.net/trial.html",
+    "requirements_url": "https://e-exam.jp/pdf/2026_youkou.pdf"
+  },
+  {
+    "univ_name": "姫路大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://himedai.net/trial.html",
+    "requirements_url": "https://e-exam.jp/pdf/2026_youkou.pdf"
+  },
+  {
+    "univ_name": "姫路大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://himedai.net/trial.html",
+    "requirements_url": "https://e-exam.jp/pdf/2026_youkou.pdf"
+  }
+]

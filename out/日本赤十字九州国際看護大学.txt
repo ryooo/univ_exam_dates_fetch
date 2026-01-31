@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字九州国際看護大学",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県宗像市アスティ1丁目1番地",
+    "dates": "2025/10/18,2025/11/15,2026/2/3,2026/3/8",
+    "remarks": "総合型・推薦・社会人・一般選抜",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance01/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/150b58bab67621857110ecac0458f80e.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社沖縄県支部",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市与儀1-3-1",
+    "dates": "2025/11/15",
+    "remarks": "学校推薦型（公募・指定校・赤十字特）",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社福岡県支部",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市南区大楠3-1-1",
+    "dates": "",
+    "remarks": "赤十字特別推薦・県支部面接会場",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社佐賀県支部",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県佐賀市川原町2-45",
+    "dates": "",
+    "remarks": "赤十字特別推薦・県支部面接会場",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社長崎県支部",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市茂里町3-15",
+    "dates": "",
+    "remarks": "赤十字特別推薦・県支部面接会場",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社熊本県支部",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市東区長嶺南2-1-1",
+    "dates": "",
+    "remarks": "赤十字特別推薦・県支部面接会場",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社大分県支部",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市千代町2丁目3番31号",
+    "dates": "",
+    "remarks": "赤十字特別推薦・県支部面接会場",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社宮崎県支部",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市別府町3番1号",
+    "dates": "",
+    "remarks": "赤十字特別推薦・県支部面接会場",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  },
+  {
+    "univ_name": "日本赤十字九州国際看護大学",
+    "test_venue_name": "日本赤十字社鹿児島県支部",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市鴨池新町1-5",
+    "dates": "",
+    "remarks": "赤十字特別推薦・県支部面接会場",
+    "source_url": "https://www.jrckicn.ac.jp/entrance/entrance02/",
+    "requirements_url": "https://www.jrckicn.ac.jp/wp/wp-content/uploads/2016/09/282cc3465efa701c6965f0c0b3b88f73.pdf"
+  }
+]

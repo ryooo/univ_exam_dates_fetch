@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "和光大学",
+    "test_venue_name": "和光大学（本学会場）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都町田市金井ヶ丘5丁目1番1号",
+    "dates": "2025/10/25,2025/10/26,2025/11/22,2025/11/23,2025/12/13,2026/1/29,2026/1/30,2026/2/24,2026/3/4",
+    "remarks": "一般前期・後期/総合型/推薦/特別",
+    "source_url": "https://www.wako.ac.jp/exam/faculty/selection.html",
+    "requirements_url": "https://www.wako.ac.jp/exam/faculty/ippan_kyoute_sougouk2026.pdf"
+  },
+  {
+    "univ_name": "和光大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般前期2科目選択のみ",
+    "source_url": "https://www.wako.ac.jp/exam/faculty/selection.html",
+    "requirements_url": "https://www.wako.ac.jp/exam/faculty/ippan_kyoute_sougouk2026.pdf"
+  },
+  {
+    "univ_name": "和光大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般前期2科目選択のみ",
+    "source_url": "https://www.wako.ac.jp/exam/faculty/selection.html",
+    "requirements_url": "https://www.wako.ac.jp/exam/faculty/ippan_kyoute_sougouk2026.pdf"
+  },
+  {
+    "univ_name": "和光大学",
+    "test_venue_name": "さいたま会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般前期2科目選択のみ",
+    "source_url": "https://www.wako.ac.jp/exam/faculty/selection.html",
+    "requirements_url": "https://www.wako.ac.jp/exam/faculty/ippan_kyoute_sougouk2026.pdf"
+  },
+  {
+    "univ_name": "和光大学",
+    "test_venue_name": "千葉会場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般前期2科目選択のみ",
+    "source_url": "https://www.wako.ac.jp/exam/faculty/selection.html",
+    "requirements_url": "https://www.wako.ac.jp/exam/faculty/ippan_kyoute_sougouk2026.pdf"
+  },
+  {
+    "univ_name": "和光大学",
+    "test_venue_name": "三島会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般前期2科目選択のみ",
+    "source_url": "https://www.wako.ac.jp/exam/faculty/selection.html",
+    "requirements_url": "https://www.wako.ac.jp/exam/faculty/ippan_kyoute_sougouk2026.pdf"
+  }
+]

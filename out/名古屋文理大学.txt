@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "名古屋文理大学",
+    "test_venue_name": "名古屋文理大学（稲沢キャンパス）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県稲沢市稲沢町前田365",
+    "dates": "2025/10/11,2025/11/8,2025/11/9,2025/12/13,2025/12/20,2026/1/28,2026/1/29,2026/3/2,2026/3/12",
+    "remarks": "AO・推薦・特別・一般(前期/後期)",
+    "source_url": "https://www.nagoya-bunri.ac.jp/admission/venue/",
+    "requirements_url": "https://www.nagoya-bunri.ac.jp/admission/outline/"
+  },
+  {
+    "univ_name": "名古屋文理大学",
+    "test_venue_name": "津会場（TSU予備校 津ビル2F）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市広明町328 津ビル2F",
+    "dates": "2026/1/28",
+    "remarks": "一般前期2科目型地方会場",
+    "source_url": "https://www.nagoya-bunri.ac.jp/admission/exam-2/regular-01/",
+    "requirements_url": "https://www.nagoya-bunri.ac.jp/admission/outline/"
+  },
+  {
+    "univ_name": "名古屋文理大学",
+    "test_venue_name": "金沢会場（石川県文教会館）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市尾山町10-5",
+    "dates": "2026/1/28",
+    "remarks": "一般前期2科目型地方会場",
+    "source_url": "https://www.nagoya-bunri.ac.jp/admission/exam-2/regular-01/",
+    "requirements_url": "https://www.nagoya-bunri.ac.jp/admission/outline/"
+  },
+  {
+    "univ_name": "名古屋文理大学",
+    "test_venue_name": "浜松会場（ホテルアセント浜松）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区砂山町353-1",
+    "dates": "2026/1/28",
+    "remarks": "一般前期2科目型地方会場",
+    "source_url": "https://www.nagoya-bunri.ac.jp/admission/exam-2/regular-01/",
+    "requirements_url": "https://www.nagoya-bunri.ac.jp/admission/outline/"
+  },
+  {
+    "univ_name": "名古屋文理大学",
+    "test_venue_name": "静岡会場（CSA貸会議室 レイアップ御幸町ビル）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区御幸町11-8",
+    "dates": "2026/1/28",
+    "remarks": "一般前期2科目型地方会場",
+    "source_url": "https://www.nagoya-bunri.ac.jp/admission/exam-2/regular-01/",
+    "requirements_url": "https://www.nagoya-bunri.ac.jp/admission/outline/"
+  },
+  {
+    "univ_name": "名古屋文理大学",
+    "test_venue_name": "富山会場（富山県民会館）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4-18",
+    "dates": "2026/1/28",
+    "remarks": "一般前期2科目型地方会場",
+    "source_url": "https://www.nagoya-bunri.ac.jp/admission/exam-2/regular-01/",
+    "requirements_url": "https://www.nagoya-bunri.ac.jp/admission/outline/"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "武雄アジア大学",
+    "test_venue_name": "佐賀女子短期大学",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県佐賀市本庄町本庄1313",
+    "dates": "2026/1/28,2026/2/10,2026/2/25,2026/3/23",
+    "remarks": "総合型選抜(受験日選択制)対面",
+    "source_url": "https://www.asahigakuen.ac.jp/tau/news/news_docu/detail/news_detail_134.php",
+    "requirements_url": "https://www.asahigakuen.ac.jp/tau/news/news_docu/detail/pdf/news_134.pdf"
+  },
+  {
+    "univ_name": "武雄アジア大学",
+    "test_venue_name": "佐賀試験場",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/14,2026/3/2",
+    "remarks": "一般選抜 前期/中期/後期",
+    "source_url": "https://www.asahigakuen.ac.jp/tau/nyushi/nyushi.php",
+    "requirements_url": "https://www.asahigakuen.ac.jp/tau/nyushi/pdf/2026_bosyu_youkou.pdf"
+  },
+  {
+    "univ_name": "武雄アジア大学",
+    "test_venue_name": "福岡試験場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.asahigakuen.ac.jp/tau/nyushi/nyushi.php",
+    "requirements_url": "https://www.asahigakuen.ac.jp/tau/nyushi/pdf/2026_bosyu_youkou.pdf"
+  },
+  {
+    "univ_name": "武雄アジア大学",
+    "test_venue_name": "佐世保試験場",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://www.asahigakuen.ac.jp/tau/nyushi/nyushi.php",
+    "requirements_url": "https://www.asahigakuen.ac.jp/tau/nyushi/pdf/2026_bosyu_youkou.pdf"
+  }
+]

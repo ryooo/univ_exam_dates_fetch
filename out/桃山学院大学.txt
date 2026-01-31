@@ -1,0 +1,222 @@
+[
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "桃山学院大学 和泉キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府和泉市まなび野1-1",
+    "dates": "2025/10/11,2025/12/20,2026/1/31,2025/11/15,2025/11/16,2026/2/9,2026/2/10,2026/3/11",
+    "remarks": "総合型・推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "桃山学院大学 大阪・あべのキャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市阿倍野区昭和町3-1-57",
+    "dates": "2025/10/11,2025/11/3,2025/12/20,2026/1/31,2026/3/12,2025/11/15,2025/11/16,2026/2/9,2026/2/10,2026/3/11",
+    "remarks": "総合型・推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "難波御堂筋ホール",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市中央区難波4-2-1 難波御堂筋ビルディング",
+    "dates": "2025/12/18,2026/1/20,2026/1/21",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "新梅田研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市福島区福島6-22-20",
+    "dates": "2025/12/18,2026/1/20,2026/1/21",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "奈良県コンベンションセンター",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "奈良市三条大路一丁目691-1",
+    "dates": "2026/1/20,2026/1/21",
+    "remarks": "一般前期の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "奈良県産業会館",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "大和高田市幸町2番33号",
+    "dates": "2025/11/15,2025/11/16,2026/2/9,2026/2/10",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "和歌山県書道資料館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山市西汀丁61",
+    "dates": "2025/11/15,2025/11/16,2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "石川県教育会館",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "金沢市香林坊1丁目2-40",
+    "dates": "2025/11/15,2025/11/16,2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "三重県地方自治労働文化センター",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "津市栄町2丁目361",
+    "dates": "2025/11/15,2025/11/16,2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "スマイルホテル米子",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "米子市西福原1-1-55",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "推薦の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_suisen.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "米子商工会議所",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "米子市加茂町2-204",
+    "dates": "2025/11/20,2025/11/21",
+    "remarks": "推薦の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_suisen.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "国際ファミリープラザ",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "米子市加茂町2-180",
+    "dates": "2026/2/9,2026/2/10",
+    "remarks": "一般前期の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "岡山進研学院",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山市北区伊福町2-10-27",
+    "dates": "2025/11/15,2025/11/16,2025/12/18,2026/1/20,2026/1/21,2026/2/9,2026/2/10,2026/3/11",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "RCC文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島市中区橋本町5-11",
+    "dates": "2025/11/15,2025/11/16,2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "生涯学習センター（まなびCAN）",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "高松市片原町11-1",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "推薦の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_suisen.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "高松商工会議所",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "高松市番町二丁目2番2号",
+    "dates": "2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "一般前期の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "TKP松山市駅前カンファレンスセンター",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "松山市千舟町4-3-7",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "推薦の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_suisen.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "えひめ共済会館",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "松山市三番町5丁目13番地1",
+    "dates": "2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "一般前期の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "土佐塾予備校",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知市はりまや町3-7-8",
+    "dates": "2025/11/15,2025/11/16,2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "八重洲博多ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区博多駅東2-18-30",
+    "dates": "2025/11/15,2025/11/16",
+    "remarks": "推薦の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_suisen.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "リファレンス駅東ビル",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区博多駅東1-16-14",
+    "dates": "2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "一般前期の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  },
+  {
+    "univ_name": "桃山学院大学",
+    "test_venue_name": "ビジネスセンター KEEP FRONT",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "那覇市泊2丁目1-18 T&C泊ビル4F・5F",
+    "dates": "2025/11/15,2025/11/16,2026/1/20,2026/1/21,2026/2/9,2026/2/10",
+    "remarks": "推薦・一般の試験会場",
+    "source_url": "https://www.andrew.ac.jp/nyushi/info/place.html",
+    "requirements_url": "https://www.andrew.ac.jp/nyushi/pdf/admission/yoko_ippan.pdf"
+  }
+]

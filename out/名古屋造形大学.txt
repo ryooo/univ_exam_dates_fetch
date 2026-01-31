@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "名古屋造形大学",
+    "test_venue_name": "名古屋造形大学（本学キャンパス）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市北区名城2丁目4番1",
+    "dates": "2025/9/20,2025/9/21,2025/10/4,2025/11/8,2025/11/15,2025/11/16,2025/12/13,2026/1/31,2026/2/1,2026/3/19",
+    "remarks": "学部各選抜・大学院含む",
+    "source_url": "https://www.nzu.ac.jp/admissions/requirements/heigan_a/",
+    "requirements_url": "https://www.nzu.ac.jp/admissions/entrance-guide/"
+  },
+  {
+    "univ_name": "名古屋造形大学",
+    "test_venue_name": "学外会場（リクエスト制）",
+    "test_venue_pref": "",
+    "test_venue_address": "",
+    "dates": "2025/11/8",
+    "remarks": "併願A方式（デ/イメのみ）",
+    "source_url": "https://www.nzu.ac.jp/admissions/requirements/heigan_a/",
+    "requirements_url": "https://www.nzu.ac.jp/admissions/entrance-guide/"
+  }
+]

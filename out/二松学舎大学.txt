@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "二松学舎大学",
+    "test_venue_name": "九段キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区三番町6-16",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/3/6",
+    "remarks": "一般選抜S/A/B/E/G・D方式",
+    "source_url": "https://www.nishogakusha-u.ac.jp/admission/exam/faq/index.html",
+    "requirements_url": "https://www.nishogakusha-u.ac.jp/admission/exam/pdf/exam_ippan.pdf"
+  },
+  {
+    "univ_name": "二松学舎大学",
+    "test_venue_name": "宇都宮試験会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "文学部S・A方式のみ",
+    "source_url": "https://www.nishogakusha-u.ac.jp/admission/exam/g2_02.html",
+    "requirements_url": "https://www.nishogakusha-u.ac.jp/admission/exam/pdf/exam_ippan.pdf"
+  }
+]

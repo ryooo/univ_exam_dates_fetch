@@ -1,0 +1,152 @@
+[
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "品川キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都品川区大崎4-2-16",
+    "dates": "2026/2/1,2026/2/3,2026/2/4,2026/2/5,2026/2/21,2026/3/4",
+    "remarks": "一般選抜R方式・2月前期・後期・3月",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "熊谷キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県熊谷市万吉1700",
+    "dates": "2026/2/1,2026/2/3,2026/2/4,2026/2/5,2026/2/21,2026/3/4",
+    "remarks": "一般選抜R方式・2月前期・後期・3月",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "高崎会場（小野池學院）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市栄町15-3",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜2月前期（2/3-5）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "さいたま会場（TKPガーデンシティPREMIUM大宮）",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市大宮区桜木町4-333-13 大同生命さいたま大宮ビル",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜2月前期（2/3-5）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "柏会場（駿台予備学校柏校）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県柏市柏5-2-13",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜2月前期（2/3-5）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "千葉会場（千葉市文化センター）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市中央区中央2-5-1",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜2月前期（2/3-5）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "横浜会場（駿台予備学校横浜校1号館）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市神奈川区鶴屋町2-23-7",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜2月前期（2/3-5）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "札幌会場（代々木ゼミナール札幌校）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北7条西2-5",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "仙台会場（東北福祉大学 仙台駅東口キャンパス）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡2-5-26",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "新潟会場（代々木ゼミナール新潟校）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "長野会場（シャトレーゼホテル長野）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市七瀬1-1",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "宇都宮会場（TKP宇都宮カンファレンスセンター）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市駅前通り1-3-1 KDX宇都宮ビル地下1階",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "水戸会場（駿優教育会館）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "静岡会場（ホテルアソシア静岡）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区黒金町56",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  },
+  {
+    "univ_name": "立正大学",
+    "test_venue_name": "福岡会場（代々木ゼミナール福岡校）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅4-2-25",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜2月前期（2/3のみ）",
+    "source_url": "https://admissions.ris.ac.jp/news/20260109_01.html",
+    "requirements_url": "https://secure.nanaop-web.com/ris/general_yoko_2026/"
+  }
+]

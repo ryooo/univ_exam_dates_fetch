@@ -1,0 +1,282 @@
+[
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "福井会場",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "津会場",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "龍谷大学 瀬田キャンパス",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "滋賀県大津市瀬田大江町横谷1-5",
+    "dates": "",
+    "remarks": "本学会場（大津）",
+    "source_url": "https://www.ryukoku.ac.jp/about/campus_traffic/traffic/t_seta.html",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "龍谷大学 深草キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市伏見区深草塚本町67",
+    "dates": "",
+    "remarks": "本学会場（京都）",
+    "source_url": "https://www.ryukoku.ac.jp/about/campus_traffic/fukakusa.html",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "綾部会場",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "千里中央会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "新大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "天王寺会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "西宮会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "神戸会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "姫路会場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "奈良会場",
+    "test_venue_pref": "奈良県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "和歌山会場",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "米子会場",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "松山会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "高知会場",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  },
+  {
+    "univ_name": "龍谷大学",
+    "test_venue_name": "沖縄会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜・公募推薦の試験地",
+    "source_url": "https://admission-nyushi.ryukoku.ac.jp/",
+    "requirements_url": "https://www.ryukoku.ac.jp/admission/nyushi/pdf/youkou/2026_youkou_p84-p95.pdf"
+  }
+]

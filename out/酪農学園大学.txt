@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "本学会場（酪農学園大学）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道江別市文京台緑町582番地",
+    "dates": "2025/11/22,2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜A/B・第2期・推薦本学",
+    "source_url": "https://nyushi.rakuno.ac.jp/guidance/schedule.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  },
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "青山学院大学 青山キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都渋谷区渋谷4-4-25",
+    "dates": "2025/11/23",
+    "remarks": "学校推薦型選抜 東京会場",
+    "source_url": "https://nyushi.rakuno.ac.jp/archives/12962.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  },
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "天満研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区錦町2-21",
+    "dates": "2025/11/23",
+    "remarks": "学校推薦型選抜 大阪会場",
+    "source_url": "https://nyushi.rakuno.ac.jp/archives/12962.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  },
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A/B日程 地方会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3016/nyushi/juui/index.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  },
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜A/B・第2期 地方会場",
+    "source_url": "https://nyushi.rakuno.ac.jp/archives/10397.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  },
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A/B日程 地方会場",
+    "source_url": "https://nyushi.rakuno.ac.jp/archives/10397.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  },
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5,2026/3/3",
+    "remarks": "一般選抜A/B・第2期 地方会場",
+    "source_url": "https://nyushi.rakuno.ac.jp/archives/10397.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  },
+  {
+    "univ_name": "酪農学園大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/4,2026/2/5",
+    "remarks": "一般選抜A/B日程 地方会場",
+    "source_url": "https://nyushi.rakuno.ac.jp/archives/10397.html",
+    "requirements_url": "https://nyushi-media.rakuno.ac/wp-content/uploads/2025/07/14131351/7d9653f91140be376529ba0aa2ff20ee.pdf"
+  }
+]

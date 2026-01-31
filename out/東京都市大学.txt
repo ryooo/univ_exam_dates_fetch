@@ -1,0 +1,222 @@
+[
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "札幌会場（会議・研修施設 ACU-A）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北4条西5丁目 アスティ45 12F・16F",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://www.acu-h.jp/sapporo/koutsu_access",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "仙台会場（仙台ガーデンパレス）",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市宮城野区榴岡4丁目1-5",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.hotelgp.jp/sendai/index.php",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "水戸会場（水戸駿優予備学校本部校舎）",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市三の丸1-1-42",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://sunyu-kaikan.jp/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "宇都宮会場（大原簿記情報ビジネス医療専門学校 宇都宮校）",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市東宿郷2-5-4",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.eibi-navi.com/smp/gakkou/v_top.php?sno=S709941",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "高崎会場（小野池學院）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市栄町15-3",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.onoike.com/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "浦和会場（埼玉教育会館）",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県さいたま市浦和区高砂3-12-24",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://stib.jp/convention/conventions/271/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "千葉会場（ペリエホール）",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県千葉市中央区新千葉1-1-1 ペリエ千葉7F",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.perie.co.jp/chiba/periehall/outline/index.html",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "秋葉原会場（UDXカンファレンス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区外神田4-14-1 秋葉原UDX 6F",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://udx-akibaspace.jp/conference/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "池袋会場（ステーションコンファレンス池袋）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区西池袋1-11-1 メトロポリタンプラザビル2F・12F",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.tstc.jp/ikebukuro/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "立川会場（me:rise TACHIKAWA）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都立川市曙町2-8-28 TAMA MIRAI SQUARE 3階",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://www.rental-tjmedia.jp/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "藤沢会場（藤沢商工会議所）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県藤沢市藤沢607-1 藤沢商工会館ミナパーク",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.fujisawa-cci.or.jp/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "小田原会場（報徳会館）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県小田原市城内8-10",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://www.hotoku.co.jp/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "新潟会場（代々木ゼミナール新潟校）",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天1-4-18",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.yozemi.ac.jp/niigata/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "金沢会場（大原簿記法律観光専門学校金沢校）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市広岡1-1-15",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://www.ishisenkaku.or.jp/school/commerce/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "長野会場（ホテル信濃路）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市中御所岡田町131-4",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.hotel-shinanoji.com/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "静岡会場（秀英予備校 静岡本部）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区鷹匠2-7-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.shuei-yobiko.co.jp/corporate/company/address/index.html",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "名古屋会場（秀英予備校 名古屋本部）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3-23-12",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.shuei-yobiko.co.jp/corporate/company/address/index.html",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "大阪会場（イオンコンパス大阪駅前会議室）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区梅田1-2-2 大阪駅前第2ビル15階",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜 前期のみ",
+    "source_url": "https://www.relo-kaigi.jp/osaka/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "広島会場（チサンホテル広島）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区幟町14-7",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.hiroshimacvb.jp/venues-accomodation/49.html",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "福岡会場（OHI 八重洲博多ビル 貸会議室）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅東2-18-30",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期",
+    "source_url": "https://www.ohi-kaigi.com/yaesu-hakata/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "本学会場（世田谷キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都世田谷区玉堤1-28-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/20",
+    "remarks": "一般選抜 前期(2/1-2/3)・中期",
+    "source_url": "https://www.arl.tcu.ac.jp/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  },
+  {
+    "univ_name": "東京都市大学",
+    "test_venue_name": "予備試験場（横浜キャンパス）",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市都筑区牛久保西3-3-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/20",
+    "remarks": "一般選抜 前期・中期／予備試験場",
+    "source_url": "https://www.comm.tcu.ac.jp/otani-lab/access.html",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-tcu/gid/pdf/tcu_ippan_nyugaku_yoko.pdf"
+  }
+]

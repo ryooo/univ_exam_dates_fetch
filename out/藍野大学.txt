@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "藍野大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府茨木市東太田4-5-4",
+    "dates": "2026/1/29,2026/2/19,2026/3/6",
+    "remarks": "一般選抜(前期/中期/後期)",
+    "source_url": "https://univ.aino.ac.jp/ouen/admission/general.php",
+    "requirements_url": "https://www.d-pam.com/aino/2515015/index.html?tm=1"
+  },
+  {
+    "univ_name": "藍野大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜 前期日程",
+    "source_url": "https://univ.aino.ac.jp/ouen/admission/general.php",
+    "requirements_url": "https://www.d-pam.com/aino/2515015/index.html?tm=1"
+  },
+  {
+    "univ_name": "藍野大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜 前期日程",
+    "source_url": "https://univ.aino.ac.jp/ouen/admission/general.php",
+    "requirements_url": "https://www.d-pam.com/aino/2515015/index.html?tm=1"
+  },
+  {
+    "univ_name": "藍野大学",
+    "test_venue_name": "島根会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜 前期日程",
+    "source_url": "https://univ.aino.ac.jp/ouen/admission/general.php",
+    "requirements_url": "https://www.d-pam.com/aino/2515015/index.html?tm=1"
+  },
+  {
+    "univ_name": "藍野大学",
+    "test_venue_name": "愛媛会場",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/1/29",
+    "remarks": "一般選抜 前期日程",
+    "source_url": "https://univ.aino.ac.jp/ouen/admission/general.php",
+    "requirements_url": "https://www.d-pam.com/aino/2515015/index.html?tm=1"
+  }
+]

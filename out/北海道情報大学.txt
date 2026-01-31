@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "本学（北海道情報大学）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道江別市西野幌59番2",
+    "dates": "2025/9/20,2025/11/16,2025/12/6,2026/1/10,2026/1/25,2026/2/2,2026/2/3,2026/2/19,2026/3/6,2026/3/16",
+    "remarks": "総合型特別/起業AO,推薦,一般",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_general2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "旭川北洋ビル",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道旭川市4条通9丁目1703番地",
+    "dates": "2025/11/16,2026/2/2,2026/2/3",
+    "remarks": "一般1期/英語外部,推薦1期",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_recommend2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "ホテルグランテラス帯広",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西1条南11丁目2番地",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般1期/英語外部",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_general2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "ホテル法華クラブ函館",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市本町27-1",
+    "dates": "2025/11/16,2026/2/2,2026/2/3",
+    "remarks": "一般1期/英語外部,推薦1期",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_general2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "ホテルパールシティ盛岡",
+    "test_venue_pref": "岩手県",
+    "test_venue_address": "岩手県盛岡市大通3丁目7番19号",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般1期/英語外部",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_general2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "eDCビル（東京）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中野区中野5丁目62番地1号",
+    "dates": "2025/11/16,2026/2/2,2026/2/3,2026/3/6",
+    "remarks": "一般1期/2期,英語外部,推薦1期",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_general2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "とかち館",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西7条南6丁目2番地",
+    "dates": "2025/11/16",
+    "remarks": "推薦1期",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_recommend2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "ホテル黒部",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道北見市北7条西1丁目1番地",
+    "dates": "2025/11/16",
+    "remarks": "推薦1期",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_recommend2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  },
+  {
+    "univ_name": "北海道情報大学",
+    "test_venue_name": "釧路センチュリーキャッスルホテル",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道釧路市大川町2-5",
+    "dates": "2025/11/16",
+    "remarks": "推薦1期",
+    "source_url": "https://www.do-johodai.ac.jp/examinee/examinfo/university_recommend2026/",
+    "requirements_url": "https://www.do-johodai.ac.jp/examinee/examinfo/ap/"
+  }
+]

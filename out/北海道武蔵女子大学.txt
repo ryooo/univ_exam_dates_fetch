@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "北海道武蔵女子大学",
+    "test_venue_name": "札幌会場（北海道武蔵女子大学・短期大学）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市北区北22条西13丁目",
+    "dates": "2026/2/12",
+    "remarks": "一般選抜",
+    "source_url": "https://www.hmu.ac.jp/entry/general-m4/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北海道武蔵女子大学",
+    "test_venue_name": "旭川会場（旭川市ときわ市民ホール）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道旭川市5条通4丁目",
+    "dates": "2026/2/12",
+    "remarks": "一般選抜（地方会場）",
+    "source_url": "https://www.hmu.ac.jp/entry/general-m4/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "北海道武蔵女子大学",
+    "test_venue_name": "函館会場（サン・リフレ函館）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市大森町2番14号",
+    "dates": "2026/2/12",
+    "remarks": "一般選抜（地方会場）",
+    "source_url": "https://www.hmu.ac.jp/entry/general-m4/",
+    "requirements_url": ""
+  }
+]

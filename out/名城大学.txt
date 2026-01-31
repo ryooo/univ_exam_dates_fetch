@@ -1,0 +1,182 @@
+[
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "天白キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市天白区塩釜口一丁目501番地",
+    "dates": "",
+    "remarks": "一般選抜 名古屋会場",
+    "source_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "八事キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市天白区八事山150",
+    "dates": "",
+    "remarks": "一般選抜 名古屋会場",
+    "source_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "ナゴヤドーム前キャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市東区矢田南4-102-9",
+    "dates": "",
+    "remarks": "一般選抜 名古屋会場",
+    "source_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "CIVI北梅田研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市北区芝田2-7-18",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://www.meijo-u.ac.jp/news/asset/bd8850b0c20498d16f1fab76289b118f.pdf",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  },
+  {
+    "univ_name": "名城大学",
+    "test_venue_name": "",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "",
+    "remarks": "一般選抜 地区別会場",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3549/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://www.meijo-u.ac.jp/admissions/doc/pdf/ippan_yoko.pdf?ver=202512"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "北陸大学 太陽が丘キャンパス",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市太陽が丘1-1",
+    "dates": "2025/10/18,2025/11/16,2025/12/13,2026/2/1,2026/2/2,2026/2/3,2026/2/23",
+    "remarks": "総合型・推薦・一般A/Bの本学会場",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "北陸大学 薬学キャンパス",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市金川町ホ3番地",
+    "dates": "2025/10/4",
+    "remarks": "総合型（21世紀型・薬学）セミナー",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "TKP品川カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都港区高輪3-25-23 京急第２ビル",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "TKP名古屋伏見ビジネスセンター（宮井名古屋ビル）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中区錦2-8-26 宮井名古屋ビル",
+    "dates": "2025/11/16,2026/2/1,2026/2/2",
+    "remarks": "一般A日程、推薦第1回（薬・医療）",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "TKPガーデンシティ大阪梅田（TKPゲートタワービル）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島5-4-21 TKPゲートタワービル",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "新潟法律大学校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟県新潟市中央区弁天2-4-21",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "富山県民会館",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市新総曲輪4-18",
+    "dates": "2025/11/16",
+    "remarks": "推薦（公募）第1回",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "富山商工会議所",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "富山県富山市総曲輪2-1-3",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/23",
+    "remarks": "一般選抜A/B日程",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "フェニックス・プラザ",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市田原1-13-6",
+    "dates": "2025/11/16",
+    "remarks": "推薦（公募）第1回",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "福井県自治会館",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市開発4-202-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "福井県繊協ビル",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井県福井市大手3-7-1",
+    "dates": "2026/2/23",
+    "remarks": "一般選抜B日程",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  },
+  {
+    "univ_name": "北陸大学",
+    "test_venue_name": "信濃教育会館",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野県長野市旭町1098",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokuriku-u.ac.jp/admission/test-center/",
+    "requirements_url": "https://www.hokuriku-u.ac.jp/doc/exam/2026/requirements.pdf"
+  }
+]

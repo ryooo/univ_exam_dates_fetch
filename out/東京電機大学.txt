@@ -1,0 +1,172 @@
+[
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "東京千住キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都足立区千住旭町5番",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/5,2026/2/27,2026/2/28",
+    "remarks": "一般選抜 前期/英語外部/情報系外部/後期",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "埼玉鳩山キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県比企郡鳩山町石坂",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/5,2026/2/27,2026/2/28",
+    "remarks": "一般選抜 前期/英語外部/情報系外部/後期",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "東北福祉大学 仙台駅東口キャンパス",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "仙台市宮城野区榴岡2-5-26",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "駿優教育会館",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "水戸市三の丸1-1-42",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "栃木県総合文化センター",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "宇都宮市本町1-8",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/2/27,2026/2/28",
+    "remarks": "一般選抜 前期/英語外部/情報系外部/後期",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "小野池學院",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "高崎市栄町15-3",
+    "dates": "2026/2/2,2026/2/3,2026/2/4,2026/2/27,2026/2/28",
+    "remarks": "一般選抜 前期/英語外部/情報系外部/後期",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "河合塾南浦和現役館",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "さいたま市南区南浦和2-24-6",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/5,2026/2/27,2026/2/28",
+    "remarks": "一般選抜 前期/英語外部/情報系外部/後期",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "ウェスタ川越",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県川越市新宿町1-17-17",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "TKPガーデンシティ千葉",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉市中央区問屋町1-45 千葉ポートスクエア内",
+    "dates": "2026/2/1,2026/2/4,2026/2/5",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "千葉工業大学 津田沼キャンパス",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "習志野市津田沼2-17-1",
+    "dates": "2026/2/27,2026/2/28",
+    "remarks": "一般選抜 後期/英語外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "八王子エルシィ",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都八王子市八日町6-7",
+    "dates": "2026/2/1,2026/2/5",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "川崎市コンベンションホール",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "川崎市中原区小杉町2丁目276番地1 パークシティ武蔵小杉 ザ ガーデン タワーズイースト2階",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "藤沢商工会議所",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "藤沢市藤沢607-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "代々木ゼミナール 新潟校",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "新潟市中央区弁天1-4-18",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "JA長野県ビル",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "長野市北石堂町1177-3",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "静岡労政会館",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡市葵区黒金町5-1 静岡県勤労者総合会館",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  },
+  {
+    "univ_name": "東京電機大学",
+    "test_venue_name": "リファレンス ヒューリックスクエア福岡天神 貸会議室",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区天神2-8-49 ヒューリックスクエア福岡天神4F",
+    "dates": "2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "一般選抜 前期/英語外部/情報系外部",
+    "source_url": "https://www.dendai.ac.jp/about/admission/undergraduate/ippan/place.html",
+    "requirements_url": "https://www.dendai.ac.jp/special2026/youkou/viewerpdf/web/yoko.pdf"
+  }
+]

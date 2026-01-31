@@ -1,0 +1,392 @@
+[
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "本学 京田辺キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京田辺市興戸",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "AP市ヶ谷",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区五番町1-10 市ヶ谷大郷ビル",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "ITビジネスプラザ武蔵",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市武蔵町14-31",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "秀英予備校浜松本部校",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中区連尺町309-11",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "秀英予備校名古屋本部校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3-23-12",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "ナレッジキャピタル コングレコンベンションセンター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区大深町3-1 グランフロント大阪 北館地下2階",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "難波御堂筋ホール",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区難波4-2-1",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "神戸ファッションマート",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市東灘区向洋町中6-9",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "和歌山県民文化会館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市小松原通り1-1",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "岡山進研学院",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2-10-27",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM広島駅北口",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市東区二葉の里3-5-7 GRANODE広島3階",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "高松センタービル",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "リジェール松山",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市南堀端町2-3 JA愛媛8F",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "アクア博多",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区中洲5-3-8",
+    "dates": "2025/11/9",
+    "remarks": "推薦S/C一次",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "本学 京田辺キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京田辺市興戸",
+    "dates": "2025/11/23",
+    "remarks": "推薦C二次（面接）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/recommendation_c",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/250808_2026_recommendation_c/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "本学 京田辺キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京田辺市興戸",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "TKPガーデンシティ札幌駅前",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北2条西2-19",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "TKP仙台西口ビジネスセンター",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区本町1-5-31",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "AP市ヶ谷",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区五番町1-10 市ヶ谷大郷ビル",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "ITビジネスプラザ武蔵",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "石川県金沢市武蔵町14-31",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "秀英予備校浜松本部校",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中区連尺町309-11",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "秀英予備校名古屋本部校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3-23-12",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "新梅田研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島6-22-20",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "大阪商工会議所",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区本町橋2-8",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "神戸ファッションマート",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市東灘区向洋町中6-9",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "和歌山県日赤会館",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市吹上2-1-22",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "岡山進研学院",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2-10-27",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "ワークピア広島",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市南区金屋町1-17",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "高松センタービル",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市寿町2-4-20",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "えひめ共済会館",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市三番町5-13-1",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "TKPエルガーラホール",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市中央区天神1-4-2",
+    "dates": "2026/1/26,2026/1/27,2026/1/28,2026/1/29",
+    "remarks": "一般前期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "本学 京田辺キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京田辺市興戸",
+    "dates": "2026/1/26,2026/1/27",
+    "remarks": "前期・音楽実技方式",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_bef_2",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "本学 京田辺キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京田辺市興戸",
+    "dates": "2026/3/9",
+    "remarks": "一般後期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_af"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "AP市ヶ谷",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区五番町1-10 市ヶ谷大郷ビル",
+    "dates": "2026/3/9",
+    "remarks": "一般後期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_af"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "秀英予備校名古屋本部校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3-23-12",
+    "dates": "2026/3/9",
+    "remarks": "一般後期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_af"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "新梅田研修センター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市福島区福島6-22-20",
+    "dates": "2026/3/9",
+    "remarks": "一般後期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_af"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "岡山進研学院",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区伊福町2-10-27",
+    "dates": "2026/3/9",
+    "remarks": "一般後期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_af"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "アクア博多",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区中洲5-3-8",
+    "dates": "2026/3/9",
+    "remarks": "一般後期（学部共通）",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/venue",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_af"
+  },
+  {
+    "univ_name": "同志社女子大学",
+    "test_venue_name": "本学 京田辺キャンパス",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京田辺市興戸",
+    "dates": "2026/3/9",
+    "remarks": "後期・音楽実技方式",
+    "source_url": "https://www.dwc.doshisha.ac.jp/admissions/exam_information/overview/general_af_2",
+    "requirements_url": "https://www.dwc.doshisha.ac.jp/dp/2026_recommendation_s/"
+  }
+]

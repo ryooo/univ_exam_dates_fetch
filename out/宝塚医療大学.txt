@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "宝塚医療大学",
+    "test_venue_name": "宝塚キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県宝塚市花屋敷緑ガ丘1",
+    "dates": "2025/9/20,2025/9/21,2025/10/4,2025/10/18,2025/10/19,2025/11/8,2025/12/13,2026/1/24,2026/1/25,2026/2/14,2026/3/10",
+    "remarks": "保健医療学部 各方式（総合/一般等）",
+    "source_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/General_selection_takarazuka.pdf",
+    "requirements_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/entrance_exam_guideline_ver2.pdf"
+  },
+  {
+    "univ_name": "宝塚医療大学",
+    "test_venue_name": "和歌山キャンパス",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山県和歌山市中之島2252",
+    "dates": "2025/9/20,2025/10/4,2025/11/8,2025/12/13,2026/1/24,2026/1/25,2026/2/14,2026/3/10",
+    "remarks": "和歌山保健医療学部 各方式",
+    "source_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/General_selection_wakayama_01.pdf",
+    "requirements_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/entrance_exam_guideline_ver2.pdf"
+  },
+  {
+    "univ_name": "宝塚医療大学",
+    "test_venue_name": "宮古島キャンパス",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県宮古島市城辺字福里619-1",
+    "dates": "2025/9/20,2025/9/21,2025/10/4,2025/10/19,2025/11/8,2025/12/13,2026/1/24,2026/2/14,2026/3/10",
+    "remarks": "観光学部 各方式（宮古島会場）",
+    "source_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/general__kankou.pdf",
+    "requirements_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/entrance_exam_guideline_ver2.pdf"
+  },
+  {
+    "univ_name": "宝塚医療大学",
+    "test_venue_name": "尼崎キャンパス",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県尼崎市道意町6-6-3",
+    "dates": "2025/9/20,2025/9/21,2025/10/4,2025/10/19,2025/11/8,2025/12/13,2026/1/24,2026/2/14,2026/3/10",
+    "remarks": "観光学部 各方式（尼崎会場）",
+    "source_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/general__kankou.pdf",
+    "requirements_url": "https://www.tumh.ac.jp/asset/pdf/admission/2026/entrance_exam_guideline_ver2.pdf"
+  }
+]

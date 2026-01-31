@@ -1,0 +1,152 @@
+[
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "ACU-A",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "札幌市中央区北4条西5丁目 アスティ45・16F",
+    "dates": "2026/1/29,2026/1/30,2026/1/31,2026/3/6,2026/3/19",
+    "remarks": "一般前期・後期・後期B",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-late-b/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "アスティホール",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "札幌市中央区北4条西5丁目 アスティ45・4F",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "北洋ホール",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "旭川市4条通9丁目1703 旭川北洋ビル8階",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "ソネビル本館",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "帯広市西6条南6丁目3",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "北見プラザホテル",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北見市とん田東町617-139",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "ホテルリソル函館",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "函館市若松町6-3",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "青森県労働福祉会館（ハートピアローフク）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市本町3丁目3-11",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "秋田予備校",
+    "test_venue_pref": "秋田県",
+    "test_venue_address": "秋田市中通4-3-32",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "ホテルベルエア仙台",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "仙台市青葉区1番町1丁目4-8",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "ダヴィンチ北新宿",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区百人町2丁目8-15 1F",
+    "dates": "2026/1/29,2026/1/30,2026/1/31,2026/3/6,2026/3/19",
+    "remarks": "一般前期・後期・後期B",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-late-b/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "行知学園 大阪校3号館",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市中央区日本橋1丁目17-17 ピカソ日本一ビル7階",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "高松高等予備校 2号館",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "高松市観光町545-3",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "エイムアテイン博多駅前貸会議室",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区博多駅前3-25-24 八百治ビル5階",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "みんなの貸会議室 那覇泉崎店",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市泉崎1-13-3 資格の大原沖縄校ビル内",
+    "dates": "2026/1/29,2026/1/30,2026/1/31",
+    "remarks": "一般選抜（前期）",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/select/general-pre/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  },
+  {
+    "univ_name": "北海道医療大学",
+    "test_venue_name": "当別キャンパス",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道石狩郡当別町金沢1757",
+    "dates": "2025/10/19",
+    "remarks": "総合型選抜",
+    "source_url": "https://manavi.hoku-iryo-u.ac.jp/news/sougou1019/",
+    "requirements_url": "https://manavi.hoku-iryo-u.ac.jp/koho_wp/wp-content/uploads/youkou.pdf"
+  }
+]

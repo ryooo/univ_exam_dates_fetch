@@ -1,0 +1,242 @@
+[
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "本学（東海キャンパス）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県東海市大田町下浜田1071番地",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/2/22,2026/3/14",
+    "remarks": "一般入学試験 前期・中期・後期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "富山会場",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/2/22",
+    "remarks": "一般入学試験 前期・中期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "松本会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5,2026/2/22",
+    "remarks": "一般入学試験 前期・中期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "飯田会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "岐阜会場",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "豊橋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "岡崎会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "四日市会場",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "2026/2/3,2026/2/4,2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "松江会場",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "高松会場",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "那覇会場",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/5,2026/2/22",
+    "remarks": "一般入学試験 前期・中期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "福井会場",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "岡山会場",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "日本福祉大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "一般入学試験 前期",
+    "source_url": "https://www.n-fukushi.ac.jp/ad/admissions/system/ippan-zenki/",
+    "requirements_url": ""
+  }
+]

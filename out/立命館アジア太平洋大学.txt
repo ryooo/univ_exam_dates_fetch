@@ -1,0 +1,422 @@
+[
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "立命館大学（衣笠キャンパス）",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都市北区等持院北町56-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "立命館大学（大阪いばらきキャンパス）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "茨木市岩倉町2-150",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "立命館大学（びわこ・くさつキャンパス）",
+    "test_venue_pref": "滋賀県",
+    "test_venue_address": "草津市野路東1-1-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM 札幌大通",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "札幌市中央区南1条西1丁目8番地2 高桑ビル5F〜7F",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "ハーネル仙台",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "仙台市青葉区本町2-12-7",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "柏の葉カンファレンスセンター",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "柏市若柴178-4 ホテル＆レジデンス棟2階",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "スタンダード3/英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "ハート柏迎賓館",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "柏市柏233",
+    "dates": "2026/2/2,2026/2/3,2026/2/7",
+    "remarks": "スタンダード3/英語重視",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "ソニックシティ",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "さいたま市大宮区桜木町1-7-5 ソニックシティビル棟7F〜9F",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/3/7",
+    "remarks": "スタンダード3/英語重視/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM 大宮",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "さいたま市大宮区桜木町4-333-13 大同生命さいたま大宮ビル2F",
+    "dates": "2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "ベルサール東京日本橋",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "中央区日本橋2-7-1 東京日本橋タワーB2・4F・5F",
+    "dates": "2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "大手町プレイス ホール＆カンファレンス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "千代田区大手町2-3-1 大手町プレイス（イーストタワー）1F/2F",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/3/7",
+    "remarks": "スタンダード3/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM 横浜西口",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "横浜市西区南幸2-19-9 TKP横浜ビル（旧横浜MKビル、事務所：3F）",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "スタンダード3/英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "関東学院大学 横浜・関内キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "横浜市中区万代町1-1-1",
+    "dates": "2026/3/7",
+    "remarks": "後期2教科",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "石川県地場産業振興センター（本館）",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "金沢市鞍月2-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "クーポール会館",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡市葵区紺屋町2-2",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "スタンダード3/英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "レイアップ御幸町ビル",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡市葵区御幸町11-8 レイアップ御幸町ビル5・6・7階（受付2階）",
+    "dates": "2026/2/2,2026/2/3,2026/2/7",
+    "remarks": "スタンダード3/英語重視",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "オークラアクトシティホテル浜松",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "浜松市中央区板屋町111-2",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "スタンダード3/英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "愛知県産業労働センター（ウインクあいち）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市中村区名駅4-4-38",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "愛知県武道館",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "名古屋市港区丸池町1-1-4",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7",
+    "remarks": "スタンダード3/英語重視",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "福井市地域交流プラザ（AOSSA6F）",
+    "test_venue_pref": "福井県",
+    "test_venue_address": "福井市手寄1-4-1 AOSSA",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "メッセウイングNHW（津市産業・スポーツセンター）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "津市北河路町19-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "Hotel 津 Center Palace",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "三重県津市大門7-15",
+    "dates": "2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "アートホテル大阪ベイタワー",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市港区弁天1-2-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "TKPガーデンシティPREMIUM 心斎橋",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪市中央区南船場4-3-2 ゼント心斎橋ビル3〜4階（事務所：4階）",
+    "dates": "2026/2/2,2026/2/3,2026/2/7",
+    "remarks": "スタンダード3/英語重視",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "神戸国際展示場",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "神戸市中央区港島中町6-11-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "神戸ファッションマート",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "神戸市東灘区向洋町中6-9",
+    "dates": "2026/2/7,2026/3/7",
+    "remarks": "英語重視/後期2教科",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "三宮研修センター（カサベラFRIIビル）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "神戸市中央区八幡通4-2-12",
+    "dates": "2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "アクリエひめじ（姫路市文化コンベンションセンター）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "姫路市神屋町143-2",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "BIZ SPACE HIMEJI",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "姫路市本町127 大手前ダイネンBLD.II",
+    "dates": "2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "ホテルアバローム紀の国",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "和歌山市湊通丁北2-1-2",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "岡山国際ホテル",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山市中区門田本町4-1-16",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9",
+    "remarks": "スタンダード3/英語重視/共テ+英・国",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "TKPガーデンシティ 広島駅前大橋",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島市南区京橋町1-7 アスティ広島京橋ビルディング3F〜6F（事務所：7F）",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "松江市市民活動センター（STIC）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "松江市白潟本町43 STIC",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "KDDI維新ホール",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口市小郡令和1-1-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "ホテルパールガーデン",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "高松市福岡町2-2-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "松山市総合コミュニティセンター",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "松山市湊町7-5",
+    "dates": "2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "ホテルマイステイズ松山（TKP松山カンファレンスセンター）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "松山市大手町1-10-10",
+    "dates": "2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "北九州国際会議場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "北九州市小倉北区浅野3-9-30",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "博多国際展示場＆カンファレンスセンター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡市博多区東光2-22-15",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "熊本城ホール",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本市中央区桜町3-40",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "コンパルホール",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分市府内町1-5-38",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4,2026/2/7,2026/2/8,2026/2/9,2026/3/7",
+    "remarks": "スタンダード3/英語重視/共テ+英・国/後期",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  },
+  {
+    "univ_name": "立命館アジア太平洋大学",
+    "test_venue_name": "SHIROYAMA HOTEL kagoshima",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島市新照院町41-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/3,2026/2/4",
+    "remarks": "スタンダード3",
+    "source_url": "https://www.apumate.net/admissions_guide/examination/general/",
+    "requirements_url": "https://www.apumate.net/pdf/admissions_guide/examination/download/latest2026/APU_ippnsenbatsu2026.pdf"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "本学試験会場（豊明キャンパス）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県豊明市沓掛町田楽ケ窪1-98",
+    "dates": "2026/2/1,2026/2/9,2026/2/12,2026/2/13,2026/2/14",
+    "remarks": "医:二次／医療科・保健:前期A/B",
+    "source_url": "https://www.fujita-hu.ac.jp/admission/admission_infoi.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  },
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/4",
+    "remarks": "医:一般一次",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3548/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  },
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "東京会場",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/4",
+    "remarks": "医:一般一次／医療科:前期A／看護:前期A",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3548/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  },
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/1,2026/2/4",
+    "remarks": "医:一般一次／医療科:前期A",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3548/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  },
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "医療科:前期A／看護:前期A",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3548/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  },
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "浜松会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "医療科:前期A／看護:前期A",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3548/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  },
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "四日市会場",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "医療科:前期A／看護:前期A",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3548/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  },
+  {
+    "univ_name": "藤田医科大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "看護:前期A",
+    "source_url": "https://manabi.benesse.ne.jp/daigaku/school/3548/nyushi/hoshiki/ippan/index.html",
+    "requirements_url": "https://exam.fujita-hu.ac.jp/we26/g01_guidebook.html"
+  }
+]

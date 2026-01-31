@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "和歌山信愛大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "和歌山県",
+    "test_venue_address": "〒640-8022 和歌山県和歌山市住吉町1番地",
+    "dates": "2026/1/31,2026/2/19,2026/3/10",
+    "remarks": "一般選抜Ⅰ〜Ⅲ期",
+    "source_url": "https://www.wsu.ac.jp/access/",
+    "requirements_url": "https://www.wsu.ac.jp/cms/wp_shinai/wp-content/uploads/2026_wsu_bosyuyoko-1.pdf"
+  }
+]

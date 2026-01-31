@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "名古屋経済大学",
+    "test_venue_name": "本学（犬山キャンパス）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県犬山市内久保61-1",
+    "dates": "2025/10/18,2025/11/15,2025/12/14,2026/1/27,2026/1/28,2026/2/21,2026/3/6",
+    "remarks": "学部入試（総合型・推薦・一般）",
+    "source_url": "https://www.nagoya-ku.ac.jp/exam/schedule/",
+    "requirements_url": "https://www.nagoya-ku.ac.jp/exam/it/"
+  },
+  {
+    "univ_name": "名古屋経済大学",
+    "test_venue_name": "高山会場（高山市民文化会館）",
+    "test_venue_pref": "岐阜県",
+    "test_venue_address": "岐阜県高山市昭和町1丁目188-1",
+    "dates": "2026/1/27",
+    "remarks": "一般選抜前期（1/27のみ）",
+    "source_url": "https://www.nagoya-ku.ac.jp/exam/it/",
+    "requirements_url": "https://www.nagoya-ku.ac.jp/exam/schedule/"
+  },
+  {
+    "univ_name": "名古屋経済大学",
+    "test_venue_name": "名駅サテライトキャンパス",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4-25-13",
+    "dates": "2025/10/5,2026/2/8",
+    "remarks": "大学院入試（法・会計・人間生活）",
+    "source_url": "https://www.nagoya-ku.ac.jp/graduate/exam/schedule/",
+    "requirements_url": "https://www.nagoya-ku.ac.jp/graduate/exam/law_account/"
+  }
+]

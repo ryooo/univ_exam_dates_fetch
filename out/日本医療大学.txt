@@ -1,0 +1,32 @@
+[
+  {
+    "univ_name": "日本医療大学",
+    "test_venue_name": "札幌会場（月寒本キャンパス）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市豊平区月寒東3条11丁目1番50号",
+    "dates": "2026/2/2,2026/3/12",
+    "remarks": "一般選抜 前期・後期",
+    "source_url": "https://admissions.jhu.ac.jp/admissions/page.php?id=92",
+    "requirements_url": "https://admissions.jhu.ac.jp/common/img/content/content_20250805_115547.pdf"
+  },
+  {
+    "univ_name": "日本医療大学",
+    "test_venue_name": "函館会場（函館市民会館）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市湯川町1丁目32-1",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://admissions.jhu.ac.jp/admissions/page.php?id=92",
+    "requirements_url": "https://admissions.jhu.ac.jp/common/img/content/content_20250805_115547.pdf"
+  },
+  {
+    "univ_name": "日本医療大学",
+    "test_venue_name": "帯広会場（ソネビル本館）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西6条南6丁目3",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期",
+    "source_url": "https://admissions.jhu.ac.jp/admissions/page.php?id=92",
+    "requirements_url": "https://admissions.jhu.ac.jp/common/img/content/content_20250805_115547.pdf"
+  }
+]

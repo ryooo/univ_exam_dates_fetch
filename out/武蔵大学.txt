@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "武蔵大学",
+    "test_venue_name": "武蔵大学 江古田キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都練馬区豊玉上1-26-1",
+    "dates": "2026/1/17,2026/1/18,2026/2/2,2026/2/4,2026/2/7",
+    "remarks": "一般方式（全学部統一等）・共通テスト",
+    "source_url": "https://www.musashi.ac.jp/access/access.html",
+    "requirements_url": "https://www.musashi.ac.jp/admissions/ahdlv30000000p0g-att/legn3e0000008viz.pdf"
+  }
+]

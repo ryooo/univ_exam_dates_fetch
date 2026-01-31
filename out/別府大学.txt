@@ -1,0 +1,92 @@
+[
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "別府大学 石垣キャンパス",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県別府市北石垣82",
+    "dates": "2025/10/18,2025/11/22,2025/12/13,2026/2/3,2026/2/4,2026/2/16,2026/3/2,2026/3/24",
+    "remarks": "一般A1・A2・B〜D、総合型・推薦実施",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "広島YMCA国際文化センター 2号館",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2026/2/3",
+    "remarks": "一般A日程1、実技本学のみ",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "毎日西部会館",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県北九州市小倉北区紺屋町13-1",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "一般A日程1、指定校等推薦、実技本学のみ",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "リファレンス大博多ビル貸会議室",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区博多駅前2丁目20-1 大博多ビル11階",
+    "dates": "2025/11/22,2026/2/3,2026/2/4",
+    "remarks": "一般A日程1・2、指定校等推薦",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "長崎県建設総合会館",
+    "test_venue_pref": "長崎県",
+    "test_venue_address": "長崎県長崎市魚の町3-33",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "一般A日程1、指定校等推薦、実技本学のみ",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "熊本県青年会館",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区水前寺3丁目17-15",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "一般A日程1、指定校等推薦、実技本学のみ",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "宮崎グリーンホテル",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市大橋2丁目36-1",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "一般A日程1、指定校等推薦、実技本学のみ",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "サンプラザ天文館",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市東千石町2-30",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "一般A日程1、指定校等推薦、実技本学のみ",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  },
+  {
+    "univ_name": "別府大学",
+    "test_venue_name": "沖縄産業支援センター",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "沖縄県那覇市字小禄1831番地1",
+    "dates": "2025/11/22,2026/2/3",
+    "remarks": "一般A日程1、指定校等推薦、実技本学のみ",
+    "source_url": "https://www.beppu-u.ac.jp/exam/exam2026/place-alt/",
+    "requirements_url": "https://www.beppu-u.ac.jp/wp/wp-content/themes/beppu/file/exam_selection2026_2.pdf"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "日本体育大学",
+    "test_venue_name": "本学会場（東京・世田谷キャンパス）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都世田谷区深沢7-1-1",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nittai.ac.jp/access.html",
+    "requirements_url": "https://www.nittai.ac.jp/albums/abm.php?d=301&f=abm00009297.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "日本体育大学",
+    "test_venue_name": "札幌会場（アスティ45）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市中央区北四条西5-1 アスティ45",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nittai.ac.jp/exam/ippan/",
+    "requirements_url": "https://www.nittai.ac.jp/albums/abm.php?d=301&f=abm00009297.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "日本体育大学",
+    "test_venue_name": "高崎会場（エテルナ高崎）",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市栄町22-30 エテルナ高崎",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nittai.ac.jp/exam/ippan/",
+    "requirements_url": "https://www.nittai.ac.jp/albums/abm.php?d=301&f=abm00009297.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "日本体育大学",
+    "test_venue_name": "名古屋会場（名城大学 天白キャンパス）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市天白区塩釜口1-501 名城大学 天白キャンパス",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nittai.ac.jp/exam/ippan/",
+    "requirements_url": "https://www.nittai.ac.jp/albums/abm.php?d=301&f=abm00009297.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  },
+  {
+    "univ_name": "日本体育大学",
+    "test_venue_name": "大阪会場（AP大阪梅田東 日本生命梅田ビル）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市北区堂山町3-3 日本生命梅田ビル AP大阪梅田東",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.nittai.ac.jp/exam/ippan/",
+    "requirements_url": "https://www.nittai.ac.jp/albums/abm.php?d=301&f=abm00009297.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf"
+  }
+]

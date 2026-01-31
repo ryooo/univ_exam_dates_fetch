@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "名古屋葵大学",
+    "test_venue_name": "本学 試験会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "〒467-8610 名古屋市瑞穂区汐路町3-40",
+    "dates": "2025/10/18,2025/11/8,2025/11/22,2025/12/6,2026/1/31,2026/2/1,2026/2/2,2026/3/2",
+    "remarks": "総合型I/II・育成型・推薦・一般I/II等",
+    "source_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/kaijo/",
+    "requirements_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/download/"
+  },
+  {
+    "univ_name": "名古屋葵大学",
+    "test_venue_name": "津会場（第一ビル）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "〒514-0009 三重県津市羽所町345番地",
+    "dates": "2025/10/18",
+    "remarks": "総合型選抜I期",
+    "source_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/kaijo/",
+    "requirements_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/download/"
+  },
+  {
+    "univ_name": "名古屋葵大学",
+    "test_venue_name": "津会場（三重県教育文化会館）",
+    "test_venue_pref": "三重県",
+    "test_venue_address": "〒514-0003 三重県津市桜橋2-142",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜I期",
+    "source_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/kaijo/",
+    "requirements_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/download/"
+  },
+  {
+    "univ_name": "名古屋葵大学",
+    "test_venue_name": "浜松会場（遠鉄百貨店新館）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "〒430-8655 静岡県浜松市中央区旭町12-1",
+    "dates": "2025/10/18,2026/2/1,2026/2/2",
+    "remarks": "総合型I期・一般選抜I期",
+    "source_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/kaijo/",
+    "requirements_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/download/"
+  },
+  {
+    "univ_name": "名古屋葵大学",
+    "test_venue_name": "富山会場（富山県民会館）",
+    "test_venue_pref": "富山県",
+    "test_venue_address": "〒930-0006 富山県富山市新総曲輪4-18",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜I期",
+    "source_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/kaijo/",
+    "requirements_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/download/"
+  },
+  {
+    "univ_name": "名古屋葵大学",
+    "test_venue_name": "松本会場（長野県理容会館）",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "〒390-0811 長野県松本市中央1-21-3",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜I期",
+    "source_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/kaijo/",
+    "requirements_url": "https://nyusi.nagoya-aoi.ac.jp/admissions/download/"
+  }
+]

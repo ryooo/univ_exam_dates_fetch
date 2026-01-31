@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "北海道文教大学",
+    "test_venue_name": "北海道文教大学（恵庭キャンパス）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道恵庭市黄金中央5丁目196番地の1",
+    "dates": "",
+    "remarks": "本学会場（一般選抜A日程）",
+    "source_url": "https://www.do-bunkyodai.ac.jp/examination_information/venue_guide-2",
+    "requirements_url": "https://www.do-bunkyodai.ac.jp/examination_information/guideline"
+  },
+  {
+    "univ_name": "北海道文教大学",
+    "test_venue_name": "アルカディア市ケ谷 私学会館",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区九段北4-2-25",
+    "dates": "",
+    "remarks": "一般選抜A日程 東京会場",
+    "source_url": "https://www.do-bunkyodai.ac.jp/examination_information/venue_guide-2",
+    "requirements_url": "https://www.do-bunkyodai.ac.jp/examination_information/guideline"
+  },
+  {
+    "univ_name": "北海道文教大学",
+    "test_venue_name": "とかちプラザ",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西4条南13丁目1",
+    "dates": "",
+    "remarks": "一般選抜A日程 帯広会場",
+    "source_url": "https://www.do-bunkyodai.ac.jp/examination_information/venue_guide-2",
+    "requirements_url": "https://www.do-bunkyodai.ac.jp/examination_information/guideline"
+  },
+  {
+    "univ_name": "北海道文教大学",
+    "test_venue_name": "ハートピアローフク（青森県労働福祉会館）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市本町3丁目3-11",
+    "dates": "",
+    "remarks": "一般選抜A日程 青森会場",
+    "source_url": "https://www.do-bunkyodai.ac.jp/examination_information/venue_guide-2",
+    "requirements_url": "https://www.do-bunkyodai.ac.jp/examination_information/guideline"
+  }
+]

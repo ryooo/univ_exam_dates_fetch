@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "日本赤十字豊田看護大学",
+    "test_venue_name": "本学（日本赤十字豊田看護大学）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県豊田市白山町七曲12番33",
+    "dates": "2025/11/29,2026/1/31,2026/3/3",
+    "remarks": "推薦・社会人、一般、共テ後期面接",
+    "source_url": "https://search.keinet.ne.jp/2433/general/schedule",
+    "requirements_url": "https://rctoyota.ac.jp/admission/nursing-guidelines.html"
+  }
+]

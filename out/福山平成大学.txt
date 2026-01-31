@@ -1,0 +1,272 @@
+[
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "福山平成大学（本学キャンパス）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市御幸町上岩成正戸117-1",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜A・B・後期",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "福山（社会連携推進センター）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市丸之内1丁目2-40",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜A・B・後期",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "広島YMCA国際文化センター",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県広島市中区八丁堀7-11",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜A・B・後期",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "山口グランドホテル",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "山口県山口市小郡黄金町1-1",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "福岡県中小企業振興センター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区吉塚本町9-15",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/3/7",
+    "remarks": "一般選抜A・後期",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "第一セントラルビル2号館",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区本町6-30",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜A・B・後期",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "白兎会館",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県鳥取市末広温泉町556",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "島根浜田ワシントンホテルプラザ",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県浜田市黒川町4177",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "KITENビル コンベンションホール",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市錦町1-10 KITENビル8階",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "米子市文化ホール",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "鳥取県米子市末広町293",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "大分県労働福祉会館ソレイユ",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "大分県大分市中央町4-2-5",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "レイアップ御幸町ビル",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市葵区御幸町11-8",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "京都経済センター",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "京都府京都市下京区四条通室町東入函谷鉾町78 4F",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "TKP熊本カンファレンスセンター",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市中央区花畑町4-7 朝日新聞第一生命ビル9F",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "AP名古屋（名駅IMAIビル）",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市中村区名駅4-10-25 名駅IMAIビル6F・7F・8F",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "神戸駅前研修センター（SK HOTEL神戸駅前内）",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "兵庫県神戸市中央区中町通2-3-1",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "サンシティオフィスビル（会議室）",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "佐賀県佐賀市神野東2-1-3",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "AP東京八重洲（KPP八重洲ビル）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都中央区京橋1-10-7 KPP八重洲ビル12F",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "TKP新大阪ビジネスセンター（新大阪MTビル1号館）",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市淀川区西中島5-13-9 新大阪MTビル1号館3〜4F",
+    "dates": "2026/1/31,2026/2/1,2026/3/7",
+    "remarks": "一般選抜A・後期",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "TKP松山市駅前カンファレンスセンター（青野ビル）",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "愛媛県松山市千舟町4-3-7 青野ビル2・4・5F",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "高知共済会館 COMMUNITY SQUARE",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "高知県高知市本町5-3-20",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "サンプラザ天文館",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "鹿児島県鹿児島市東千石町2-30",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程（那覇）",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "松江労働会館（ろうかん）",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "島根県松江市御手船場町557-7",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "高松商工会議所",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "香川県高松市番町2-2-2",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程（今治）",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  },
+  {
+    "univ_name": "福山平成大学",
+    "test_venue_name": "",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程（小倉）",
+    "source_url": "https://www.heisei-u.ac.jp/entrance/exam/zenki-a/",
+    "requirements_url": "https://www.heisei-u.ac.jp/entrance/R8%E4%B8%80%E8%88%AC%E9%81%B8%E6%8A%9C%E5%89%8D%E6%9C%9F%EF%BC%A1%E6%97%A5%E7%A8%8B_%E5%85%A5%E8%A9%A6%E4%BC%9A%E5%A0%B4.pdf"
+  }
+]

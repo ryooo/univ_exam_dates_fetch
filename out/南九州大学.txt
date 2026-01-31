@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "南九州大学",
+    "test_venue_name": "宮崎キャンパス",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県宮崎市霧島5丁目1-2",
+    "dates": "2025/10/19,2025/11/16,2025/12/18,2026/2/1,2026/3/4,2026/3/17",
+    "remarks": "健康栄養学部の試験場（一般等）",
+    "source_url": "https://www.nankyudai.ac.jp/annai/access/miyazaki/",
+    "requirements_url": "https://www.nankyudai.ac.jp/wp/wp-content/uploads/2025/05/R8_admission-requirements.pdf"
+  },
+  {
+    "univ_name": "南九州大学",
+    "test_venue_name": "都城キャンパス",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "宮崎県都城市立野町3764-1",
+    "dates": "2025/10/19,2025/11/16,2025/12/18,2026/2/1,2026/3/4,2026/3/17",
+    "remarks": "環境園芸・子ども教育の試験場",
+    "source_url": "https://www.nankyudai.ac.jp/annai/access/miyakonojo/",
+    "requirements_url": "https://www.nankyudai.ac.jp/examinfo/current-year/"
+  }
+]

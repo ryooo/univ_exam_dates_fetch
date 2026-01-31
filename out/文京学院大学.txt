@@ -1,0 +1,52 @@
+[
+  {
+    "univ_name": "文京学院大学",
+    "test_venue_name": "本郷キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都文京区向丘1-19-1",
+    "dates": "2026/1/27,2026/2/2,2026/2/3,2026/2/26,2026/3/11",
+    "remarks": "全学統一選抜・一般選抜I〜III期",
+    "source_url": "https://info.bgu.ac.jp/examination/ippan/foreign_studies",
+    "requirements_url": "https://my.ebook5.net/info-bgu/exam_requirement2026/"
+  },
+  {
+    "univ_name": "文京学院大学",
+    "test_venue_name": "ふじみ野キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県ふじみ野市亀久保1196",
+    "dates": "2026/2/26,2026/3/11",
+    "remarks": "一般選抜Ⅱ期・Ⅲ期",
+    "source_url": "https://info.bgu.ac.jp/examination/ippan/human_studies",
+    "requirements_url": "https://my.ebook5.net/info-bgu/exam_requirement2026/"
+  },
+  {
+    "univ_name": "文京学院大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "全学統一選抜",
+    "source_url": "https://info.bgu.ac.jp/examination/ippan/zengaku",
+    "requirements_url": "https://my.ebook5.net/info-bgu/exam_requirement2026/"
+  },
+  {
+    "univ_name": "文京学院大学",
+    "test_venue_name": "大宮会場",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "全学統一選抜",
+    "source_url": "https://info.bgu.ac.jp/examination/ippan/zengaku",
+    "requirements_url": "https://my.ebook5.net/info-bgu/exam_requirement2026/"
+  },
+  {
+    "univ_name": "文京学院大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/1/27",
+    "remarks": "全学統一選抜",
+    "source_url": "https://info.bgu.ac.jp/examination/ippan/zengaku",
+    "requirements_url": "https://my.ebook5.net/info-bgu/exam_requirement2026/"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "湘南校舎 試験場",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県平塚市北金目4-1-1",
+    "dates": "2026/1/17,2026/1/18",
+    "remarks": "大学入学共通テスト",
+    "source_url": "https://www.u-tokai.ac.jp/news-notice/1361176/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "熊本キャンパス 試験場",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市東区渡鹿9-1-1",
+    "dates": "2026/1/17,2026/1/18",
+    "remarks": "大学入学共通テスト",
+    "source_url": "https://www.u-tokai.ac.jp/news-notice/1361176/",
+    "requirements_url": ""
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "湘南キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県平塚市北金目4-1-1",
+    "dates": "2025/12/24",
+    "remarks": "総合型選抜 適性面接型",
+    "source_url": "https://www.u-presscenter.jp/article/4183",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/07/0e883e83b200075ffe45adf3eca3bc39.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "静岡キャンパス",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市清水区折戸3-20-1",
+    "dates": "2025/12/24",
+    "remarks": "総合型選抜 適性面接型",
+    "source_url": "https://www.u-presscenter.jp/article/4183",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/07/0e883e83b200075ffe45adf3eca3bc39.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "熊本キャンパス",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "熊本県熊本市東区渡鹿9-1-1",
+    "dates": "2025/12/24",
+    "remarks": "総合型選抜 適性面接型",
+    "source_url": "https://www.u-presscenter.jp/article/4183",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/07/0e883e83b200075ffe45adf3eca3bc39.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "札幌キャンパス",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道札幌市南区南沢5条1-1-1",
+    "dates": "2025/12/24",
+    "remarks": "総合型選抜 適性面接型",
+    "source_url": "https://www.u-presscenter.jp/article/4183",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/07/0e883e83b200075ffe45adf3eca3bc39.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "湘南キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県平塚市北金目4-1-1",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "医学部一般選抜1次",
+    "source_url": "https://www.u-tokai.ac.jp/examination-admissions/examination-system/undergraduate-academic-medicine/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/800ef025b8a2e02d2580aeda3c1c9c73.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "TOC有明（コンベンションホール）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "医学部一般選抜1次",
+    "source_url": "https://www.u-tokai.ac.jp/examination-admissions/examination-system/undergraduate-academic-medicine/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/800ef025b8a2e02d2580aeda3c1c9c73.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "TKPガーデンシティPREMIUMみなとみらい",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区みなとみらい3-6-3 MMパークビル5-6F",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "医学部一般選抜1次",
+    "source_url": "https://www.u-tokai.ac.jp/examination-admissions/examination-system/undergraduate-academic-medicine/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/800ef025b8a2e02d2580aeda3c1c9c73.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "秀英予備校 名古屋本部校",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "愛知県名古屋市千種区内山3-23-12",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "医学部一般選抜1次",
+    "source_url": "https://www.u-tokai.ac.jp/examination-admissions/examination-system/undergraduate-academic-medicine/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/800ef025b8a2e02d2580aeda3c1c9c73.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "CIVI研修センター新大阪東",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市東淀川区東中島1-19-4 LUCID SQUARE SHIN-OSAKA 3･5･6･7階",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "医学部一般選抜1次",
+    "source_url": "https://www.u-tokai.ac.jp/examination-admissions/examination-system/undergraduate-academic-medicine/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/800ef025b8a2e02d2580aeda3c1c9c73.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "パピヨン24（ガスホール）",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "医学部一般選抜1次",
+    "source_url": "https://www.u-tokai.ac.jp/examination-admissions/examination-system/undergraduate-academic-medicine/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/800ef025b8a2e02d2580aeda3c1c9c73.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "伊勢原キャンパス",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県伊勢原市下糟屋143",
+    "dates": "2026/2/14,2026/2/15",
+    "remarks": "医学部一般選抜2次",
+    "source_url": "https://www.u-tokai.ac.jp/examination-admissions/examination-system/undergraduate-academic-medicine/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/800ef025b8a2e02d2580aeda3c1c9c73.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "河合塾 水戸校",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2026/2/7",
+    "remarks": "一般選抜（医学部以外）",
+    "source_url": "https://www.u-tokai.ac.jp/news-notice/1189230/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/17fcba022518e1065f4907ba4ac699f5.pdf"
+  },
+  {
+    "univ_name": "東海大学",
+    "test_venue_name": "TKPガーデンシティPREMIUMみなとみらい",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県横浜市西区みなとみらい3-6-3 MMパークビル5-6F",
+    "dates": "2026/2/2",
+    "remarks": "全学部統一選抜（前期）",
+    "source_url": "https://www.u-tokai.ac.jp/news-notice/1189230/",
+    "requirements_url": "https://www.u-tokai.ac.jp/uploads/2025/09/17fcba022518e1065f4907ba4ac699f5.pdf"
+  }
+]

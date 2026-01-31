@@ -1,0 +1,282 @@
+[
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市学園町1番地三蔵",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜 前期A/B・後期",
+    "source_url": "https://www.fukuyama-u.ac.jp/entrance/entrance-examination-general/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "社会連携推進センター（福山）",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "広島県福山市丸之内1丁目2番40号",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜 前期A/B・後期",
+    "source_url": "https://www.fukuyama-u.ac.jp/research/scpc/",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜 前期A/B・後期",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "山口会場",
+    "test_venue_pref": "山口県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "福岡県中小企業振興センター",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市博多区吉塚本町9-15",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/3/7",
+    "remarks": "一般選抜 前期A・後期",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_kouki.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "第一セントラルビル2号館（岡山）",
+    "test_venue_pref": "岡山県",
+    "test_venue_address": "岡山県岡山市北区本町6-30",
+    "dates": "2026/1/31,2026/2/1,2026/2/2,2026/2/3,2026/2/20,2026/3/7",
+    "remarks": "一般選抜 前期A/B・後期",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_B.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "宮崎県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A日程",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/1/31",
+    "remarks": "一般選抜 前期A日程（浜田）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "鳥取県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程（米子）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "大分県",
+    "test_venue_address": "",
+    "dates": "2026/2/1",
+    "remarks": "一般選抜 前期A日程（大分）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期A日程（静岡）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "京都府",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期A日程（京都）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "熊本県",
+    "test_venue_address": "",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期A日程（熊本）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜 前期A日程（名古屋）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "兵庫県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜 前期A日程（神戸）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "佐賀県",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜 前期A日程（佐賀）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "TKP新大阪ビジネスセンター",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "大阪府大阪市淀川区西中島5-13-9 新大阪MTビル1号館3F/4F",
+    "dates": "2026/1/31,2026/2/1,2026/3/7",
+    "remarks": "一般選抜 前期A・後期",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_kouki.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程（東京）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "沖縄県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程（那覇）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程（松山）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "高知県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程（高知）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "鹿児島県",
+    "test_venue_address": "",
+    "dates": "2026/1/31,2026/2/1",
+    "remarks": "一般選抜 前期A日程（鹿児島）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "愛媛県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程（今治）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "島根県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程（松江）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "香川県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程（高松）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/2,2026/2/3",
+    "remarks": "一般選抜 前期A日程（小倉）",
+    "source_url": "https://www.fukuyama-u.ac.jp/wp-content/uploads/2025/09/R8_zen_A.pdf",
+    "requirements_url": "https://edu.career-tasu.jp/p/digital_pamph/frame.aspx?FL=0&id=7541000-2-17"
+  },
+  {
+    "univ_name": "福山大学",
+    "test_venue_name": "アルカディア市ヶ谷（東京会場）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区九段北4-2-25",
+    "dates": "2025/10/28,2026/2/4,2026/3/12",
+    "remarks": "外国人留学生入試",
+    "source_url": "https://www.fukuyama-u.ac.jp/entrance/entrance-examination-foreign/",
+    "requirements_url": "https://www.fukuyama-u.ac.jp/entrance/entrance-examination-foreign/"
+  }
+]

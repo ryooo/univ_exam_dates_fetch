@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "福岡歯科大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "福岡県福岡市早良区田村2丁目15番1号",
+    "dates": "2025/11/15,2026/2/3,2026/3/5,2026/3/20",
+    "remarks": "一般A・B・C、共通テ1-3、総合型・推薦",
+    "source_url": "https://d.fdcnet.ac.jp/examinee/entrance.html",
+    "requirements_url": "https://www.d-pam.com/d.fdcnet/2515055/index.html?tm=1"
+  },
+  {
+    "univ_name": "福岡歯科大学",
+    "test_venue_name": "大阪試験場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜A日程のみ",
+    "source_url": "https://d.fdcnet.ac.jp/examinee/entrance.html",
+    "requirements_url": "https://www.d-pam.com/d.fdcnet/2515055/index.html?tm=1"
+  }
+]

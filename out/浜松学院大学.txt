@@ -1,0 +1,22 @@
+[
+  {
+    "univ_name": "浜松学院大学",
+    "test_venue_name": "浜松会場（浜松学院大学）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県浜松市中央区布橋三丁目2番3号",
+    "dates": "2026/2/3,2026/3/11",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.hamagaku.ac.jp/hgu/admission/examination/",
+    "requirements_url": "https://www.hamagaku.ac.jp/hgu/mgr/wp-content/themes/hamagaku_2022/admission/examination/document/exam-info.pdf"
+  },
+  {
+    "univ_name": "浜松学院大学",
+    "test_venue_name": "静岡会場（静岡県男女共同参画センター「あざれあ」）",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県静岡市駿河区馬渕1丁目17-1",
+    "dates": "2026/2/3",
+    "remarks": "一般選抜A日程 静岡会場",
+    "source_url": "https://www.hamagaku.ac.jp/hgu/news/8994/",
+    "requirements_url": "https://www.hamagaku.ac.jp/hgu/mgr/wp-content/themes/hamagaku_2022/admission/examination/document/exam-info.pdf"
+  }
+]

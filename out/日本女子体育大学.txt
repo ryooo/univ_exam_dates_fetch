@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "日本女子体育大学",
+    "test_venue_name": "本学キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都世田谷区北烏山8-19-1",
+    "dates": "2026/2/6",
+    "remarks": "一般選抜前期A・B方式（本学）",
+    "source_url": "https://www.jwcpe.ac.jp/college_info/access/",
+    "requirements_url": "https://www.jwcpe.ac.jp/admission/webentry/description/ippan/2026_ippan_generalselection.pdf"
+  }
+]

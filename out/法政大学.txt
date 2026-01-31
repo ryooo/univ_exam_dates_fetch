@@ -1,0 +1,162 @@
+[
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "市ケ谷キャンパス（富士見ゲートほか）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区富士見2-17-1",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250203_01",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "九段北校舎",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都千代田区九段北3-3-5",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://museum.hosei.ac.jp/news/2025/08/218.html",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "市ヶ谷田町校舎",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区市谷田町2-33",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://civil.ws.hosei.ac.jp/wp/tokuchou_enkaku/access",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "TKP市ヶ谷カンファレンスセンター",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都新宿区市谷八幡町8 TKP市ヶ谷ビル",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://www.kashikaigishitsu.net/facilitys/cc-ichigaya/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "小金井キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都小金井市梶野町3-7-2",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://www.hosei.ac.jp/koganei/access",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "TOC有明コンベンションホール",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都江東区有明3-5-7",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://saiji2.toc.co.jp/ariake/access/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "法政大学第二中・高等学校",
+    "test_venue_pref": "神奈川県",
+    "test_venue_address": "神奈川県川崎市中原区木月大町6-1",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "東京会場サテライト（一般選抜）",
+    "source_url": "https://hosei2.ed.jp/access",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "札幌会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "仙台会場",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "T日程・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "金沢会場",
+    "test_venue_pref": "石川県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "T日程・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "T日程・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "名古屋会場",
+    "test_venue_pref": "愛知県",
+    "test_venue_address": "",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "大阪会場",
+    "test_venue_pref": "大阪府",
+    "test_venue_address": "",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "広島会場",
+    "test_venue_pref": "広島県",
+    "test_venue_address": "",
+    "dates": "2026/2/5",
+    "remarks": "T日程・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  },
+  {
+    "univ_name": "法政大学",
+    "test_venue_name": "福岡会場",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "",
+    "dates": "2026/2/5,2026/2/7,2026/2/8,2026/2/9,2026/2/11,2026/2/12,2026/2/14,2026/2/16",
+    "remarks": "T日程・A方式・英語外部試験利用",
+    "source_url": "https://nyushi.hosei.ac.jp/news/article/20250904_01/",
+    "requirements_url": "https://www.guide.52school.com/export/sites/default/guidance/net-hosei/gid/pdf/hosei2026_youkou_all.pdf"
+  }
+]

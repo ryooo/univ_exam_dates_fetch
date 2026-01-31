@@ -1,0 +1,42 @@
+[
+  {
+    "univ_name": "日本医科大学",
+    "test_venue_name": "日本医科大学 武蔵境校舎",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "〒180-0023 東京都武蔵野市境南町1-7-1",
+    "dates": "2026/2/2,2026/2/28",
+    "remarks": "一般選抜 前期1次・後期1次",
+    "source_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026/pageindices/index48.html",
+    "requirements_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026"
+  },
+  {
+    "univ_name": "日本医科大学",
+    "test_venue_name": "ベルサール渋谷ファースト",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "〒150-0011 東京都渋谷区東1-2-20 住友不動産渋谷ファーストタワーB1・2F",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期1次 東京会場",
+    "source_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026/pageindices/index48.html",
+    "requirements_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026"
+  },
+  {
+    "univ_name": "日本医科大学",
+    "test_venue_name": "リファレンス駅東ビル5階",
+    "test_venue_pref": "福岡県",
+    "test_venue_address": "〒812-0013 福岡市博多区博多駅東1丁目16-14 リファレンス駅東ビル5階",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜 前期1次 福岡会場",
+    "source_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026/pageindices/index48.html",
+    "requirements_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026"
+  },
+  {
+    "univ_name": "日本医科大学",
+    "test_venue_name": "日本医科大学 千駄木校舎",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "〒113-8602 東京都文京区千駄木1-1-5",
+    "dates": "2026/2/10,2026/2/12,2026/3/9",
+    "remarks": "一般選抜 前期2次・後期2次",
+    "source_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026/pageindices/index50.html",
+    "requirements_url": "https://www.nms.ac.jp/college/nyushi/admission/digitalbook_b_2026"
+  }
+]

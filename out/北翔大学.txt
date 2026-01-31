@@ -1,0 +1,62 @@
+[
+  {
+    "univ_name": "北翔大学",
+    "test_venue_name": "北翔大学会場",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道江別市文京台23番地",
+    "dates": "2026/2/5,2026/3/6",
+    "remarks": "一般選抜A・B日程",
+    "source_url": "https://www.hokusho-u.ac.jp/admission/admission_navi/assay/",
+    "requirements_url": "https://www.hokusho-u.ac.jp/admission/pdf/2026/youkou_ippan2026.pdf"
+  },
+  {
+    "univ_name": "北翔大学",
+    "test_venue_name": "旭川会場（旭川市民文化会館）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道旭川市7条通9丁目",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokusho-u.ac.jp/admission/admission_navi/assay/",
+    "requirements_url": "https://www.hokusho-u.ac.jp/admission/pdf/2026/youkou_ippan2026.pdf"
+  },
+  {
+    "univ_name": "北翔大学",
+    "test_venue_name": "帯広会場（ソネビル本館）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道帯広市西6条南6丁目3番地",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokusho-u.ac.jp/admission/admission_navi/assay/",
+    "requirements_url": "https://www.hokusho-u.ac.jp/admission/pdf/2026/youkou_ippan2026.pdf"
+  },
+  {
+    "univ_name": "北翔大学",
+    "test_venue_name": "函館会場（サン・リフレ函館）",
+    "test_venue_pref": "北海道",
+    "test_venue_address": "北海道函館市大森町2番14号",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokusho-u.ac.jp/admission/admission_navi/assay/",
+    "requirements_url": "https://www.hokusho-u.ac.jp/admission/pdf/2026/youkou_ippan2026.pdf"
+  },
+  {
+    "univ_name": "北翔大学",
+    "test_venue_name": "青森会場（青森県労働福祉会館）",
+    "test_venue_pref": "青森県",
+    "test_venue_address": "青森県青森市本町3丁目3-11",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokusho-u.ac.jp/admission/admission_navi/assay/",
+    "requirements_url": "https://www.hokusho-u.ac.jp/admission/pdf/2026/youkou_ippan2026.pdf"
+  },
+  {
+    "univ_name": "北翔大学",
+    "test_venue_name": "東京会場（TKP上野駅前ビジネスセンター）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都台東区東上野3-18-6 第一吉沢ビル",
+    "dates": "2026/2/5",
+    "remarks": "一般選抜A日程",
+    "source_url": "https://www.hokusho-u.ac.jp/admission/admission_navi/assay/",
+    "requirements_url": "https://www.hokusho-u.ac.jp/admission/pdf/2026/youkou_ippan2026.pdf"
+  }
+]

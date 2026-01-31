@@ -1,0 +1,12 @@
+[
+  {
+    "univ_name": "東京未来大学",
+    "test_venue_name": "堀切キャンパス（本学）",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都足立区千住曙町34-12",
+    "dates": "2026/1/24,2026/2/12,2026/2/25,2026/3/11",
+    "remarks": "一般選抜筆記試験A～D日程",
+    "source_url": "https://www.best-shingaku.net/nyushi/school971.html",
+    "requirements_url": ""
+  }
+]

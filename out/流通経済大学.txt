@@ -1,0 +1,82 @@
+[
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "流通経済大学 新松戸キャンパス1号館 試験場",
+    "test_venue_pref": "千葉県",
+    "test_venue_address": "千葉県松戸市新松戸3-2-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/13,2026/2/14,2026/2/27,2026/3/11",
+    "remarks": "一般選抜(3/2科目,給付,問題選択,小論文)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  },
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "流通経済大学 龍ケ崎キャンパス 試験場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県龍ケ崎市120",
+    "dates": "2026/2/1,2026/2/2,2026/2/13,2026/2/14,2026/2/27",
+    "remarks": "一般選抜(3/2科目,給付,問題選択)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  },
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "ホテル・ザ・ウエストヒルズ・水戸",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市大工町1-2-1",
+    "dates": "2026/2/1,2026/2/13,2026/2/14",
+    "remarks": "一般選抜(3/2科目,給付,問題選択)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  },
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "トモスみとビル",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "茨城県水戸市大工町1-2-3",
+    "dates": "2026/2/2",
+    "remarks": "一般選抜(問題見てから選択型)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  },
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "TKP仙台西口 ビジネスセンター",
+    "test_venue_pref": "宮城県",
+    "test_venue_address": "宮城県仙台市青葉区本町1-5-31",
+    "dates": "2026/2/1,2026/2/2,2026/2/13,2026/2/14",
+    "remarks": "一般選抜(3/2科目,給付,問題選択)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  },
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "沼津リバーサイドホテル",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "静岡県沼津市上土町100-1",
+    "dates": "2026/2/1,2026/2/2,2026/2/13,2026/2/14",
+    "remarks": "一般選抜(3/2科目,給付,問題選択)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  },
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "ビエント高崎",
+    "test_venue_pref": "群馬県",
+    "test_venue_address": "群馬県高崎市問屋町2-7",
+    "dates": "2026/2/1,2026/2/2",
+    "remarks": "一般選抜(3/2科目,給付,問題選択)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  },
+  {
+    "univ_name": "流通経済大学",
+    "test_venue_name": "TKP宇都宮カンファレンスセンター",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "栃木県宇都宮市駅前通り1-3-1",
+    "dates": "2026/2/13,2026/2/14",
+    "remarks": "一般選抜(3/2科目,給付,問題選択)",
+    "source_url": "https://www.rku.ac.jp/with/examination/",
+    "requirements_url": "https://www.rku.ac.jp/with/shared/pdf/2026guidebook_general.pdf"
+  }
+]

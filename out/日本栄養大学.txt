@@ -1,0 +1,72 @@
+[
+  {
+    "univ_name": "日本栄養大学",
+    "test_venue_name": "坂戸キャンパス",
+    "test_venue_pref": "埼玉県",
+    "test_venue_address": "埼玉県坂戸市千代田3-9-21",
+    "dates": "2025/9/15,2025/10/19,2025/11/16,2026/2/1,2026/2/5",
+    "remarks": "総合1-3期,一般1-2期,社会人,私費",
+    "source_url": "https://www.eiyo.ac.jp/access/",
+    "requirements_url": "https://www.eiyo.ac.jp/uploads/2025/11/2026EIDAI_boshuyoko_new.pdf"
+  },
+  {
+    "univ_name": "日本栄養大学",
+    "test_venue_name": "駒込キャンパス",
+    "test_venue_pref": "東京都",
+    "test_venue_address": "東京都豊島区駒込3-24-3",
+    "dates": "2025/9/15,2025/10/19,2025/11/16,2026/2/1,2026/2/5,2026/2/25",
+    "remarks": "総合1-4期,一般1-2期,社会人,私費",
+    "source_url": "https://www.eiyo.ac.jp/access/",
+    "requirements_url": "https://www.eiyo.ac.jp/uploads/2025/11/2026EIDAI_boshuyoko_new.pdf"
+  },
+  {
+    "univ_name": "日本栄養大学",
+    "test_venue_name": "新潟会場",
+    "test_venue_pref": "新潟県",
+    "test_venue_address": "",
+    "dates": "2025/10/19,2026/2/1",
+    "remarks": "総合2期,一般1期",
+    "source_url": "https://www.eiyo.ac.jp/admissions/examinations/schedule/",
+    "requirements_url": "https://www.eiyo.ac.jp/uploads/2025/11/2026EIDAI_boshuyoko_new.pdf"
+  },
+  {
+    "univ_name": "日本栄養大学",
+    "test_venue_name": "静岡会場",
+    "test_venue_pref": "静岡県",
+    "test_venue_address": "",
+    "dates": "2025/10/19,2026/2/1",
+    "remarks": "総合2期,一般1期",
+    "source_url": "https://www.eiyo.ac.jp/admissions/examinations/schedule/",
+    "requirements_url": "https://www.eiyo.ac.jp/uploads/2025/11/2026EIDAI_boshuyoko_new.pdf"
+  },
+  {
+    "univ_name": "日本栄養大学",
+    "test_venue_name": "宇都宮会場",
+    "test_venue_pref": "栃木県",
+    "test_venue_address": "",
+    "dates": "2025/10/19,2026/2/1",
+    "remarks": "総合2期,一般1期",
+    "source_url": "https://www.eiyo.ac.jp/admissions/examinations/schedule/",
+    "requirements_url": "https://www.eiyo.ac.jp/uploads/2025/11/2026EIDAI_boshuyoko_new.pdf"
+  },
+  {
+    "univ_name": "日本栄養大学",
+    "test_venue_name": "長野会場",
+    "test_venue_pref": "長野県",
+    "test_venue_address": "",
+    "dates": "2025/10/19,2026/2/1",
+    "remarks": "総合2期,一般1期",
+    "source_url": "https://www.eiyo.ac.jp/admissions/examinations/schedule/",
+    "requirements_url": "https://www.eiyo.ac.jp/uploads/2025/11/2026EIDAI_boshuyoko_new.pdf"
+  },
+  {
+    "univ_name": "日本栄養大学",
+    "test_venue_name": "水戸会場",
+    "test_venue_pref": "茨城県",
+    "test_venue_address": "",
+    "dates": "2025/10/19",
+    "remarks": "総合2期",
+    "source_url": "https://www.eiyo.ac.jp/admissions/examinations/schedule/",
+    "requirements_url": "https://www.eiyo.ac.jp/uploads/2025/11/2026EIDAI_boshuyoko_new.pdf"
+  }
+]
