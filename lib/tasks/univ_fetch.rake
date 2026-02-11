@@ -7,7 +7,7 @@ namespace :univ do
   desc 'Fetch university exam dates using ChatGPT API'
   task fetch: :environment do
     # APIキー（ハードコード）
-    api_key = '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'
+    api_key = 'sk-proj-(valid token)（トークン無効化済み）'
 
     # OpenAI APIのエンドポイント
     api_url = 'https://api.openai.com/v1/responses'
